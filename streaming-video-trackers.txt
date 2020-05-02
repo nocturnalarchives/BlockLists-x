@@ -118,3 +118,5 @@ nrdp97-appboot.netflix.com
 nrdp98-appboot.netflix.com
 nrdp99-appboot.netflix.com
 push.prod.netflix.com
+sanalytics.disneyplus.com
+analytics.disney.go.com

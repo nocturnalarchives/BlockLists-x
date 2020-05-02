@@ -7,6 +7,7 @@
   <li><strong><a href="https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/streaming-video-trackers.txt" target="_blank">Streaming Video Advertisers and Trackers</a></strong> - Adobe, Netflix and other miscellaneous streaming services advertisers and trackers.</li>
     <ul>
       <li><strong><a href="https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/adobe-trackers.txt" target="_blank">Adobe Advertising Trackers</a></strong></li>
+      <li><strong><a href="https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/disney-plus-trackers.txt" target="_blank">Disney+ Advertisers and Trackers</a></strong></li>
       <li><strong><a href="https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/netflix-trackers.txt" target="_blank">Netflix Trackers</a></strong></li>
     </ul>
 
@@ -19,7 +20,7 @@
     <li><strong><a href="" target="_blank">List Name Advertisers and Trackers</a></strong> - description here.</li>
     <li><strong><a href="" target="_blank">List Name Advertisers and Trackers</a></strong> - description here.</li>
 
-    <li><strong><a href="" target="_blank">List Name Advertisers and Trackers</a></strong></li>
+
     <li><strong><a href="" target="_blank">List Name Advertisers and Trackers</a></strong></li>
     <li><strong><a href="" target="_blank">List Name Advertisers and Trackers</a></strong></li>
     <li><strong><a href="" target="_blank">List Name Advertisers and Trackers</a></strong></li>
