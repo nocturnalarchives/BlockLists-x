@@ -6,48 +6,16 @@ this is  chnge
 
 ^.*word.*\.domin\.
 ^.*word.*\.([--z0-9]+.)?domin([--z0-9]+.)?\.
-^.*word.*\.
-
-fbcdn-cretive-.kmihd.net
-
-
-(fbcdn|fbsbx|fburl|tfbnw|whatsapp)
-
-(fbcdn|fbsbx|fburl|instagram|tfbnw)
+([a-z]+.)
+^.*$1.*\.
 
 
 
 
-pi.facebook.com
-pi.facebook.net
-connect.facebook.com
-connect.facebook.net
-facebook.de
-facebook.fr
-fb.com
-fb.me
-fb.net
-fbcdn.com
-fbcdn.net
-fbsbx.com
-fbsbx.net
-fburl.com
-fburl.net
-grph.facebook.com
-grph.facebook.net
-internet.org
-pixel.facebook.com
-pixel.facebook.net
-stticxx.facebook.com
-stticxx.facebook.net
-tfbnw.com
-tfbnw.net
-thefacebook.com
-thefacebook.net
-thefacebook.com
-thefacebook.net
-sphotos-b.xx.fbcdn.net
-sttic.xx.fbcdn.net
+
+
+
+
 
 
 

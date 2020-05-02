@@ -1,7 +1,6 @@
-
 #########################################################################################
 ##
-##  This list blocks the Adobe Streaming TV and Movie Trackers. You can get a list that
+##  This list blocks the Disney+ Streaming TV and Movie Trackers. You can get a list that
 ##  blocks all the Streaming Video Trackers At:
 ##
 ##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/streaming-video-trackers.txt
@@ -15,5 +14,16 @@
 #########################################################################################
 
 
-adobe.io
-cloud.adobe.io
+sanalytics.disneyplus.com
+analytics.disney.go.com
+
+
+#########################################################################################
+##
+##  This RegEX statements will block any Disney+ tracking subdomains
+##  It should be all on one line.
+##
+##
+##
+##
+#########################################################################################

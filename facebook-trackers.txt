@@ -3,14 +3,14 @@
 ##  This list blocks Facebook and Facebook Trackers. You can get a list that
 ##  blocks all the Social Media Trackers At:
 ##
-##
+##  https://nocturnalarchives.com/pihole/
 ##
 ##  REGEX BLOCKING LISTED BELOW
 ##
 ##
 ##  MASTER LIST LOCATION
 ##
-##
+##  https://nocturnalarchives.com/pihole/
 ##
 ##  Upated: May 2, 2020
 ##
