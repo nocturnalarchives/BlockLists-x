@@ -1,14 +1,53 @@
-this is a change
+this is  chnge
 
 ^.*metric.*\.sonos\.com$
 
-^.*(clietnts?|data|deactivat(e|ed|es|ion)|dcapps|info(rmation)?|keys?|metri(c|x)s?|recycl(e|ed|or|ing)|sonar|stat(s|istics?)|users?).*([-a-z0-9]+.)?sonos([-a-z0-9]+.)?\.
 
 
-^.*(firmware|updat(e|ed|er|es|ing)|upgrad(e|ed|er|es|ing)).*([-a-z0-9]+.)?sonos([-a-z0-9]+.)?\.
+^.*word.*\.domin\.
+^.*word.*\.([--z0-9]+.)?domin([--z0-9]+.)?\.
+^.*word.*\.
 
-customerevents
+fbcdn-cretive-.kmihd.net
 
-nrdp52-appboot.netflix.com
+
+(fbcdn|fbsbx|fburl|tfbnw|whatsapp)
+
+(fbcdn|fbsbx|fburl|instagram|tfbnw)
+
+
+
+
+pi.facebook.com
+pi.facebook.net
+connect.facebook.com
+connect.facebook.net
+facebook.de
+facebook.fr
+fb.com
+fb.me
+fb.net
+fbcdn.com
+fbcdn.net
+fbsbx.com
+fbsbx.net
+fburl.com
+fburl.net
+grph.facebook.com
+grph.facebook.net
+internet.org
+pixel.facebook.com
+pixel.facebook.net
+stticxx.facebook.com
+stticxx.facebook.net
+tfbnw.com
+tfbnw.net
+thefacebook.com
+thefacebook.net
+thefacebook.com
+thefacebook.net
+sphotos-b.xx.fbcdn.net
+sttic.xx.fbcdn.net
+
 
 

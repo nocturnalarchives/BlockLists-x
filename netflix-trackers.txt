@@ -3,7 +3,7 @@
 ##  This list blocks the Netflix Streaming TV and Movie Trackers. You can get a list that
 ##  blocks all the Streaming Video Trackers At:
 ##
-##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/streaming-video-trackers.txt
 ##
 ##  MASTER LIST LOCATION
 ##
