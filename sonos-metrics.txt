@@ -1,0 +1,41 @@
+-----------------------------------------------------------------------------------------
+#########################################################################################
+##
+##  This list blocks all the known Sonos Tracking, Metrics, and Client Data
+##  domains and subdomains. Add the regex versions at the bottom of the page to
+##  future proof your blocking. If you want to block Sonos Updates use this URL
+##
+##
+##
+##  Upated: May 2, 2020
+##
+#########################################################################################
+
+#########################################################################################
+##
+##  SONOS WHITELIST DOMAINS
+##
+##  feature-config.sslauth.sonos.com
+##  oauth.sslauth.sonos.com
+##  update-services.sonos.com
+##  service-catalog.ws.sonos.com
+##
+#########################################################################################
+
+msmetrics.ws.sonos.com
+msmetrics-test.ws.sonos.com
+clientdata.sslauth.sonos.com
+dcapps.ws.sonos.com
+keys.ws.sonos.com
+sonar.ws.sonos.com
+
+
+#########################################################################################
+##
+##  This RegEX statements will block any sonos metrics and client data subdomains
+##  in case Sonos changes names to get around blocking. It should be all on one line.
+##
+##  ^.*(clietnts?|data|deactivat(e|ed|es|ion)|dcapps|info(rmation)?|keys?|metri(c|x)s?|recycl(e|ed|or|ing)|sonar|stat(s|istics?)|users?).*([-a-z0-9]+.)?sonos([-a-z0-9]+.)?\.
+##
+##
+#########################################################################################
