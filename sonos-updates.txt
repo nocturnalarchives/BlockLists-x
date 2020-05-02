@@ -25,20 +25,22 @@
 ##
 #########################################################################################
 
-msmetrics.ws.sonos.com
-msmetrics-test.ws.sonos.com
-clientdata.sslauth.sonos.com
-dcapps.ws.sonos.com
-keys.ws.sonos.com
-sonar.ws.sonos.com
-
+update.sonos.com
+updates.sonos.com
+update-firmware.sonos.com
+update.ws.sonos.com
+updates.ws.sonos.com
+update-firmware.ws.sonos.com
+update.sslauth.sonos.com
+updates.sslauth.sonos.com
+update-firmware.sslauth.sonos.com
 
 #########################################################################################
 ##
 ##  This RegEX statements will block any Sonos Update subdomains
 ##  in case Sonos changes names to get around blocking. It should be all on one line.
 ##
-##  
+##
 ##
 ##
 #########################################################################################

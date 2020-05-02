@@ -5,7 +5,7 @@
 ##  domains and subdomains. Add the regex versions at the bottom of the page to
 ##  future proof your blocking. If you want to block Sonos Updates use this URL
 ##
-##  
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/sonos-updates.txt
 ##
 ##  Upated: May 2, 2020
 ##
@@ -28,7 +28,6 @@ clientdata.sslauth.sonos.com
 dcapps.ws.sonos.com
 keys.ws.sonos.com
 sonar.ws.sonos.com
-
 
 #########################################################################################
 ##
