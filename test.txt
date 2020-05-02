@@ -1,1 +1,8 @@
-this is a change 
+this is a change
+
+^.*metric.*\.sonos\.com$
+
+^.*(clietnts?|data|deactivat(e|ed|es|ion)|dcapps|info(rmation)?|keys?|metri(c|x)s?|recycl(e|ed|or|ing)|sonar|stat(s|istics?)|users?).*([-a-z0-9]+.)?sonos([-a-z0-9]+.)?\.
+
+
+^.*(firmware|updat(e|ed|er|es|ing)|upgrad(e|ed|er|es|ing)).*([-a-z0-9]+.)?sonos([-a-z0-9]+.)?\.
