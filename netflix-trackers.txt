@@ -1,6 +1,9 @@
 #########################################################################################
 ##
-##  This list blocks Streaming TV and Movie Trackers.
+##  This list blocks the Netflix Streaming TV and Movie Trackers. You can get a list that
+##  blocks all the Streaming Video Trackers At:
+##
+##
 ##
 ##  MASTER LIST LOCATION
 ##
@@ -10,8 +13,6 @@
 ##
 #########################################################################################
 
-adobe.io
-cloud.adobe.io
 android.prod.cloud.netflix.com
 customerevents.netflix.com
 ichnaea.netflix.com

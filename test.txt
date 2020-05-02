@@ -6,3 +6,9 @@ this is a change
 
 
 ^.*(firmware|updat(e|ed|er|es|ing)|upgrad(e|ed|er|es|ing)).*([-a-z0-9]+.)?sonos([-a-z0-9]+.)?\.
+
+customerevents
+
+nrdp52-appboot.netflix.com
+
+
