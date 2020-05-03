@@ -11,13 +11,19 @@ this is  chnge
 
 ^.* word .*\.
 ^.* word .*\.
+^.* word .*\.
+^.* word .*\.
+
+^.* word .*\.
+^.*adnxs.*\.
 
 
-^.*accdab.*\.
 
 
 
-\bad(s|v)?\b
+
+
+
 
 
 
