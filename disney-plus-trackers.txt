@@ -23,7 +23,6 @@ analytics.disney.go.com
 ##  This RegEX statements will block any Disney+ tracking subdomains
 ##  It should be all on one line.
 ##
-##
-##
+##  (\.|^)([a-z])?-?analytics?\.disney.*\.
 ##
 #########################################################################################

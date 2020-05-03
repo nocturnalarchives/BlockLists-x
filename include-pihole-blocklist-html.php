@@ -1,5 +1,7 @@
 <h1>PiHole Blocklists</h1>
 <ul>
+  <li><strong><a href="" target="_blank">Big Tech Advertisers and Trackers</a></strong> - Aggresivley blocks all the Big Tech Trackers.</li>
+    <li><strong><a href="" target="_blank">Apple Advertisers and Trackers</a></strong></li>
   <li><strong><a href="" target="_blank">Social Media Advertisers and Trackers</a></strong> - Facebook, Instagram, Whatsapp and other miscellaneous streaming services advertisers and trackers.</li>
     <ul>
       <li><strong><a href="https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/facebook-trackers.txt" target="_blank">Facebook Advertisers and Trackers</a></strong></li>
