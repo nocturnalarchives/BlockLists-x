@@ -393,3 +393,18 @@ news.apple.com
 news.apple.com.akadns.com
 news.origin-apple.com
 www.appleiphonecell.com
+
+
+#########################################################################################
+##
+##  This RegEX statements will block any Apple metrics and client data subdomains.
+##  Each entry should be on one line.
+##
+##  ^.*(aidc|apple|appleiphonecell|captive|clientflow|configuration|gs-loc|gs-loc-new|gsp-ssl|gsp([0-9])([0-9])?-ssl|health|\biphone\b|iphone-ld|iphonesubmissions?|lcdn-locator|lcdn-locator-new|\bls\b|ls-apple|ls-new|metrics?|\bnews\b|origin-apple).*\.(apple|origin-apple|akadns)\.
+##
+##
+#########################################################################################
+
+
+
+
