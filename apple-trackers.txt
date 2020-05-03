@@ -4,7 +4,7 @@
 ##  This list blocks the Apple Trackers. You can get a list that
 ##  blocks all the Big Tech Trackers At:
 ##
-##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/tech-trackers.txt
 ##
 ##  MASTER LIST LOCATION
 ##

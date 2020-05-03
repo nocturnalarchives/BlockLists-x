@@ -31,12 +31,15 @@
 update.sonos.com
 updates.sonos.com
 update-firmware.sonos.com
+update-software.sonos.com
 update.ws.sonos.com
 updates.ws.sonos.com
 update-firmware.ws.sonos.com
+update-software.ws.sonos.com
 update.sslauth.sonos.com
 updates.sslauth.sonos.com
 update-firmware.sslauth.sonos.com
+update-software.sslauth.sonos.com
 
 #########################################################################################
 ##

@@ -32,6 +32,7 @@ clientdata.sslauth.sonos.com
 dcapps.ws.sonos.com
 keys.ws.sonos.com
 sonar.ws.sonos.com
+ab-us.ws.sonos.com
 
 #########################################################################################
 ##
