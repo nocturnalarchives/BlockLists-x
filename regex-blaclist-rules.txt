@@ -150,6 +150,7 @@
 ^.*pixel.*\.
 ^.*([a-z0-9])([-a-z0-9])?-?adserver?s?.*\.
 ^.*adnxs.*\.
+^.*bidder.*\.
 ^.*google-?syndication.*\.
 ^.*googleadservices.*\.
 ^.*graphs?.*\.

@@ -13,14 +13,7 @@ this is  chnge
 ^.* word .*\.
 ^.* word .*\.
 ^.* word .*\.
-
-teads
-trustx
-criteo
-
-teads.tv
-
-
-
+^.* word .*\.
+^.* word .*\.
 
 

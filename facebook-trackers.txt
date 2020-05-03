@@ -1,20 +1,23 @@
 #########################################################################################
 ##
-##  This list blocks Facebook and Facebook Trackers. You can get a list that
-##  blocks all the Social Media Trackers At:
+##  This list blocks the Google Ads and Trackers.
+##  Additional Big Tech Trackers are available at:
 ##
-##  https://nocturnalarchives.com/pihole/
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/tech-trackers.txt
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/apple-trackers.txt
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/facebook-trackers.txt
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/google-trackers.txt
 ##
-##  REGEX BLOCKING LISTED BELOW
 ##
 ##
 ##  MASTER LIST LOCATION
 ##
 ##  https://nocturnalarchives.com/pihole/
 ##
-##  Upated: May 2, 2020
+##  Upated: May 3, 2020
 ##
 #########################################################################################
+
 
 0-edge-chat.facebook.com
 0.beta.facebook.com
