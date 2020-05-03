@@ -393,3 +393,16 @@ www.appleiphonecell.com
 jetpack.wordpress.com
 jetpack.com
 public-api.wordpress.com
+gravatar.com
+www.gravatar.com
+0.gravatar.com
+1.gravatar.com
+2.gravatar.com
+3.gravatar.com
+4.gravatar.com
+5.gravatar.com
+6.gravatar.com
+7.gravatar.com
+8.gravatar.com
+9.gravatar.com
+10.gravatar.com
