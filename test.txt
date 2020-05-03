@@ -2,7 +2,7 @@ this is  chnge
 
 ^.*metric.*\.sonos\.com$
 
-
+(^|\.)
 
 ^.*word.*\.domin\.
 ^.*word.*\.([--z0-9]+.)?domin([--z0-9]+.)?\.
@@ -10,6 +10,14 @@ this is  chnge
 ^.*$1.*\.
 
 ^.* word .*\.
+^.* word .*\.
+
+
+^.*accdab.*\.
+
+
+
+\bad(s|v)?\b
 
 
 

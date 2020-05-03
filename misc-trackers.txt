@@ -1,0 +1,19 @@
+#########################################################################################
+##
+##  This list blocks Streaming TV and Movie Trackers.
+##
+##  MASTER LIST LOCATION
+##
+##  https://nocturnalarchives.com/pihole/
+##
+##  Upated: May 2, 2020
+##
+#########################################################################################
+
+conversions.appsflyer.com
+stats.appsflyer.com
+t.appsflyer.com
+firebaselogging-pa.googleapis.com
+wp.pusherapps.com
+events.mapbox.com
+config.mapbox.com

@@ -17,3 +17,6 @@
 
 adobe.io
 cloud.adobe.io
+dtm.adobe.com
+dtm.adobe.io
+adobedtm.com

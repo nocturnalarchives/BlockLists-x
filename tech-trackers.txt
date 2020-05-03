@@ -390,3 +390,6 @@ news.apple.com
 news.apple.com.akadns.com
 news.origin-apple.com
 www.appleiphonecell.com
+jetpack.wordpress.com
+jetpack.com
+public-api.wordpress.com
