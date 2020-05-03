@@ -5,8 +5,8 @@ this is  chnge
 (^|\.)
 
 ^.*word.*\.domin\.
-^.*word.*\.([--z0-9]+.)?domin([--z0-9]+.)?\.
-([a-z]+.)
+^.*word.*\.(trust-[--z0-9].teads.tv.org+.)?domin(trust-[--z0-9].teads.tv.org+.)?\.
+(trust-[a-z].teads.tv.org+.)
 ^.*$1.*\.
 
 ^.* word .*\.
@@ -14,19 +14,11 @@ this is  chnge
 ^.* word .*\.
 ^.* word .*\.
 
-^.* word .*\.
-^.*adnxs.*\.
+teads
+trustx
+criteo
 
-
-
-
-
-
-
-
-
-
-
+teads.tv
 
 
 
