@@ -25,22 +25,5 @@ this is  chnge
 ^.* word .*\.
 ^.* word .*\.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-cloudapp.net
-
+kissmetrics.com
+www.verizonmedia.com

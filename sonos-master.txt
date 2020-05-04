@@ -5,7 +5,7 @@
 ##
 ##
 ##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/sonos-metrics-trackers.txt
-##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/sonos-updates-trackers.txt
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/sonos-updates.txt
 ##
 ##  MASTER LIST LOCATION
 ##

@@ -2950,4 +2950,15 @@ zw.google.com
 zx.google.com
 zy.google.com
 zz.google.com
+googleadservices.co.uk
+googleadservices.com
+googleadservices.org
+googleadservices.ru
+googleadsserving.cn
+www.googleadservices.co.uk
+www.googleadservices.com
+www.googleadservices.org
+www.googleadservices.ru
+www.googleadsserving.cn
+marketingplatform.google.com
 
