@@ -5173,3 +5173,7 @@ ocsp.rootca1.amazontrust.com
 s.amazon-adsystem.com
 settings.crashlytics.com
 wl.amazon-dss.com
+www.kissmetrics.com
+kissmetrics.com
+www.verizonmedia.com
+verizonmedia.com

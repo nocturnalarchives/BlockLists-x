@@ -7667,3 +7667,7 @@ zx.google.com
 zy.google.com
 zz.google.com
 metrics.ticketmaster.com
+www.kissmetrics.com
+kissmetrics.com
+www.verizonmedia.com
+verizonmedia.com

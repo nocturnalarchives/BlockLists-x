@@ -57,3 +57,7 @@ www.pardot.com
 www.pluto.tv
 www.uservoice.com
 yahoo.uservoice.com
+www.kissmetrics.com
+kissmetrics.com
+www.verizonmedia.com
+verizonmedia.com
