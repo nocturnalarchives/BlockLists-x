@@ -1,0 +1,59 @@
+#########################################################################################
+##
+##  This list blocks Facebook Ads and Trackers.
+##  Big Tech list available at
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/tech-trackers.txt
+##
+##  MASTER LIST LOCATION
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/master-block-list.txt
+##
+##  Upated: May 4, 2020
+##
+#########################################################################################
+
+0.gravatar.com
+1.gravatar.com
+10.gravatar.com
+2.gravatar.com
+3.gravatar.com
+4.gravatar.com
+5.gravatar.com
+6.gravatar.com
+7.gravatar.com
+8.gravatar.com
+9.gravatar.com
+adobedtm.com
+api.pluto.tv
+auth.adobe.com
+bc.yahoo.com
+beap.bc.yahoo.com
+beap.gemini.yahoo.com
+clusters.pluto.tv
+csc.beap.bc.yahoo.com
+disqus.com
+entitlement.auth.adobe.com
+everything.yahoo.com
+gemini.yahoo.com
+gravatar.com
+images.pluto.tv
+jetpack.com
+jetpack.wordpress.com
+literaryhub.disqus.com
+login.yahoo.com
+pardot.com
+pi.pardot.com
+pluto.tv
+public-api.wordpress.com
+r-login.wordpress.com
+service-channels.clusters.pluto.tv
+sp.auth.adobe.com
+stats.wp.com
+uservoice.com
+www.disqus.com
+www.gravatar.com
+www.pardot.com
+www.pluto.tv
+www.uservoice.com
+yahoo.uservoice.com

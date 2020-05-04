@@ -1,9 +1,11 @@
 #########################################################################################
 ##
-##  This list blocks Sonos Trackers
-##  You can get a list that blocks all the Sonos Trackers and Updates At:
+##  This list blocks Sonos Trackers and Updates.
+##  Individual Sonos lists are available at:
 ##
-##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/sonos-master-trackers.txt
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/sonos-metrics-trackers.txt
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/sonos-updates-trackers.txt
 ##
 ##  MASTER LIST LOCATION
 ##
@@ -12,7 +14,6 @@
 ##  Upated: May 4, 2020
 ##
 #########################################################################################
-
 
 #########################################################################################
 ##
@@ -25,13 +26,25 @@
 ##
 #########################################################################################
 
-msmetrics.ws.sonos.com
-msmetrics-test.ws.sonos.com
+ab-us.ws.sonos.com
 clientdata.sslauth.sonos.com
 dcapps.ws.sonos.com
 keys.ws.sonos.com
+msmetrics-test.ws.sonos.com
+msmetrics.ws.sonos.com
 sonar.ws.sonos.com
-ab-us.ws.sonos.com
+update-firmware.sonos.com
+update-firmware.sslauth.sonos.com
+update-firmware.ws.sonos.com
+update-software.sonos.com
+update-software.sslauth.sonos.com
+update-software.ws.sonos.com
+update.sonos.com
+update.sslauth.sonos.com
+update.ws.sonos.com
+updates.sonos.com
+updates.sslauth.sonos.com
+updates.ws.sonos.com
 
 #########################################################################################
 ##

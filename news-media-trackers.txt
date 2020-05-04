@@ -1,9 +1,9 @@
 #########################################################################################
 ##
-##  This list blocks the Adobe Streaming TV and Movie Trackers.
+##  This list blocks the News and Media Ads and Trackers.
 ##  You can get a list that blocks all the Streaming Video Trackers At:
 ##
-##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/streaming-video-trackers.txt
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/misc-trackers.txt
 ##
 ##  MASTER LIST LOCATION
 ##
@@ -13,12 +13,7 @@
 ##
 #########################################################################################
 
-adobe.io
-adobedtm.com
-auth.adobe.com
-cloud.adobe.io
-dtm.adobe.com
-dtm.adobe.io
-entitlement.auth.adobe.com
-sp.auth.adobe.com
-
+nprapps.org
+pym.nprapps.org
+subscribe.washingtonpost.com
+www.nprapps.org

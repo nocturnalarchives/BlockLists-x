@@ -1,0 +1,31 @@
+#########################################################################################
+##
+##  This list blocks the Apps Ads and Trackers.
+##  You can get a list that blocks all the Streaming Video Trackers At:
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/misc-trackers.txt
+##
+##  MASTER LIST LOCATION
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/master-block-list.txt
+##
+##  Upated: May 4, 2020
+##
+#########################################################################################
+
+cdns.us1.gigya.com
+config.mapbox.com
+conversions.appsflyer.com
+events.mapbox.com
+firebaselogging-pa.googleapis.com
+gigya.com
+pdk.theplatform.com
+qualtrics.com
+siteintercept.qualtrics.com
+stats.appsflyer.com
+t.appsflyer.com
+theplatform.com
+us1.gigya.com
+wp.pusherapps.com
+www.gigya.com
+www.theplatform.com

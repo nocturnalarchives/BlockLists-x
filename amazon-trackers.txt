@@ -1,12 +1,9 @@
 #########################################################################################
 ##
-##  This list blocks Streaming Service Ads and Trackers.
-##  Individual Streaming Service Ads and Tracker lists  are available at:
+##  This list blocks Amazon Ads and Trackers.
+##  Big Tech list available at
 ##
-##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/adobe-trackers.txt
-##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/amazon-trackers.txt
-##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/disney-plus-trackers.txt
-##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/netflix-trackers.txt
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/tech-trackers.txt
 ##
 ##  MASTER LIST LOCATION
 ##
@@ -16,22 +13,6 @@
 ##
 #########################################################################################
 
-adobe.io
-adobedtm.com
-analytics.disney.go.com
-android.prod.cloud.netflix.com
-auth.adobe.com
-cloud.adobe.io
-customerevents.netflix.com
-dtm.adobe.com
-dtm.adobe.io
-entitlement.auth.adobe.com
-ichnaea.netflix.com
-nrdp.nccp.netflix.com
-nrdp.prod.ftl.netflix.com
-push.prod.netflix.com
-sanalytics.disneyplus.com
-sp.auth.adobe.com
 6pm.com
 abebos.com
 aboutamazon.com

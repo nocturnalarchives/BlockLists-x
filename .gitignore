@@ -1,7 +1,9 @@
-
+@file-list.txt
 pihole-blocklist.html
 test.txt
 test-2.txt
 temp.txt
 temp-2.txt
 temp-3.txt
+include-pihole-blocklist-html.php
+

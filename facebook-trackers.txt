@@ -1,23 +1,17 @@
 #########################################################################################
 ##
-##  This list blocks the Google Ads and Trackers.
-##  Additional Big Tech Trackers are available at:
+##  This list blocks Facebook Ads and Trackers.
+##  Big Tech list available at
 ##
 ##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/tech-trackers.txt
-##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/apple-trackers.txt
-##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/facebook-trackers.txt
-##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/google-trackers.txt
-##
-##
 ##
 ##  MASTER LIST LOCATION
 ##
-##  https://nocturnalarchives.com/pihole/
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/master-block-list.txt
 ##
-##  Upated: May 3, 2020
+##  Upated: May 4, 2020
 ##
 #########################################################################################
-
 
 0-edge-chat.facebook.com
 0.beta.facebook.com
@@ -824,6 +818,7 @@ fr-ca.facebook.com
 fr-fr.facebook.com
 fr-fr.o.facebook.com
 fr.facebook.com
+frame.ly
 free.beta.facebook.com
 free.facebook.com
 free.freebasics.com
@@ -1438,6 +1433,7 @@ www.facebook.de
 www.facebook.fr
 www.fbcdn.com
 www.fbcdn.net
+www.frame.ly
 www.graph.facebook.com
 www.login.facebook.com
 www.prod.facebook.com

@@ -1,8 +1,9 @@
 this is  chnge
 
-^.*metric.*\.sonos\.com$
+^.*metric.*\.sonos\\.com$$
 
 (^|\.)
+(^|\.)([-a-z0-9])?\.?
 
 ^.*word.*\.domin\.
 ^.*word.*\.(trust-[--z0-9].teads.tv.org+.)?domin(trust-[--z0-9].teads.tv.org+.)?\.
@@ -15,5 +16,31 @@ this is  chnge
 ^.* word .*\.
 ^.* word .*\.
 ^.* word .*\.
+^.* word .*\.
+^.* word .*\.
+^.* word .*\.
+^.* word .*\.
+^.* word .*\.
+^.* word .*\.
+^.* word .*\.
+^.* word .*\.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cloudapp.net
 

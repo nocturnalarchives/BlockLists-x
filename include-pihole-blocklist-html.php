@@ -15,7 +15,7 @@
     <li><strong><a href="https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/sonos-metrics.txt" target="_blank">Sonos Trackers</a></strong> - Sonos listening data and metrics trackers.</li>
     <li><strong><a href="https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/sonos-updates.txt" target="_blank">Sonos Update Domains and Subdomains</a></strong> - This list will block your Sonos eqipment from recieving updates.</li>
 
-    
+
     <li><strong><a href="" target="_blank">List Name Advertisers and Trackers</a></strong> - description here.</li>
     <li><strong><a href="" target="_blank">List Name Advertisers and Trackers</a></strong> - description here.</li>
     <li><strong><a href="" target="_blank">List Name Advertisers and Trackers</a></strong> - description here.</li>

@@ -1,18 +1,17 @@
 #########################################################################################
 ##
-##  This list blocks the Disney+ Streaming TV and Movie Trackers. You can get a list that
-##  blocks all the Streaming Video Trackers At:
+##  This list blocks the Adobe Streaming TV and Movie Trackers.
+##  You can get a list that blocks all the Streaming Video Trackers At:
 ##
 ##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/streaming-video-trackers.txt
 ##
 ##  MASTER LIST LOCATION
 ##
-##  https://nocturnalarchives.com/pihole/
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/master-block-list.txt
 ##
-##  Upated: May 2, 2020
+##  Upated: May 4, 2020
 ##
 #########################################################################################
-
 
 sanalytics.disneyplus.com
 analytics.disney.go.com

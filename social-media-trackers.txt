@@ -1,13 +1,16 @@
 #########################################################################################
 ##
-##  This list blocks Social Media Trackers.
+##  This list blocks Social Media Ads and Trackers.
+##  Individual Social Media Ads and Tracker lists  are available at:
 ##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/facebook-trackers.txt
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/pinterest-trackers.txt
 ##
 ##  MASTER LIST LOCATION
 ##
-##  https://nocturnalarchives.com/pihole/
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/master-block-list.txt
 ##
-##  Upated: May 2, 2020
+##  Upated: May 4, 2020
 ##
 #########################################################################################
 
@@ -816,6 +819,7 @@ fr-ca.facebook.com
 fr-fr.facebook.com
 fr-fr.o.facebook.com
 fr.facebook.com
+frame.ly
 free.beta.facebook.com
 free.facebook.com
 free.freebasics.com
@@ -1430,6 +1434,7 @@ www.facebook.de
 www.facebook.fr
 www.fbcdn.com
 www.fbcdn.net
+www.frame.ly
 www.graph.facebook.com
 www.login.facebook.com
 www.prod.facebook.com
@@ -1712,7 +1717,8 @@ zh-cn.connect.facebook.com
 zh-cn.facebook.com
 zh-hk.facebook.com
 zh-tw.facebook.com
-
+www.pinterest.com
+pinterest.com
 
 #########################################################################################
 ##
