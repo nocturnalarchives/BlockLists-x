@@ -20,10 +20,59 @@ this is  chnge
 ^.* word .*\.
 ^.* word .*\.
 ^.* word .*\.
-^.* word .*\.
+
+www..com
 
 
 
 
 
+	tlx.3lift.com
 
+	cdn.irsdn.net
+
+m.stripe.network
+
+
+bfmio
+reachms.bfmio.com
+	cdn..com
+
+
+
+
+tools.ietf.org
+
+w.prd.map.nytimes.com
+
+addup.com
+secure.force.com
+apps.npr.org
+www.ugdturner.com
+ugdturner.com
+player.cnevids.com
+www.cnevids.com
+cnevids.com
+
+www.reftagger.com
+
+
+
+reachms..com
+
+http://atlasws.duckdns.org:8123
+
+
+40.659160
+-73.512180
+
+homeassistant:
+  latitude: 40.659160
+  longitude: -73.512180
+  elevation: 35
+  unit_system: imperial
+  time_zone: America/New_York
+  name: Home
+  whitelist_external_dirs:
+    - /usr/var/dumping-ground
+    - /tmp

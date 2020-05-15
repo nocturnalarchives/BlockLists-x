@@ -68,3 +68,9 @@ ocsp.rootca1.amazontrust.com
 s.amazon-adsystem.com
 settings.crashlytics.com
 wl.amazon-dss.com
+s1-iad-ww.cf.videorolls.row.aiv-cdn.net
+s2-iad-ww.cf.videorolls.row.aiv-cdn.net
+s3-iad-ww.cf.videorolls.row.aiv-cdn.net
+s4-iad-ww.cf.videorolls.row.aiv-cdn.net
+cf.videorolls.row.aiv-cdn.net
+videorolls.row.aiv-cdn.net

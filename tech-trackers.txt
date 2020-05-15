@@ -5177,3 +5177,9 @@ www.kissmetrics.com
 kissmetrics.com
 www.verizonmedia.com
 verizonmedia.com
+s1-iad-ww.cf.videorolls.row.aiv-cdn.net
+s2-iad-ww.cf.videorolls.row.aiv-cdn.net
+s3-iad-ww.cf.videorolls.row.aiv-cdn.net
+s4-iad-ww.cf.videorolls.row.aiv-cdn.net
+cf.videorolls.row.aiv-cdn.net
+videorolls.row.aiv-cdn.net
