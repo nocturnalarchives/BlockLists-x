@@ -61,3 +61,4 @@ www.kissmetrics.com
 kissmetrics.com
 www.verizonmedia.com
 verizonmedia.com
+api.permutive.com

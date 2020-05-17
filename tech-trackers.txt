@@ -5183,3 +5183,4 @@ s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s4-iad-ww.cf.videorolls.row.aiv-cdn.net
 cf.videorolls.row.aiv-cdn.net
 videorolls.row.aiv-cdn.net
+api.permutive.com
