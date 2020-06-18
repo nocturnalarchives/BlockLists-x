@@ -10,58 +10,59 @@ this is  chnge
 (trust-[a-z].teads.tv.org+.)
 ^.*$1.*\.
 
+
 ^.* word .*\.
 ^.* word .*\.
 ^.* word .*\.
 ^.* word .*\.
 ^.* word .*\.
 ^.* word .*\.
+^.* word .*\.
+^.* word .*\.
+
+
+^.* word .*\.
+^.* word .*\.
+^.* word .*\.
+^.*x-?mode.*\.
+
+
+	.us-
+
+
+
+
+
+
+
+
+
+
+
+
+custom.bnc.lt
+
+
+www.sonos.com
+is3-ssl.mzstatic.com
+
+
+^.*spotify.*\.
+
+(^|\.)gsa([a-z0-9]+)\.apple\.
 
 ^.*jilt.*\.
 t.crittercism.com
 
-https://images-na.ssl-images-amazon.com/images/I/91B-n6yBgbS.pdf
-
-https://www.youtube.com/watch?v=foHMG1e_F5Q&t=19s
-
-http://www.ctheroux.com/hard-reset-a-cree-connected-light-bulb/
-
-http://www.lutron.com/TechnicalDocumentLibrary/369975_ENG.pdf
-
-http://www.lutron.com/TechnicalDocumentLibrary/041582.pdf
+precisemodeling.com
+tlx.3lift.com
+cdn.irsdn.net
 
 
-
-api.jilt.com	player1-macbook-air.lan	OK (forwarded)	CNAME (16.1ms)
-2020-05-17 01:03:38	A	i.ytimg.com
-
-
-hfq2h9152m63.statuspage.io	player1-macbook-air.lan	OK (forwarded)	CNAME (26.5ms)
-2020-05-17 01:32:21	A	www.precisemodeling.com
-www..com
-
-cookie-?bot
-
-2020-05-17 18:45:15	A	www.google.com	philips-hue.lan	OK (cached)
-
-	tlx.3lift.com
-
-	cdn.irsdn.net
-
-m.stripe.network
-
-
-bfmio
 reachms.bfmio.com
-	cdn..com
-
-
-
-
 tools.ietf.org
 
 w.prd.map.nytimes.com
-
 addup.com
 secure.force.com
 apps.npr.org
