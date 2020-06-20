@@ -23,11 +23,13 @@ this is  chnge
 
 ^.* word .*\.
 ^.* word .*\.
-^.* word .*\.
+^.*doh.*\.
 ^.*x-?mode.*\.
 
 
 	.us-
+
+
 
 
 
@@ -94,3 +96,65 @@ homeassistant:
   whitelist_external_dirs:
     - /usr/var/dumping-ground
     - /tmp
+
+
+
+
+Almond And Raspberry Swirl Ice Cream 
+Banana Pancake Cereal
+Beet With Fruits
+Brownie Ice Cream Sandwiches
+Charred Peppers And Cucumbers
+Chocolate Chip Banana Scones
+Coconut Grass Steak Skewers
+Cookies And Cream Cookies
+Cookies And Sesame Ice Cream
+Crispy Turmeric And Pepper Baked Chicken Wings
+Fattoush Bread Salad
+Flatbread With Avocado And Scallion Salsa
+Golden Grahams Smores Bars
+Grilled Eggplant With Garlic Tahini Yogurt Sauce
+Grilled Flatfish With Sauce
+Grilled Mushroom Antipasto Salad
+Grilled Pork Shoulder Steaks
+Grilled Pork Shoulder With Butter Sauce
+Guava Grapefruit And Rosemary
+Hasselback Short Ribs
+Homemade Brown Sugar Cinnamon Pop Tarts
+Homemade Dog Treats
+Homemade Graham Crackers
+Homemade Hawaiian Rolls
+Honey Glazed Pepper Chicken
+Honeysuckle Red Drink Punch
+Korean Stewed Sweet Black Beans
+Lemon And Lime Ice Cream
+Lemon Blueberry Whoopie Pies
+Lemon Glazed Yogurt Donuts
+Mexican Fruit Coolers
+Mint And Chocolate Ice Cream
+Miso Butter Pecan Ice Cream
+Miso Grilled Potatoes
+Omelet Tortilla Breakfast Wrap
+Perfect Cookie Base
+Pistachio Crumbles With Berries And Ice Cream Sundae
+Pork Shoulder Steaks With Horseradish Sauce
+Porterhouse Steak With Au Poivre Sauce
+Ranch Dip With Crudites
+Raspberry Chocolate Chip Muffins
+Red Date Cake
+Ruths Lima Beans With Smoked Turkey
+Seared Ahi Tuna
+Shrimp On Crackers
+Skirt Steak With Sauce
+Sugar Cookie Cheesecake Bars
+The Perfect Cookie Base
+Tiger Fruit Salad
+Tomato And Ricotta Tart
+Traditional Style Aioli
+Traditional Style Coleslaw
+Traditional Style Tuna Salad
+Trail Mix Cookies
+Turmeric Fried Rice Eggs And Kale
+Watermelon Lime Granita
+Whole Wheat Oat Waffles
+Zucchini Beer Bread
