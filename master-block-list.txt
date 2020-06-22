@@ -8649,6 +8649,8 @@ bluecava.com
 blueconic.net
 bluecore.com
 bluekai.com
+bkrtx.com
+www.bkrtx.com
 blueport.com
 bmdstatic.com
 bmw.com
@@ -14529,7 +14531,6 @@ youporn.com
 yourcx.io
 yourjavascript.com
 youtube-nocookie.com
-youtube.com
 youvisit.com
 ypncdn.com
 ytimg.com
