@@ -1,3 +1,18 @@
+#########################################################################################
+##
+##  This list blocks Political App Trackers.
+##  Big Tech list available at
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/apps-trackers.txt
+##
+##  MASTER LIST LOCATION
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/master-block-list.txt
+##
+##  Upated: Jun 22, 2020
+##
+#########################################################################################
+
 88022-info.com
 am-alternate.app.link
 api2.branch.io
@@ -35,5 +50,3 @@ s.mzstatic.com
 s3-1-w.amazonaws.com
 share.djt.app
 test-app.link
-
-
