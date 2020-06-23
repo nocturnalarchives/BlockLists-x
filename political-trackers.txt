@@ -1,0 +1,52 @@
+#########################################################################################
+##
+##  This list blocks Political App Trackers.
+##  Big Tech list available at
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/apps-trackers.txt
+##
+##  MASTER LIST LOCATION
+##
+##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/master-block-list.txt
+##
+##  Upated: Jun 22, 2020
+##
+#########################################################################################
+
+88022-info.com
+am-alternate.app.link
+api2.branch.io
+app-measurement.com
+app.donaldjtrump.com
+app.link
+apps.mzstatic.com
+bnc.lt
+branch.io
+brandme-prod.s3.amazonaws.com
+cdn.branch.io
+clientservices.googleapis.com
+custom.bnc.lt
+djt.app
+firebase-settings.crashlytics.com
+graph.facebook.com
+is1-ssl.mzstatic.com
+is2-ssl.mzstatic.com
+is3-ssl.mzstatic.com
+is4-ssl.mzstatic.com
+is5-ssl.mzstatic.com
+is6-ssl.mzstatic.com
+is7-ssl.mzstatic.com
+is8-ssl.mzstatic.com
+is9-ssl.mzstatic.com
+k2e3e.app.goo.gl
+laas-api.phunware.com
+lcdn-locator.apple.com
+m1e2x-alternate.test-app.link
+me-api.phunware.com
+mzstatic.com
+phunware.com
+platform-events.phunware.com
+s.mzstatic.com
+s3-1-w.amazonaws.com
+share.djt.app
+test-app.link
