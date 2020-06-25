@@ -7,11 +7,39 @@
 ^.* word .*\.
 ^.* word .*\.
 ^.* word .*\.
-^.* word .*\.
-^.* word .*\.
 
 
-^.*doh.*\.
+
+fonts.offer.alibaba.com
+offer.alibaba.com
+fonts.www.linkconnector.com
+www.linkconnector.com
+linkconnector.com
+fonts.www.ojrq.net
+www.ojrq.net
+ojrq.net
+icon.s.click.aliexpress.com
+s.click.aliexpress.com
+click.aliexpress.com
+aliexpress.com
+
+
+static.kqzyfj.com
+kqzyfj.com
+static.track.omguk.com
+track.omguk.com
+omguk.com
+static.www.ojrq.net
+www.ojrq.net
+ojrq.net
+sw-update.obdev.at
+obdev.at
+
+
+
+
+
+
 
 
 
@@ -79,3 +107,42 @@ criteo.com
 
 criteo.net
 https://whotracks.me/trackers.html
+as-sec.casalemedia.com
+assets.bounceexchange.com
+b-code.liadm.com
+cdn.blueconic.net
+connect.facebook.net
+dsum.casalemedia.com
+events.bouncex.net
+googleads.g.doubleclick.net
+ib.adnxs.com
+jadserve.postrelease.com
+odb.outbrain.com
+pagead2.googlesyndication.com
+perfads.bouncex.net
+pixel.advertising.com
+pixel.rubiconproject.com
+sb.scorecardresearch.com
+secure-assets.rubiconproject.com
+secure.adnxs.com
+securepubads.g.doubleclick.net
+stats.g.doubleclick.net
+widgets.outbrain.com
+www.facebook.com
+www.googleadservices.com
+www.googletagmanager.com
+	organizer.bizzabo.com
+    	live.sekindo.com
+        csync.loopme.me	10.0.1.2	OK (forwarded)	IP (12.7ms)
+    2020-06-24 01:04:34	AAAA	csync.loopme.me	10.0.1.2	OK (forwarded)	NODATA (15.8ms)
+    2020-06-24 01:04:34	A	x.bidswitch.net	10.0.1.2	OK (forwarded)	IP (13.4ms)
+    2020-06-24 01:04:34	AAAA	x.bidswitch.net
+    020-06-24 01:04:36	A	bsw.digitru.st	10.0.1.2	OK (forwarded)	CNAME (77.5ms)
+    2020-06-24 01:04:36	AAAA	bsw.digitru.st	10.0.1.2	OK (forwarded)	CNAME (81.4ms)
+    2020-06-24 01:04:35	A	a771.dscq.akamai.net	10.0.1.2	OK (forwarded)	IP (13.2ms)
+    2020-06-24 01:04:35	AAAA	a771.dscq.akamai.net
+    2020-06-24 01:04:39	A	rtb.adstanding.com	10.0.1.2	OK (forwarded)	IP (13.5ms)
+    2020-06-24 01:04:39	AAAA	rtb.adstanding.com	10.0.1.2	OK (forwarded)	NODATA (17.6ms)
+    2020-06-24 01:04:39	A	us-east-sync.bidswitch.net	10.0.1.2	OK (forwarded)	IP (13.9ms)
+    2020-06-24 01:04:39	AAAA	us-east-sync.bidswitch.net	10.0.1.2	OK (forwarded)	NODATA (17.3ms)
+    2020-06-24 01:04:36	A	id5-sync.com
