@@ -208,6 +208,7 @@
 ^.*airfind.*\.
 ^.*airscrn.*\.
 ^.*alibaba.*\.
+^.*aliexpress.*\.
 ^.*alipay.*\.
 ^.*alternates?.*\.
 ^.*amazon-?ad-?systems?.*\.
@@ -382,6 +383,7 @@
 ^.*graphs?.*\.
 ^.*gravatars?.*\.
 ^.*gscontxt.*\.
+^.*gsp([-a-z0-9]+)?ssl.ls.apple.com.*\.
 ^.*gstatic?.*\.
 ^.*gsuite.*\.
 ^.*guardianapps?.*\.
@@ -422,15 +424,18 @@
 ^.*iterable.*\.
 ^.*iubenda.*\.
 ^.*jetpack.*\.
+^.*jilt.*\.
 ^.*js-?sec.*\.
 ^.*js.sentry-cdn.*\.
 ^.*kissmetrics.*\.
+^.*kqzyfj.*\.
 ^.*kraken-?measurements?.*\.
 ^.*krxd.*\.
 ^.*laptop-?updates?.*\.
 ^.*launch-?darkly.*\.
 ^.*launcher.*\.
 ^.*lead-?pages?.*\.
+^.*linkconnector.*\.
 ^.*linked-?in.*\.
 ^.*listen(s|ers?|or|ing)?.*\.
 ^.*lithub.*\.
@@ -467,7 +472,10 @@
 ^.*npttech.*\.
 ^.*nxcli.*\.
 ^.*o0bc.*\.
+^.*obdev.*\.
+^.*ojrq.*\.
 ^.*omappapi.*\.
+^.*omguk.*\.
 ^.*omtrdc.*\.
 ^.*one-?tag.*\.
 ^.*onelin.*\.
@@ -504,6 +512,7 @@
 ^.*pre-?rolls?.*\.
 ^.*printful.*\.
 ^.*priv(ate|acy)-?centers?.*\.
+^.*privacy-?manager.*\.
 ^.*profil(e|es|ed|er|ing)?.*\.
 ^.*promot(e|es|ed|ions?).*\.
 ^.*provision(s|ed|er|ing).*\.
@@ -595,6 +604,7 @@
 ^.*superusers?.*\.
 ^.*survey.*\.
 ^.*surveysampling.*\.
+^.*sw-?update.*\.
 ^.*taboola.*\.
 ^.*tachyons?.*\.
 ^.*taobao.*\.
@@ -614,6 +624,7 @@
 ^.*track-?(tivation)?.*\.
 ^.*track-?t?ivation.*\.
 ^.*track?-?(x|xx)?(e|ed|er|ing)?.*\.
+^.*track.*\.
 ^.*traffick?-?junky.*\.
 ^.*transponders?.*\.
 ^.*trendmd.*\.

@@ -10,47 +10,8 @@
 
 
 
-fonts.offer.alibaba.com
-offer.alibaba.com
-fonts.www.linkconnector.com
-www.linkconnector.com
-linkconnector.com
-fonts.www.ojrq.net
-www.ojrq.net
-ojrq.net
-icon.s.click.aliexpress.com
-s.click.aliexpress.com
-click.aliexpress.com
-aliexpress.com
 
 
-static.kqzyfj.com
-kqzyfj.com
-static.track.omguk.com
-track.omguk.com
-omguk.com
-static.www.ojrq.net
-www.ojrq.net
-ojrq.net
-sw-update.obdev.at
-obdev.at
-
-
-
-
-
-
-
-
-
-
-
-custom.bnc.lt
-
-
-
-
-^.*jilt.*\.
 t.crittercism.com
 precisemodeling.com
 tlx.3lift.com

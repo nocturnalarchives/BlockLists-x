@@ -11,7 +11,7 @@
 ##
 ##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/master-block-list.txt
 ##
-##  Updated: June 26, 2020 
+##  Updated: June 26, 2020
 ##
 #########################################################################################
 
@@ -1252,3 +1252,8 @@ z.usabilla.com
 zbwp6ghm.com
 zealousfield.com
 zlp6s.pw
+privacymanager.io
+vendors.privacymanager.io
+geo.privacymanager.io
+gdpr-web-dau-prod.privacymanager.io
+gdpr-wrapper.privacymanager.io
