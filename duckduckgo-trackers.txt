@@ -9,7 +9,7 @@
 ##
 ##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/master-block-list.txt
 ##
-##  Upated: June 2, 2020
+##  Upated: June 27, 2020
 ##
 #########################################################################################
 
@@ -6869,7 +6869,6 @@ youlead.pl
 youmaker.com
 younglist.xyz
 youplay.se
-youporn.com
 yourcx.io
 yourjavascript.com
 youtube-nocookie.com
