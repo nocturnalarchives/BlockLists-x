@@ -43,7 +43,6 @@
 (\.|^)consumerreports\.org$
 (\.|^)courier-push-apple\.com\.akadns\.net$
 (\.|^)darwin-api\.dynata\.com$
-(\.|^)dash\.row\.aiv-cdn\.net$
 (\.|^)device-provisioning\.googleapis\.com$
 (\.|^)disconnect\.me$
 (\.|^)dna\.amazon\.com$
