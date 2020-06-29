@@ -3,11 +3,7 @@
 ([0-9])([0-9])?\.client-channel\.google\.
 ([a-z])gs\.google\.
 (\.|^)\.associates-amazon\.com$
-(\.|^)\.wink\.com$
-(\.|^)37signals\.com$
-(\.|^)3gppnetwork\.org$
 (\.|^)adobedtm\.com$
-(\.|^)agent-production\.wink\.com$
 (\.|^)ajax\.googleapis\.com$
 (\.|^)amazon\.com$
 (\.|^)amazonsilk\.com$
