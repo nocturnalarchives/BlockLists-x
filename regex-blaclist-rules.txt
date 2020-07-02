@@ -42,6 +42,7 @@
 (\.|^)device-provisioning\.googleapis\.com$
 (\.|^)disconnect\.me$
 (\.|^)dna\.amazon\.com$
+(\.|^)dns\.
 (\.|^)dns\.google\.com$
 (\.|^)docker\.io$
 (\.|^)dp-gw-na\.amazon\.com$
@@ -677,4 +678,3 @@
 ^.*zemanta.*\.
 ^.*zen-?desk.*\.
 ^.*zopim.*\.
-^.*calendly.*\.
