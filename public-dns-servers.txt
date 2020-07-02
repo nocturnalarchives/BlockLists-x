@@ -36,5 +36,5 @@ kaitain.restena.lu
 recursor01.dns.ipfire.org
 recursor01.dns.lightningwirelabs.com
 unicast.uncensoreddns.org
-\.?([-a-z])?d(ns|oh|ot[0-9]?\b)([-0-9a-z]+)?\.
+\.?([-0-9a-z])?d(ns|oh|ot[0-9]?\b)([-0-9a-z]+)?\.
 
