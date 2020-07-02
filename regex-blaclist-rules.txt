@@ -152,6 +152,7 @@
 (^|\.)stats?\.wp\.
 (^|\.)video-?rolls\.row\.aiv-?cdn\.net
 \.amazon\.(au|br|ca|cn|de|es|fr|in|it|jp|mx|nl|uk)$
+\.dash\.row\.
 \.health\.
 \.tenor\.com?
 \bad(s|v)?\b
@@ -185,6 +186,7 @@
 ^.*ad(v|verts?|vertising|vertisers?).*\.
 ^.*add-?this.*\.
 ^.*addtoany.*\.
+^.*admitad.*\.
 ^.*adnxs.*\.
 ^.*adobedtm.*\.
 ^.*adrotat(e|ed|er|es|ion|ing).*\.
@@ -231,6 +233,7 @@
 ^.*audioeye.*\.
 ^.*auth0.*\.
 ^.*awesome-?motive.*\.
+^.*awin1.*\.
 ^.*awss?tatic.*\.
 ^.*baidu.*\.
 ^.*bam-?grid.*\.
@@ -266,6 +269,7 @@
 ^.*cbsi(leads?)?.*\.
 ^.*cdn-?instagram.*\.
 ^.*cedatoplayer.*\.
+^.*celle-?brite.*\.
 ^.*cert-?test.*\.
 ^.*cgnat.*\.
 ^.*chargebee.*\.
@@ -324,6 +328,7 @@
 ^.*discussions?.*\.
 ^.*disqus-?cdn.*\.
 ^.*donor-?box.*\.
+^.*dotomi.*\.
 ^.*doubleclick.*\.
 ^.*doubleverify.*\.
 ^.*dpmsrv.*\.
@@ -371,6 +376,7 @@
 ^.*getmdl.*\.
 ^.*getsitecontrol.*\.
 ^.*ggpht.*\.
+^.*go2cloud.*\.
 ^.*goo.*\.
 ^.*google-?syndication.*\.
 ^.*google.*\.
@@ -469,6 +475,7 @@
 ^.*o0bc.*\.
 ^.*obdev.*\.
 ^.*ojrq.*\.
+^.*ojrq.*\.a
 ^.*omappapi.*\.
 ^.*omguk.*\.
 ^.*omtrdc.*\.
@@ -615,6 +622,7 @@
 ^.*tiny-?pass.*\.
 ^.*tinypass.*\.
 ^.*tjournal.*\.
+^.*tkqlhce.*\.
 ^.*trac(k|x|xx)?(e|ed|er|ing).*\.
 ^.*track-?(tivation)?.*\.
 ^.*track-?t?ivation.*\.
@@ -669,3 +677,4 @@
 ^.*zemanta.*\.
 ^.*zen-?desk.*\.
 ^.*zopim.*\.
+^.*calendly.*\.
