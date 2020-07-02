@@ -1,9 +1,3 @@
-
-
-
-
-
-
 ((\.|^)jilt\.com$
 ([a-z])gs\.google\.
 (\.|^)\.associates-amazon\.com$
@@ -129,6 +123,7 @@
 (^|\.)og([a-z0-9])\.google\.
 (^|\.)stats?\.wp\.
 (^|\.)video-?rolls\.row\.aiv-?cdn\.net
+\.?([-a-z])?d(ns|oh|ot[0-9]?\b)([-0-9a-z]+)?\.
 \.amazon\.(au|br|ca|cn|de|es|fr|in|it|jp|mx|nl|uk)$
 \.dash\.row\.
 \.health\.
