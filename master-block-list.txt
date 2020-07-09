@@ -460,6 +460,7 @@ actcorp.m.facebook.com
 actiflex.org
 actionnetwork.org
 actito.be
+activate.platform.californiatimes.com
 activecalendar.com
 activehosted.com
 actpx.com
@@ -485,6 +486,7 @@ ad-srv.net
 ad-stir.com
 ad-sys.com
 ad.admitad.com
+ad.doubleclick.net
 ad.google.com
 ad.gt
 ad.org.vn
@@ -1747,6 +1749,8 @@ answerdash.com
 answerscloud.com
 antarvasnasexstories.org
 anthill.vn
+anti-malware-1.114dns.com
+anti-malware-2.114dns.com
 antibot.cloud
 antvoice.com
 anura.io
@@ -1790,6 +1794,7 @@ api.bmw
 api.cloudapp.net
 api.facebook.com
 api.no
+api.permutive.com
 api.pluto.tv
 api.sail-personalize.com
 api2.branch.io
@@ -4171,11 +4176,13 @@ celeritascdn.com
 cellit.io
 celtra.com
 ceneo.pl
+censurfridns.dk
 center.io
 centerpointmedia.com
 ceros.com
 certona.net
 cf.google.com
+cf.videorolls.row.aiv-cdn.net
 cfgr2.com
 cfgr3.com
 cfigroup.com
@@ -4470,6 +4477,7 @@ closetopic.site
 cloud-iq.com
 cloud-iq.com.au
 cloud.adobe.io
+cloud.kargo.com
 cloudapp.net
 cloudembed.net
 cloudflare-dns.com
@@ -5067,6 +5075,7 @@ dn360.net
 dnetwork.si
 dnitv.com
 dns.applied-privacy.net
+dns.cmrg.net
 dns.digitalcourage.de
 dns.digitale-gesellschaft.ch
 dns.facebook.com
@@ -5110,6 +5119,7 @@ dorbanise.pw
 dostophog.com
 dot.applied-privacy.net
 dot.digitalcourage.de
+dot.ffmuc.net
 dot.google.com
 dot.neutopia.org
 dot.sb
@@ -6431,6 +6441,7 @@ fsdn.com
 fstrk.net
 ft.google.com
 ftd.agency
+ftnd.org
 fu.google.com
 fuckandcdn.com
 fuckthat.xyz
@@ -7489,6 +7500,7 @@ i.bingparachute.com
 i.doubleclick.net
 i.gov.ph
 i.moatads.com
+i.mol.im
 i.ntv.io
 i.o0bc.com
 i.optmnstr.com
@@ -8912,6 +8924,7 @@ moelven.m.facebook.com
 moengage.com
 moevideo.biz
 moex.com
+mol.im
 moldyicicle.com
 momagic.com
 momentjs.com
@@ -9479,6 +9492,7 @@ omxgroup.com
 on.google.com
 oncam.xxx
 ondemand.com
+one.one.one.one
 oneall.com
 onecount.net
 oned.io
@@ -10082,6 +10096,7 @@ propertyfinderdata.com
 propu.sh
 protawe.com
 protecmedia.com
+protect-children-2.114dns.com
 protectwebform.com
 protoawe.com
 provenexpert.com
@@ -10116,14 +10131,20 @@ ptcfc.com
 ptengine.com
 ptengine.jp
 ptgncdn.com
+ptr.cnsat.com.cn
 pu.google.com
 pub-cdn.com
 pub.network
+pubads.g.doubleclick.net
 pubdirecte.com
 pubexchange.com
 pubguru.com
 public-api.wordpress.com
+public-dns-a.baidu.com
 public.vilynx.com
+public1.alidns.com
+public2.114dns.com
+public2.alidns.com
 publicidees.com
 publift.com
 publir.com
@@ -10690,11 +10711,16 @@ s.optmstr.com
 s.skimresources.com
 s.teads.tv
 s.usabilla.com
+s0.2mdn.net
+s1-iad-ww.cf.videorolls.row.aiv-cdn.net
+s2-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3-1-w.amazonaws.com
+s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3c.es
 s3chat.com
 s3wfg.com
 s3xified.com
+s4-iad-ww.cf.videorolls.row.aiv-cdn.net
 s4mdsp.com
 s99i.org
 sa-as.com
@@ -11402,6 +11428,7 @@ site123.io
 site24x7rum.com
 sitebooster.com
 sitecampaign.com
+sitedataprocessing.com
 siteimprove.com
 siteimproveanalytics.com
 siteimproveanalytics.io
@@ -11881,6 +11908,7 @@ stihl.com
 stilyoapps.com
 stimg.co
 stitcher.com
+storage.cloud.kargo.com
 storagespanner.com
 storejohnnywas.com
 storescissors.com
@@ -11981,6 +12009,8 @@ sutherlandglobal.com
 sv-se.facebook.com
 sv.google.com
 svonm.com
+svr74.efeedlink.com
+svr75.efeedlink.com
 svtrd.com
 sw-update.obdev.at
 sw.google.com
@@ -12321,6 +12351,7 @@ togetherjs.com
 toi-125b.com
 toimg.xyz
 tokyoghoulre.com
+tools.goo gle.com
 tools.google.com
 tooltip.io
 toothbrushnote.com
@@ -12965,6 +12996,7 @@ videonow.ru
 videoplayerhub.com
 videoplaza.tv
 videoreach.com
+videorolls.row.aiv-cdn.net
 videosdeestupro.com
 vidgyor.com
 vidible.tv
@@ -14763,6 +14795,7 @@ youplay.se
 yourcx.io
 yourjavascript.com
 youtube-nocookie.com
+youtube.com
 youvisit.com
 yp.google.com
 ypncdn.com
@@ -15109,3 +15142,4 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+unicast.uncensoreddns.org
