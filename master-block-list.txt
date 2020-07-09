@@ -5075,6 +5075,7 @@ dn360.net
 dnetwork.si
 dnitv.com
 dns.applied-privacy.net
+dns.cloudflare.com
 dns.cmrg.net
 dns.digitalcourage.de
 dns.digitale-gesellschaft.ch
@@ -5631,6 +5632,8 @@ eh.google.com
 ehealthcaresolutions.com
 ehosts.net
 ei.google.com
+eight.eight.eight.eight
+eight.eight.four.four
 ej.google.com
 ejyymghi.com
 ek.google.com
@@ -9493,6 +9496,7 @@ on.google.com
 oncam.xxx
 ondemand.com
 one.one.one.one
+one.zero.zero.one
 oneall.com
 onecount.net
 oned.io
@@ -15142,4 +15146,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-unicast.uncensoreddns.org

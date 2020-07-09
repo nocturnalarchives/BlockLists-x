@@ -12102,3 +12102,7 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+one.one.one.one
+one.zero.zero.one
+eight.eight.eight.eight
+eight.eight.four.four
