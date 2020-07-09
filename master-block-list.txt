@@ -15146,3 +15146,11 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+use-application-dns.net
+nycmny.fios.verizon.net
+all-systems.mcast.net
+mcast.net
+fios.verizon.net
+verizon.net
+rev.poneytelecom.eu
+poneytelecom.eu
