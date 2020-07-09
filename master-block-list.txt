@@ -68,6 +68,7 @@
 19.client-channel.google.com
 19.taskassist-pa.clients.google.com
 1dmp.io
+1e100.net
 1gr.cz
 1millionbot.com
 1plus1.ua
@@ -1522,6 +1523,7 @@ alipayobjects.com
 aliveachiever.com
 alkst.co
 all-cod.com
+all-systems.mcast.net
 allegiancetech.com
 alleyarm.com
 allinonedownloader.com
@@ -1973,6 +1975,7 @@ artydia.com
 arukereso.com
 as-sec.casalemedia.com
 as.google.com
+as22384.net
 asadcdn.com
 asaplabs.io
 asapp.com
@@ -4026,6 +4029,7 @@ calmcactus.com
 calmfoot.com
 calreplyapp.com
 caltat.com
+cam4-10.as22384.net
 cambium-media.com
 camgirlfap.com
 cammedia.com
@@ -6246,6 +6250,7 @@ findmovies.me
 findologic.com
 findresults.site
 finect.com
+fios.verizon.net
 fireapps.io
 fireapps.vn
 firebase-settings.crashlytics.com
@@ -8664,6 +8669,7 @@ mbah-togel.com
 mbasic.facebook.com
 mbww.com
 mc.google.com
+mcast.net
 mccdn.me
 md-nx.com
 md-static.com
@@ -9385,6 +9391,7 @@ nxtck.com
 ny.google.com
 nyahentai.pw
 nyc3.cdn.digitaloceanspaces.com
+nycmny.fios.verizon.net
 nydus.org
 nyltx.com
 nz.google.com
@@ -9592,6 +9599,7 @@ orangeoperation.com
 orb.ee
 orbitz.com
 orcart.facebook.com
+ord30s26-in-f10.1e100.net
 orderdeadline.com
 orderlogicapp.com
 org.vn
@@ -9938,6 +9946,7 @@ poll-maker.com
 polldaddy.com
 pollster.pl
 polyfill.io
+poneytelecom.eu
 poool.fr
 popadon.com
 popads.com
@@ -10529,6 +10538,7 @@ retargetly.com
 retentionrock.com
 retget.ru
 rev-stripe.com
+rev.poneytelecom.eu
 revadserv365.com
 revasia.com
 revcontent.com
@@ -12798,6 +12808,7 @@ usa.gov
 usabilla.com
 usablenet.com
 usatoday.com
+use-application-dns.net
 usefathom.com
 usehero.com
 useinsider.com
@@ -12896,6 +12907,7 @@ veoxa.com
 vergic.com
 verifypass.com
 verifyvegetable.com
+verizon.net
 verizonmedia.com
 verizonwireless.com
 verseballs.com
@@ -15146,11 +15158,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-use-application-dns.net
-nycmny.fios.verizon.net
-all-systems.mcast.net
-mcast.net
-fios.verizon.net
-verizon.net
-rev.poneytelecom.eu
-poneytelecom.eu
