@@ -668,3 +668,5 @@
 ^.*purechat.*\.
 ^.*sitedataprocessing.*\.
 ^.*userway.*\.
+^.*chimp-?static.*\.
+dns([0-9]+)\.quad9\.net
