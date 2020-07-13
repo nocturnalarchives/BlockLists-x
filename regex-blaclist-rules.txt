@@ -1,4 +1,3 @@
-((\.|^)jilt\.com$
 ([a-z])gs\.google\.
 (\.|^)\.associates-amazon\.com$
 (\.|^)adobedtm\.com$
