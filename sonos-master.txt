@@ -26,7 +26,7 @@
 ##
 #########################################################################################
 
-ab-us.ws.sonos.com
+
 clientdata.sslauth.sonos.com
 dcapps.ws.sonos.com
 keys.ws.sonos.com
