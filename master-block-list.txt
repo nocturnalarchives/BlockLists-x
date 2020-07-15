@@ -397,7 +397,6 @@ aatrk.com
 aax-us-east.amazon-adsystem.com
 aax.amazon-adsystem.com
 aaxads.com
-
 ab.google.com
 abackchain.com
 abandonedaction.com
@@ -9951,6 +9950,7 @@ pingdom.net
 pinimg.com
 pinkbike.org
 pinpoll.com
+pins.amazon.com
 pinsightmedia.com
 pinterest.com
 pipdigz.co.uk
@@ -12467,6 +12467,7 @@ to.google.com
 toast.com
 toboads.com
 tockify.com
+todo-ta-g7g.amazon.com
 toecircle.com
 togetherjs.com
 toi-125b.com
