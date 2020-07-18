@@ -4745,7 +4745,6 @@ creative-mobile.com
 creative-serving.com
 creativecdn.com
 creativecirclemedia.com
-creativecommons.org
 creativemarket.com
 creativevirtual15.com
 credible.com
@@ -5166,7 +5165,7 @@ doh.northeu.pi-dns.com
 doh.opendns.com
 doh.powerdns.org
 doh.sb
-doh.seby.io:8443
+doh.seby.io
 doh.securedns.eu
 doh.tiar.app
 doh.tiarap.org
