@@ -87,7 +87,6 @@
 (\.|^)publicsuffix\.org$
 (\.|^)purr\.nytimes\.com$
 (\.|^)push\.apple\.com$
-(\.|^)raspberrypi\.org$
 (\.|^)redditstatic\.com$
 (\.|^)redirector\.googlevideo\.com$
 (\.|^)researchgate\.net$
