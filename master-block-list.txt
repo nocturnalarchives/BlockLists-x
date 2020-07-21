@@ -1798,6 +1798,7 @@ api-read.facebook.com
 api-v3.tinypass.com
 api.bmw
 api.cloudapp.net
+api.cnn.io
 api.facebook.com
 api.no
 api.permutive.com
@@ -2159,6 +2160,7 @@ azureedge.net
 azurewebsites.net
 b-api.facebook.com
 b-cdn.net
+b-code.liadm.com
 b-graph.facebook.com
 b-m.facebook.com
 b-www.facebook.com
@@ -8392,6 +8394,7 @@ lg.google.com
 lh.google.com
 li.google.com
 liadm.com
+liadm.com
 libchat.com
 libero.it
 libertystmedia.com
@@ -8447,6 +8450,7 @@ listtrac.com
 literaryhub.disqus.com
 lithium.com
 lithium.facebook.com
+lithium.rubblerock.com
 lithub.com
 litix.io
 live.com
@@ -10583,6 +10587,7 @@ refpa.top
 reftagger.com
 reginapps.com
 register.facebook.com
+registry.api.cnn.io
 reichelcormier.bid
 reimo-shops.de
 rejoiner.com
@@ -10773,6 +10778,7 @@ rtrk.com
 rtxapps.com
 ru-ru.facebook.com
 ru.google.com
+rubblerock.com
 rubiconproject.com
 rubyblu.com
 rudderlabs.com
@@ -15276,5 +15282,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-lithium.rubblerock.com
-rubblerock.com
