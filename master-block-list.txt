@@ -4187,6 +4187,7 @@ cedsdigital.it
 celebros.com
 celeritascdn.com
 cellit.io
+cello.client-channel.google.com
 celtra.com
 ceneo.pl
 censurfridns.dk
@@ -4357,6 +4358,7 @@ clickworkzmedia.com
 clicky.com
 clickyab.com
 clickzzs.nl
+client-channel.google.com
 clientdata.sslauth.sonos.com
 clientflow.apple.com
 clientflow.apple.com.akadns.com
@@ -8393,7 +8395,6 @@ lfstmedia.com
 lg.google.com
 lh.google.com
 li.google.com
-liadm.com
 liadm.com
 libchat.com
 libero.it
