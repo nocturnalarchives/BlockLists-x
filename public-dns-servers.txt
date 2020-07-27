@@ -128,3 +128,4 @@ tor.cloudflare-dns.com
 unicast.uncensoreddns.org
 use-application-dns.net
 www.digitale-gesellschaft.ch
+dns.jrc.it
