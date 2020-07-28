@@ -31,7 +31,6 @@ dnssecure.fpbns.net
 e.crashlytics.com
 encrypted-tbn0.gstatic.com
 etahub.com
-firebaselogging-pa.googleapis.com
 fonts.gstatic.com blacklist
 fpbns.net
 googleapis.com blacklist

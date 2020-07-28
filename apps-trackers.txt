@@ -17,7 +17,6 @@ cdns.us1.gigya.com
 config.mapbox.com
 conversions.appsflyer.com
 events.mapbox.com
-firebaselogging-pa.googleapis.com
 gigya.com
 pdk.theplatform.com
 qualtrics.com
