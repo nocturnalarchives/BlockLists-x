@@ -4475,7 +4475,6 @@ clients96.google.com
 clients97.google.com
 clients98.google.com
 clients99.google.com
-clientservices.googleapis.com
 cliipa.com
 clinch.co
 clip.today
@@ -6332,7 +6331,6 @@ fireapps.vn
 firebase-settings.crashlytics.com
 firebase.com
 firebaseapp.com
-firebaselogging-pa.googleapis.com
 firebrandtech.com
 firecall.tv
 firecast.tv
@@ -6842,7 +6840,6 @@ googleadservices.org
 googleadservices.ru
 googleadsserving.cn
 googleapi.club
-googleapis.com
 googleoptimize.com
 googlesyndication.com
 googletagmanager.com
