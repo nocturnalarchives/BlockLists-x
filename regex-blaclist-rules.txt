@@ -668,3 +668,15 @@
 ^.*userway.*\.
 ^.*chimp-?static.*\.
 dns([0-9]+)\.quad9\.net
+^.*artifacts.*\.
+^.*affiliate.*\.
+^.*fonts?.*\.
+^.*shareasale.*\.
+^.*emjcd.*\.
+^.*dpbolvw.*\.
+^.*go2cloud.*\.
+^.*offer.*\.
+^.*alibaba.*\.
+^.*doubleclick.*\.
+^.*pepperjamnetwork.*\.
+^.*double-?click.*\.

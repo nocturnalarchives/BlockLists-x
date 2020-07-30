@@ -853,6 +853,7 @@ admtpmp124.com
 admtpmp127.com
 admulti.com
 admulti.ru
+adn.ebay.com
 adname.ru
 adnami.io
 adnection.com
@@ -4988,6 +4989,7 @@ devcloudsoftware.com
 developer.amazon.com
 developermedia.com
 developers.facebook.com
+device-artifacts-v2.s3.amazonaws.com
 device-metrics-us.amazon.com
 device-metrics.amazon.com
 device9.com
@@ -5108,6 +5110,7 @@ dns.flatuslifir.is
 dns.google
 dns.google.com
 dns.hostux.net
+dns.jrc.it
 dns.neutopia.org
 dns.nextdns.io
 dns.quad9.net
@@ -5218,6 +5221,7 @@ doubtfulrainstorm.com
 downdetector.com
 doyoudreamup.com
 dp.google.com
+dpbolvw.net
 dpic.me
 dpmsrv.com
 dpstream.ink
@@ -5812,6 +5816,7 @@ emediate.se
 emerse.com
 emetriq.de
 emfluence.com
+emjcd.com
 emma.tools
 emmtree.com
 emol.cl
@@ -6412,10 +6417,17 @@ fontainsuny.club
 fontawesome.com
 fontplus.jp
 fonts.ad.admitad.com
+fonts.adn.ebay.com
+fonts.affiliatefuture.com
 fonts.awin1.com
+fonts.doubleclick.net
+fonts.dpbolvw.net
+fonts.emjcd.com
 fonts.go2cloud.org
 fonts.net
 fonts.offer.alibaba.com
+fonts.pepperjamnetwork.com
+fonts.shareasale.com
 fonts.www.linkconnector.com
 fonts.www.ojrq.net
 fontshop.com
@@ -8062,6 +8074,7 @@ jq.google.com
 jquery.com
 jqueryscript.net
 jr.google.com
+jrc.it
 jrs5.com
 js-agent.newrelic.com
 js-bn.com
@@ -9872,6 +9885,7 @@ pendo.io
 pennynetwork.com
 penspade.com
 pepperjam.com
+pepperjamnetwork.com
 pepsia.com
 pepy.tech
 perceivequarter.com
@@ -12966,6 +12980,7 @@ uxfeedback.ru
 uy.google.com
 uz.google.com
 v-cdn.net
+v-jrcipsccrt009.jrc.it
 v.bingparachute.com
 v.doubleclick.net
 v.moatads.com
@@ -15279,6 +15294,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-v-jrcipsccrt009.jrc.it
-jrc.it
-dns.jrc.it
