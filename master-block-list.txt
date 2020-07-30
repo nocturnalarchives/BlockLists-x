@@ -4913,7 +4913,6 @@ db.google.com
 dbstatic.no
 dc-storm.com
 dc.google.com
-dcapps.ws.sonos.com
 dcdn.lt
 dcm9zy.net
 dcmn.io
