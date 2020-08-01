@@ -680,3 +680,5 @@ dns([0-9]+)\.quad9\.net
 ^.*doubleclick.*\.
 ^.*pepperjamnetwork.*\.
 ^.*double-?click.*\.
+\.?cdn-?([0-9]+)\.
+^.*pop-iad-?([a-z0-9]+)?.*\.
