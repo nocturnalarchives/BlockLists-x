@@ -1976,7 +1976,6 @@ arrahmah.com
 arrivalist.com
 art19.com
 artbbs.ws
-artefact.com
 artfut.com
 artydia.com
 arukereso.com
@@ -4989,7 +4988,6 @@ devcloudsoftware.com
 developer.amazon.com
 developermedia.com
 developers.facebook.com
-device-artifacts-v2.s3.amazonaws.com
 device-metrics-us.amazon.com
 device-metrics.amazon.com
 device9.com
