@@ -1802,6 +1802,7 @@ api.facebook.com
 api.no
 api.permutive.com
 api.pluto.tv
+api.pwnedpasswords.com
 api.sail-personalize.com
 api2.branch.io
 apia.com.au
@@ -10320,6 +10321,7 @@ puu.sh
 puzzlingfall.com
 pv.google.com
 pw.google.com
+pwnedpasswords.com
 px-cdn.net
 px-cloud.net
 px.bhyhome.com
