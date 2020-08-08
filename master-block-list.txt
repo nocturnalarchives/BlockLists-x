@@ -2245,6 +2245,7 @@ bbelements.com
 bbva.com
 bc.facebook.com
 bc.google.com
+bc.googleusercontent.com
 bc.yahoo.com
 bc0a.com
 bcicdn.com
@@ -8635,6 +8636,7 @@ m.skimresources.com
 m.teads.tv
 m.udkcjr.com
 m.usabilla.com
+m.wsj.net
 m0mentum.net
 m1e2x-alternate.test-app.link
 m32.media
@@ -9448,8 +9450,10 @@ nrich.ai
 nrw.de
 ns.google.com
 ns1.facebook.com
+ns1.uplogon.com
 ns1p.net
 ns2.facebook.com
+ns2.uplogon.com
 ns3.facebook.com
 ns8.com
 ns8ds.com
@@ -10844,6 +10848,7 @@ s.skimresources.com
 s.teads.tv
 s.udkcjr.com
 s.usabilla.com
+s.wsj.net
 s0.2mdn.net
 s1-iad-ww.cf.videorolls.row.aiv-cdn.net
 s2-iad-ww.cf.videorolls.row.aiv-cdn.net
@@ -11400,6 +11405,7 @@ shptrn.com
 shtfplan.com
 shyseed.com
 si.google.com
+si.wsj.net
 sib.im
 sibautomation.com
 sibforms.com
@@ -12901,6 +12907,7 @@ uplandsoftware.com
 uplift-platform.com
 uplinkly-static.com
 upload.facebook.com
+uplogon.com
 uplynk.com
 upravel.com
 uprimp.com
