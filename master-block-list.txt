@@ -799,6 +799,7 @@ admaru.com
 admarvel.com
 admaster.com.cn
 admaster.net
+admaster.total-stream.net
 admatic.com.tr
 admedia.com
 admedia.io
@@ -4627,6 +4628,7 @@ connect.facebook.net
 connect.facebook.net.edgekey.net
 connectad.io
 connectif.cloud
+connectivitycheck.gstatic.com
 connecto.io
 connects.ch
 connexity.net
@@ -9131,6 +9133,7 @@ msn.com
 mstar.com
 mt.google.com
 mt.lv
+mtalk.google.com
 mtb-news.de
 mthsense.com
 mtouch.facebook.com
@@ -10054,6 +10057,9 @@ pollster.pl
 polyfill.io
 poneytelecom.eu
 poool.fr
+pop-iad-1.cf.dash.row.aiv-cdn.net
+pop-iad-2.cf.dash.row.aiv-cdn.net
+pop-iad-3.cf.dash.row.aiv-cdn.net
 popadon.com
 popads.com
 popads.media
@@ -12509,6 +12515,7 @@ tor.cloudflare-dns.com
 toroadvertising.com
 torrentbr.com
 torvind.com
+total-stream.net
 totalping.com
 touch.facebook.com
 touchads.com
@@ -15292,8 +15299,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-admaster.total-stream.net
-total-stream.net
-pop-iad-2.cf.dash.row.aiv-cdn.net
-pop-iad-1.cf.dash.row.aiv-cdn.net
-pop-iad-3.cf.dash.row.aiv-cdn.net
