@@ -8698,6 +8698,7 @@ mapbox.com
 mapixl.com
 maplestory2.tv
 mapquestapi.com
+maps.googgleapis.com
 maps.googleapis.com
 maptiler.com
 marchex.io
