@@ -4854,6 +4854,7 @@ d.vvv.facebook.com
 d2-apps.net
 d2cmedia.ca
 d3js.org
+d3p8zr0ffa9t17.cloudfront.net
 d41.co
 da-dk.facebook.com
 da-services.ch
