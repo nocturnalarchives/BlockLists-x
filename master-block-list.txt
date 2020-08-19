@@ -15311,3 +15311,5 @@ abcvg.ovh
 rbx.abcvg.ovh
 s3-iad-2.cf.dash.row.aiv-cdn.net
 a164avoddashs3ww-a.akamaihd.net
+ia.media-imdb.com
+manifest.googlevideo.com
