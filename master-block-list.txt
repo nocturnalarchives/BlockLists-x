@@ -15316,3 +15316,6 @@ m.media-amazon.com
 manifest.googlevideo.com
 media-imdb.com
 media-amazon.com
+ecx.images-amazon.com
+images-amazon.com
+ocsp.pki.goog
