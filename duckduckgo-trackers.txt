@@ -1,17 +1,3 @@
-#########################################################################################
-##
-##  This list blocks the Trackers Discovered by DuckDuckGo https://github.com/duckduckgo/tracker-radar
-##  Big Tech list available at
-##
-##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/tech-trackers.txt
-##
-##  MASTER LIST LOCATION
-##
-##  https://raw.githubusercontent.com/nocturnalarchives/BlockLists/master/master-block-list.txt
-##
-##  Upated: June 27, 2020
-##
-#########################################################################################
 
 0ps.us
 1dmp.io

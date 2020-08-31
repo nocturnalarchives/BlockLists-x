@@ -682,3 +682,4 @@ dns([0-9]+)\.quad9\.net
 ^.*double-?click.*\.
 \.?cdn-?([0-9]+)\.
 ^.*pop-iad-?([a-z0-9]+)?.*\.
+^.*kochava.*\.

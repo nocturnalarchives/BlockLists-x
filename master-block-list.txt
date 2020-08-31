@@ -375,6 +375,7 @@ a.teads.tv
 a.udkcjr.com
 a.usabilla.com
 a.vidora.com
+a164avoddashs3ww-a.akamaihd.net
 a1qa.m.facebook.com
 a2dfp.net
 a2pub.com
@@ -405,6 +406,7 @@ abashedangle.com
 abc.facebook.com
 abcnews.com
 abcotvs.net
+abcvg.ovh
 abcvg.ovh
 abebos.com
 ablida.net
@@ -1799,6 +1801,7 @@ api.bmw
 api.cloudapp.net
 api.cnn.io
 api.facebook.com
+api.kochava.com
 api.no
 api.permutive.com
 api.pluto.tv
@@ -7606,6 +7609,7 @@ i.udkcjr.com
 i.usabilla.com
 i2i.jp
 ia.google.com
+ia.media-imdb.com
 iadvize.com
 ian029dkl3osl930sian.club
 iasds01.com
@@ -8240,6 +8244,7 @@ ko-kr.connect.facebook.com
 ko-kr.facebook.com
 ko.google.com
 kochava.com
+kochava.com
 koddi.com
 kodporno.com
 kodpornx.com
@@ -8280,6 +8285,7 @@ kurir-info.rs
 kustomerapp.com
 kv.google.com
 kvideo.io
+kvinit-prod.api.kochava.com
 kw.google.com
 kwizzad.com
 kwpsurveys.com
@@ -8629,6 +8635,7 @@ m-pathy.com
 m.bingparachute.com
 m.doubleclick.net
 m.facebook.com
+m.media-amazon.com
 m.moatads.com
 m.ntv.io
 m.o0bc.com
@@ -8691,6 +8698,7 @@ mangasum.com
 mangazoneapp.com
 mangoads.vn
 mangomediaads.com
+manifest.googlevideo.com
 mannenmedia.nl
 mantisadnetwork.com
 manychat.com
@@ -8791,7 +8799,9 @@ medallia.com
 medallia.eu
 medchatapp.com
 media-amazon.com
+media-amazon.com
 media-b.jp
+media-imdb.com
 media-match.com
 media.msg.dotomi.com
 media.net
@@ -9540,6 +9550,7 @@ ocbc.m.facebook.com
 ocdn.eu
 ocgov.com
 ocm.de
+ocsp.pki.goog
 ocsp.rootca1.amazontrust.com
 ocstatic.com
 oct8ne.com
@@ -10505,6 +10516,7 @@ rbl.ms
 rbnt.org
 rbsdigital.com
 rbx.abcvg.ovh
+rbx.abcvg.ovh
 rc.google.com
 rcgroups.net
 rcn.m.facebook.com
@@ -10857,6 +10869,7 @@ s0.2mdn.net
 s1-iad-ww.cf.videorolls.row.aiv-cdn.net
 s2-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3-1-w.amazonaws.com
+s3-iad-2.cf.dash.row.aiv-cdn.net
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 s3c.es
 s3chat.com
@@ -14406,6 +14419,7 @@ www.kds.media
 www.keymedia.com
 www.kingoapp.com
 www.kissmetrics.com
+www.kochava.com
 www.krxd.net
 www.kwizzad.com
 www.leadbit.com
@@ -15307,13 +15321,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-abcvg.ovh
-rbx.abcvg.ovh
-s3-iad-2.cf.dash.row.aiv-cdn.net
-a164avoddashs3ww-a.akamaihd.net
-ia.media-imdb.com
-m.media-amazon.com
-manifest.googlevideo.com
-media-imdb.com
-media-amazon.com
-ocsp.pki.goog
