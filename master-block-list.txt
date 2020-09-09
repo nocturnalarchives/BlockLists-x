@@ -15321,3 +15321,5 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+ipv6.google.com
+ipv4.google.com
