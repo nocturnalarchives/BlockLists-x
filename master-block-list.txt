@@ -15337,3 +15337,17 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+
+tracker.samplicio.us
+samplicio.us
+
+
+smil.hrzn-nxt.com
+hrzn-nxt.com
+beacons2.extremereach.io
+extremereach.io
+beacons1.extremereach.io
+beacons.extremereach.io
+p.tvpixel.com
+tvpixel.com
+
