@@ -1804,6 +1804,7 @@ api.facebook.com
 api.kochava.com
 api.no
 api.permutive.com
+api.placed.com
 api.pluto.tv
 api.pwnedpasswords.com
 api.sail-personalize.com
@@ -2265,6 +2266,7 @@ be.google.com
 beacon.krxd.net
 beaconads.com
 beaconforstore.com
+beacons.extremereach.io
 beacons.gcp.gvt0.com
 beacons.gcp.gvt00.com
 beacons.gcp.gvt01.com
@@ -2597,6 +2599,7 @@ beacons09.gvt6.com
 beacons09.gvt7.com
 beacons09.gvt8.com
 beacons09.gvt9.com
+beacons1.extremereach.io
 beacons1.gvt1.com
 beacons1.gvt10.com
 beacons1.gvt2.com
@@ -2717,6 +2720,7 @@ beacons19.gvt6.com
 beacons19.gvt7.com
 beacons19.gvt8.com
 beacons19.gvt9.com
+beacons2.extremereach.io
 beacons2.gvt1.com
 beacons2.gvt10.com
 beacons2.gvt2.com
@@ -5255,6 +5259,7 @@ dropkickmedia.com
 drydrum.com
 ds-cdn.com
 ds.google.com
+dsa.moatads.com
 dspx.tv
 dsspn.com
 dstillery.com
@@ -6046,6 +6051,7 @@ ev.google.com
 evanescentedge.com
 events.brightline.tv
 events.mapbox.com
+events.tremorhub.com
 everestjs.net
 everesttech.net
 evergage.com
@@ -6443,6 +6449,7 @@ foolcdn.com
 foolfishes.com
 force.com
 force24.co.uk
+ford.demdex.net
 forebase.ch
 forebase.com
 forecast.io
@@ -9816,6 +9823,7 @@ p.optmnstr.com
 p.optmstr.com
 p.skimresources.com
 p.teads.tv
+p.tvpixel.com
 p.udkcjr.com
 p.usabilla.com
 p0.com
@@ -10004,6 +10012,7 @@ pitchfork.com
 piwik.pro
 piwikpro.com
 pix-cdn.org
+pixel.adsafeprotected.com
 pixel.facebook.com
 pixel.rubiconproject.com
 pixel.watch
@@ -10350,6 +10359,7 @@ px-cdn.net
 px-cloud.net
 px.bhyhome.com
 px.google.com
+px.moatads.com
 pxf.io
 pxg-assets.com
 pxgcdn.com
@@ -10663,6 +10673,7 @@ republer.com
 republicanlegion.com
 research.facebook.com
 researchintel.com
+researchnow.com
 resetdigital.co
 resize.hswstatic.com
 resolutekey.com
@@ -10944,6 +10955,7 @@ savethechildren.m.facebook.com
 saysidewalk.com
 sb-cd.com
 sb.google.com
+sb.scorecardresearch.com
 sbbanner.com
 sbird.xyz
 sbs-ad.com
@@ -11255,11 +11267,13 @@ secretlab.co
 secretspiders.com
 secretturtle.com
 section.io
+secure-gg.imrworldwide.com
 secure-gl.imrworldwide.com
 secure-media-snc1.fbcdn.net
 secure-media.fbcdn.net
 secure-us.imrworldwide.com
 secure.facebook.com
+secure.insightexpressai.com
 secureaddisplay.com
 secureanalytic.com
 securedataimages.com
@@ -11695,6 +11709,7 @@ smetrics.abbott
 smg.com
 smi2.net
 smi2.ru
+smil.hrzn-nxt.com
 smile.io
 smilecdn.co
 smilee.io
@@ -12243,6 +12258,7 @@ taboola.com
 tafdi.org
 tag-serv.com
 tag.1rx.io
+tag.researchnow.com
 tag4arm.com
 tagboard.com
 tagcommander.com
@@ -12270,6 +12286,7 @@ taostar.com
 tapad.com
 tapatalk-cdn.com
 tapatalk.com
+tapestry.tapad.com
 tapfiliate.com
 tapinfluence.com
 tapjoy.com
@@ -12581,6 +12598,7 @@ trackcmp.net
 trackedlink.net
 trackedweb.net
 tracker.gg
+tracker.samplicio.us
 trackercdn.com
 trackings.top
 trackjs.com
@@ -15337,17 +15355,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-
-tracker.samplicio.us
-samplicio.us
-
-
-smil.hrzn-nxt.com
-hrzn-nxt.com
-beacons2.extremereach.io
-extremereach.io
-beacons1.extremereach.io
-beacons.extremereach.io
-p.tvpixel.com
-tvpixel.com
-
