@@ -407,7 +407,6 @@ abc.facebook.com
 abcnews.com
 abcotvs.net
 abcvg.ovh
-abcvg.ovh
 abebos.com
 ablida.net
 ably.io
@@ -937,6 +936,7 @@ adrunnr.com
 ads-4u.com
 ads-link.net
 ads-twitter.com
+ads.doubleclick.net
 ads.facebook.com
 ads1-adnow.com
 ads2-adnow.com
@@ -2262,6 +2262,7 @@ bdash-cloud.com
 bdi-services.de
 be-map.it
 be.google.com
+beacon.krxd.net
 beaconads.com
 beaconforstore.com
 beacons.gcp.gvt0.com
@@ -3910,6 +3911,7 @@ brightedge.com
 brighteon.com
 brightfunnel.com
 brightinfo.com
+brightline.tv
 brightroll.com
 brightsolid.com
 brightspace.com
@@ -4841,6 +4843,7 @@ cz.google.com
 d-bi.fr
 d-markets.net
 d-ughwashes.ru
+d.agkn.com
 d.bingparachute.com
 d.doubleclick.net
 d.facebook.com
@@ -6041,6 +6044,7 @@ eurolandir.com
 eurosptp.com
 ev.google.com
 evanescentedge.com
+events.brightline.tv
 events.mapbox.com
 everestjs.net
 everesttech.net
@@ -6536,6 +6540,7 @@ fs.google.com
 fsdn.com
 fstrk.net
 ft.google.com
+ftadsrv.com
 ftd.agency
 ftnd.org
 fu.google.com
@@ -6848,6 +6853,10 @@ googleads.w.doubleclick.net
 googleads.x.doubleclick.net
 googleads.y.doubleclick.net
 googleads.z.doubleclick.net
+googleads1.g.doubleclick.net
+googleads2.g.doubleclick.net
+googleads3.g.doubleclick.net
+googleads4.g.doubleclick.net
 googleadservices.co.uk
 googleadservices.com
 googleadservices.org
@@ -7734,6 +7743,7 @@ imspublishergroup.com
 imtwjwoasak.com
 imu.nl
 in-appadvertising.com
+in.ftadsrv.com
 in.google.com
 inabsolor.com
 inbenta.com
@@ -7905,6 +7915,8 @@ ipromcloud.com
 ipromote.com
 ipstack.com
 ipstatp.com
+ipv4.google.com
+ipv6.google.com
 iq.google.com
 iqmining.com
 ir.google.com
@@ -8243,7 +8255,6 @@ ko-fi.com
 ko-kr.connect.facebook.com
 ko-kr.facebook.com
 ko.google.com
-kochava.com
 kochava.com
 koddi.com
 kodporno.com
@@ -8798,7 +8809,6 @@ meba.kr
 medallia.com
 medallia.eu
 medchatapp.com
-media-amazon.com
 media-amazon.com
 media-b.jp
 media-imdb.com
@@ -9965,6 +9975,7 @@ phunware.com
 pi-charter.net
 pi-rate.com.au
 pi.google.com
+pi.ispot.tv
 pi.pardot.com
 piano.io
 pichunter.com
@@ -10516,7 +10527,6 @@ rbl.ms
 rbnt.org
 rbsdigital.com
 rbx.abcvg.ovh
-rbx.abcvg.ovh
 rc.google.com
 rcgroups.net
 rcn.m.facebook.com
@@ -10854,6 +10864,7 @@ s.amazon-adsystem.com
 s.bingparachute.com
 s.click.aliexpress.com
 s.doubleclick.net
+s.innovid.com
 s.moatads.com
 s.mzstatic.com
 s.ntv.io
@@ -11244,8 +11255,10 @@ secretlab.co
 secretspiders.com
 secretturtle.com
 section.io
+secure-gl.imrworldwide.com
 secure-media-snc1.fbcdn.net
 secure-media.fbcdn.net
+secure-us.imrworldwide.com
 secure.facebook.com
 secureaddisplay.com
 secureanalytic.com
@@ -11306,6 +11319,7 @@ serve-sys.com
 serveads.biz
 servebom.com
 servedby-buysellads.com
+servedby.flashtalking.com
 servedbyadbutler.com
 servenobid.com
 server088.com
@@ -12549,6 +12563,7 @@ toyota-europe.com
 tp.google.com
 tpmedia-reactads.com
 tps10232.doubleverify.com
+tps30.doubleverify.com
 tpt.cloud
 tq.google.com
 tr-tr.facebook.com
@@ -13105,6 +13120,7 @@ video-cdn.net
 video-hkg3-1.xx.fbcdn.net
 video-iad3-1.xx.fbcdn.net
 video-sof1-1.xx.fbcdn.net
+video.adsafeprotected.com
 video.facc1-1.fna.fbcdn.net
 video.fada1-10.fna.fbcdn.net
 video.fapa1-1.fna.fbcdn.net
@@ -15321,5 +15337,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-ipv6.google.com
-ipv4.google.com
