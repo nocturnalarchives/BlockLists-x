@@ -5268,6 +5268,7 @@ dt.google.com
 dtm.adobe.com
 dtm.adobe.io
 dtprofit.com
+dts.innovid.com
 dtscout.com
 dtstmio.com
 dtxngr.com
@@ -8367,6 +8368,7 @@ lcdn-locator-new.origin-apple.com
 lcdn-locator.apple.com
 lcdn-locator.apple.com.akadns.com
 lcdn-locator.origin-apple.com
+lciapi.ninthdecimal.com
 lcloud.com
 ld.google.com
 lds.org
