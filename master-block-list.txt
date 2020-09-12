@@ -3940,6 +3940,7 @@ brushdaughter.com
 brznetwork.com
 bs-ba.facebook.com
 bs.google.com
+bs.serving-sys.com
 bseller.com.br
 bsmartdata.com
 bstatic.com
@@ -4858,6 +4859,7 @@ d.optmnstr.com
 d.optmstr.com
 d.skimresources.com
 d.teads.tv
+d.turn.com
 d.udkcjr.com
 d.usabilla.com
 d.vvv.facebook.com
@@ -9168,6 +9170,7 @@ mtalk.google.com
 mtb-news.de
 mthsense.com
 mtouch.facebook.com
+mtrcs.samba.tv
 mtrl.me
 mts.ru
 mtst.io
@@ -10016,7 +10019,9 @@ piwikpro.com
 pix-cdn.org
 pixel.adsafeprotected.com
 pixel.facebook.com
+pixel.mtrcs.samba.tv
 pixel.rubiconproject.com
+pixel.samba.tv
 pixel.watch
 pixeleze.com
 pixfuture.com
@@ -10884,6 +10889,7 @@ s.ntv.io
 s.o0bc.com
 s.optmnstr.com
 s.optmstr.com
+s.pixsrvcs.com
 s.skimresources.com
 s.teads.tv
 s.udkcjr.com
@@ -12529,6 +12535,7 @@ tmgrup.com.tr
 tmobile.com
 tmpwebeng.com
 tmz.com
+tn.alphonso.tv
 tn.com
 tn.google.com
 tns-counter.ru
