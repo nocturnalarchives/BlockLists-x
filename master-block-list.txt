@@ -1811,6 +1811,7 @@ api.pluto.tv
 api.pwnedpasswords.com
 api.sail-personalize.com
 api2.branch.io
+api64.com
 apia.com.au
 apicit.net
 apis.com.br
@@ -4339,6 +4340,7 @@ clevernt.com
 cleverpush.com
 click-plus.net
 click.aliexpress.com
+click.linksynergy.com
 click4assistance.co.uk
 clickability.com
 clickagy.com
@@ -6440,6 +6442,7 @@ fonts.ad.admitad.com
 fonts.adn.ebay.com
 fonts.affiliatefuture.com
 fonts.awin1.com
+fonts.click.linksynergy.com
 fonts.doubleclick.net
 fonts.dpbolvw.net
 fonts.emjcd.com
@@ -12196,6 +12199,7 @@ supersaa.fi
 supersonic.com
 supersonicads.com
 supplyframe.com
+support.okta.com
 support4sites.net
 supporthero.io
 surfly.com
