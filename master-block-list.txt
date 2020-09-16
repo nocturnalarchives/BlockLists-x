@@ -1802,6 +1802,8 @@ api.cloudapp.net
 api.cnn.io
 api.facebook.com
 api.kochava.com
+api.lbry.com
+api.lbry.tv
 api.no
 api.permutive.com
 api.placed.com
@@ -5744,6 +5746,7 @@ elev.io
 elevaate.io
 elevenday.me
 elfsight.com
+eligibility-panelresearch.googlevideo.com
 eliminateeffect.com
 elitechnology.com
 elitepaysites.com
@@ -6338,6 +6341,7 @@ filmbokep21.best
 filmsland.ru
 fimagenes.com
 finalizeforce.com
+financialjuice.com
 finanzen.net
 finative.eu
 find-ip.net
@@ -8363,6 +8367,8 @@ laybuy.com
 lb.google.com
 lbbcdn.com
 lblw.cloud
+lbry.com
+lbry.tv
 lc.google.com
 lcdn-locator-new.apple.com
 lcdn-locator-new.apple.com.akadns.com
@@ -14387,6 +14393,7 @@ www.fam-ad.com
 www.fbcdn.com
 www.fbcdn.net
 www.fidelity-media.com
+www.financialjuice.com
 www.fluct.jp
 www.fonts.go2cloud.org
 www.foxmetrics.com
@@ -15364,10 +15371,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-api.lbry.com
-lbry.com
-api.lbry.tv
-lbry.tv
-www.financialjuice.com
-financialjuice.com
-eligibility-panelresearch.googlevideo.com
