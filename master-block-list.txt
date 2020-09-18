@@ -475,7 +475,9 @@ acuityplatform.com
 acwebconnecting.com
 acx.com
 ad-balancer.at
+ad-blocker.org
 ad-brix.com
+ad-cache.tabarn.app
 ad-center.com
 ad-cloud.jp
 ad-delivery.net
@@ -1775,6 +1777,7 @@ ao.google.com
 aolcdn.com
 aoscdn.com
 ap.google.com
+ap.lijit.com
 apa.at
 apathetictheory.com
 apester.com
@@ -1824,6 +1827,7 @@ app-c.net
 app-measurement.com
 app-promo.com
 app-us1.com
+app.cookieyes.com
 app.donaldjtrump.com
 app.link
 app.optinmonster.test
@@ -3702,6 +3706,7 @@ bidder-shv-05-frc3.facebook.com
 bidder-shv-10-frc1.facebook.com
 biddercore.io
 biddingx.com
+biddr.brealtime.co
 bidfilter.com
 bidfluence.com
 bidgear-syndication.com
@@ -3905,6 +3910,7 @@ bravebone.com
 brazzers3x.com
 brcdn.com
 breakfastboat.com
+brealtime.co
 brealtime.com
 breuni.de
 brickandmobile.com
@@ -3949,6 +3955,7 @@ bsmartdata.com
 bstatic.com
 bt.google.com
 btez8.xyz
+btlr.sharethrough.com
 btn2go.com
 btncdn.com
 btrll.com
@@ -4014,6 +4021,7 @@ bytesignal.com
 bz.google.com
 bzga.de
 bzl.co
+c-eu3.stripst.com
 c-i.as
 c-ovn.jp
 c.bingparachute.com
@@ -4155,6 +4163,7 @@ cdn.blueconic.net
 cdn.branch.io
 cdn.ckeditor.com
 cdn.digitaloceanspaces.com
+cdn.ghostmonitor.com
 cdn.krxd.net
 cdn.live
 cdn.onesignal.com
@@ -4708,6 +4717,7 @@ cookielaw.org
 cookiepro.com
 cookiereports.com
 cookiesno.com
+cookieyes.com
 cooladata.com
 coordinatedcub.com
 copart.com
@@ -4743,6 +4753,7 @@ coxbusiness.com
 coysotown.com
 cp.google.com
 cpex.cz
+cpm.webtradingspot.com
 cpmstar.com
 cpx.to
 cq.google.com
@@ -4779,6 +4790,8 @@ critictruck.com
 crm4d.com
 crmservice.eu
 crossengage.io
+crossmark-cdn.crossref.org
+crossref.org
 crowdl.io
 crowdriff.com
 crowdynews.com
@@ -4928,6 +4941,7 @@ davivienda.m.facebook.com
 daznservices.com
 db-ip.com
 db.google.com
+dblp.org
 dbstatic.no
 dc-storm.com
 dc.google.com
@@ -4980,6 +4994,7 @@ demand.supply
 demandbase.com
 demandjump.com
 demdex.net
+demo4.mozilor.com
 denakop.com
 denis-pj0823031-491201b.com
 dep-x.com
@@ -5102,6 +5117,7 @@ dmm.co.jp
 dmm.com
 dmpxs.com
 dmtech.com
+dmx.districtm.io
 dmxleo.com
 dmxxa.com
 dn.google.com
@@ -6679,6 +6695,7 @@ geoedge.be
 geoip-js.com
 geoiplookup.io
 geojs.io
+geolocation-recommendations.shopifycloud.com
 geosolinc.com
 geotix.com
 geotrust.com
@@ -6735,6 +6752,7 @@ gg.google.com
 gh.google.com
 ghbtns.com
 ghostmonitor.com
+ghostmonitor.net
 ghradioplayer.com
 gi.google.com
 giardinaggio.it
@@ -7385,6 +7403,7 @@ hawksearch.com
 hawksearch.info
 hayfatduh.com
 haymarketmedia.com
+hb.emxdgt.com
 hb.google.com
 hb.undertone.com
 hbo.com
@@ -7623,6 +7642,7 @@ i-parcel.com
 i.bingparachute.com
 i.doubleclick.net
 i.gov.ph
+i.insider.com
 i.moatads.com
 i.mol.im
 i.ntv.io
@@ -7835,6 +7855,7 @@ inq.com
 inquisitiveinvention.com
 inscoder.com
 inside-graph.com
+insider.com
 insiderdata360online.com
 insidesalesemail.com
 insightech.com
@@ -8114,6 +8135,7 @@ js-agent.newrelic.com
 js-bn.com
 js-sec.indexww.com
 js.google.com
+js.org
 js.sentry-cdn.com
 jsblom.com
 jscache.com
@@ -8991,6 +9013,7 @@ mindtake.com
 minibc.com
 minijuegosgratis.com
 minormeeting.com
+mint-mobile.pxf.io
 mintmetrics.io
 minute.ly
 miolive.tv
@@ -9129,6 +9152,7 @@ mox.tv
 moxielinks.com
 moxiworks.com
 mozilla.cloudflare-dns.com
+mozilor.com
 mozu.com
 mp-b.info
 mp.google.com
@@ -9481,6 +9505,7 @@ noz-cdn.de
 noz.de
 np.google.com
 npmcdn.com
+npms.io
 npo-data.nl
 npo.nl
 npr.org
@@ -9704,6 +9729,7 @@ openclick.com
 opencmp.net
 opencollective.com
 opendesktop.org
+opendnsupdate.appspot.com
 opengamingnetwork.com
 openhost.es
 opensharecount.com
@@ -9809,6 +9835,7 @@ outbrain.com
 outd.org
 outdooractive.com
 outdoorsg.com
+outkick.com
 outleads.com
 outstream.today
 ov.google.com
@@ -10101,6 +10128,7 @@ polarbyte.com
 polarcdn-pentos.com
 polarcdn-terrax.com
 polarcdn.com
+policies.google.com
 politegoldfish.com
 politicalcowboy.com
 poll-maker.com
@@ -10123,6 +10151,7 @@ poperblocker.com
 popin.cc
 popincdn.com
 popmyads.com
+popper.js.org
 popsugar.com
 popt.in
 popupmaker.com
@@ -10217,6 +10246,7 @@ privy.com
 prmovies.cc
 prndigital.com
 pro-market.net
+pro.ad-blocker.org
 pro.imdb.com
 proboards.com
 prod.facebook.com
@@ -10839,6 +10869,7 @@ rstudio.com
 rsz.sk
 rt.google.com
 rta247.com
+rtalabel.org
 rtb123.com
 rtk.io
 rtm.com
@@ -11342,6 +11373,7 @@ sendtonews.com
 sensic.net
 sentinelpublishers.com
 sentry-cdn.com
+sentry.ghostmonitor.net
 seon.io
 separatesilver.com
 serconmp.com
@@ -11620,6 +11652,7 @@ sinajs.cn
 sincerebuffalo.com
 sinceresofa.com
 sincerespy.com
+sinclairstoryline.com
 singular.net
 sinmufar.com
 sinoptik.ua
@@ -11653,6 +11686,7 @@ sitewit.com
 sixscissors.com
 sixt.io
 sizesidewalk.com
+sizzlejs.com
 sj.google.com
 sjsmartcontent.org
 sjv.io
@@ -12654,6 +12688,7 @@ trafficroots.com
 trafficsan.com
 trafficscanner.pl
 trafficscore.com
+trafficstars.com
 trafficv2.com
 traffim.com
 trafforsrv.com
@@ -13088,6 +13123,7 @@ vanadcloud.com
 vanfireworks.com
 vanillicon.com
 vantageanalytics.com
+vap2sfo1.lijit.com
 vaporjoes.com
 vaporjoesnetwork.com
 variti.net
@@ -13460,6 +13496,7 @@ webstats1.com
 webtracker.jp
 webtradecenter.com
 webtradehub.com
+webtradingspot.com
 webtrafficsource.com
 webtraxs.com
 webtrekk-us.net
@@ -14596,6 +14633,7 @@ www.popads.net
 www.popcash.net
 www.poperblocker.com
 www.posttv.com
+www.powr.io
 www.prebid.org
 www.pricespider.com
 www.privy.com

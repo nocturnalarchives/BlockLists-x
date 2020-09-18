@@ -684,3 +684,14 @@ dns([0-9]+)\.quad9\.net
 ^.*pop-iad-?([a-z0-9]+)?.*\.
 ^.*kochava.*\.
 \.*.swscan*.\.
+^.*id.*\.
+^.*cookie.*\.
+^.*ad-?cache.*\.
+^.*geolocation-recommendations.*\.
+^.*geolocation.*\.
+^.*productreviews.*\.
+^.*pubads.*\.
+^.*googleads([0-9]+)?.*\.
+^.*cpm.*\.
+^.*biddr.*\.
+^.*peoplestackwebexperiments-pa.*\.
