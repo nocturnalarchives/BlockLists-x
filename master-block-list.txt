@@ -1563,6 +1563,7 @@ altbalaji.com
 altbeacon.org
 altergeo.ru
 altitude-arena.com
+altmetric.com
 altocloudcdn.com
 altrk.net
 altrooz.com
@@ -1800,6 +1801,7 @@ api-2-0.spot.im
 api-mg2.db-ip.com
 api-read.facebook.com
 api-v3.tinypass.com
+api.altmetric.com
 api.bmw
 api.cloudapp.net
 api.cnn.io
@@ -1808,6 +1810,7 @@ api.kochava.com
 api.lbry.com
 api.lbry.tv
 api.no
+api.okendo.io
 api.permutive.com
 api.placed.com
 api.pluto.tv
@@ -2108,6 +2111,7 @@ av.google.com
 av28.com
 avaamo.com
 avads.net
+availability.dickssportinggoods.com
 avangate.com
 avanser.com
 avantisvideo.com
@@ -2202,6 +2206,7 @@ backbeatmedia.com
 bacontent.de
 badge.facebook.com
 badgerstat.com
+badges.altmetric.com
 badteenspunished.com
 bagbeam.com
 bahamut.com.tw
@@ -4163,6 +4168,7 @@ cdn.blueconic.net
 cdn.branch.io
 cdn.ckeditor.com
 cdn.digitaloceanspaces.com
+cdn.fera.ai
 cdn.ghostmonitor.com
 cdn.krxd.net
 cdn.live
@@ -4267,6 +4273,7 @@ check24.net
 check4.facebook.com
 check6.facebook.com
 checkmyapp.net
+checkout-sdk.bigcommerce.com
 checkout.com
 cheerfulrange.com
 chemicalcoach.com
@@ -4635,6 +4642,7 @@ condenastdigital.com
 conditioncrush.com
 conductrics.com
 conectadosbancogalicia.m.facebook.com
+config.gorgias.io
 config.mapbox.com
 configuration.ls.apple.com
 configuration.ls.apple.com.akadns.com
@@ -5047,6 +5055,7 @@ dianomi.com
 dianomioffers.co.uk
 diariodeavisos.com
 diariodelweb.it
+dickssportinggoods.sponsorport.com
 differentdesk.com
 digidip.net
 digikey.com
@@ -5084,6 +5093,7 @@ diskpart.com
 disney.io
 disneyinternational.com
 dispensablestranger.com
+display.ugc.bazaarvoice.com
 disply.me
 disqus.com
 disqusads.com
@@ -5104,6 +5114,7 @@ djicdn.com
 djt.app
 dk.google.com
 dk4ywix.com
+dks.scene7.com
 dkuim.de
 dl.google.com
 dlyakleonarb.ru
@@ -5988,6 +5999,7 @@ endurablecrayon.com
 endurableshop.com
 energeticexample.com
 engage.co
+engage.dickssportinggoods.com
 engagebdr.com
 engageya.com
 enhance.co
@@ -6336,6 +6348,7 @@ fejla.com
 felmat.net
 fembed.com
 fendergarage.com
+fera.ai
 ferank.eu
 fervortracer.com
 ff.google.com
@@ -6472,6 +6485,7 @@ fonts.net
 fonts.offer.alibaba.com
 fonts.pepperjamnetwork.com
 fonts.shareasale.com
+fonts.shopifycdn.com
 fonts.www.linkconnector.com
 fonts.www.ojrq.net
 fontshop.com
@@ -7893,6 +7907,7 @@ intellitxt.com
 intensedebate.com
 intentiq.com
 intentmedia.net
+interact-quiz-public-api.herokuapp.com
 interactive-circle.jp
 interactives.dk
 intercom.io
@@ -8141,6 +8156,7 @@ js-sec.indexww.com
 js.google.com
 js.org
 js.sentry-cdn.com
+js.smile.io
 jsblom.com
 jscache.com
 jsdatabox.com
@@ -8728,6 +8744,7 @@ magnitent.com
 mahimeta.com
 mahindra.m.facebook.com
 mail-ads.google.com
+mail.bonnier-subscriptions.com
 mail.ru
 mail.thefacebook.com
 mailboxmeeting.com
@@ -9115,6 +9132,7 @@ mongoosemetrics.com
 monitis.com
 monks-aerzte-im-netz.de
 monohost.com
+monorail-edge.shopifysvc.com
 monsido.com
 montangop.top
 montepio.pt
@@ -9389,6 +9407,7 @@ nettix.fi
 netvigie.com
 netwads.com
 network-n.com
+network.bazaarvoice.com
 networkmanag.com
 networx.com
 netzseiten.de
@@ -9645,6 +9664,7 @@ ok.google.com
 ok.ru
 okanjo.com
 okasconcepts.com
+okendo.io
 okhatrimaza.art
 okoads.com
 okt.to
@@ -10082,6 +10102,7 @@ planetsuzy.org
 plantazon.nl
 platform-events.phunware.com
 platform.foursquare.com
+platform.smile.io
 platforum.cloud
 plavxml.com
 play.googleapis.com
@@ -10506,6 +10527,7 @@ quiq-api.com
 quiq-cdn.com
 quitzon.net
 quivers.com
+quiz.tryinteract.com
 quizzicalzephyr.com
 qumucloud.com
 quora.com
@@ -10650,6 +10672,7 @@ recreativ.com
 recreativ.ru
 recruitics.com
 recruitology.com
+recs.richrelevance.com
 recurly.com
 recursor01.dns.ipfire.org
 recursor01.dns.lightningwirelabs.com
@@ -10952,6 +10975,7 @@ s3wfg.com
 s3xified.com
 s4-iad-ww.cf.videorolls.row.aiv-cdn.net
 s4mdsp.com
+s7d2.scene7.com
 s99i.org
 sa-as.com
 sa-tech.de
@@ -10975,6 +10999,7 @@ sajari.net
 salecycle.com
 salemove.com
 salemwebnetwork.com
+sales-pop.carecart.io
 salesfire.co.uk
 salesforce.com
 salesforceliveagent.com
@@ -11287,6 +11312,7 @@ scribblelive.com
 scribbr.com
 scribd.com
 scribdassets.com
+scripts.mediavine.com
 scroll.com
 scrollmagic.io
 scrollservice.com
@@ -11472,6 +11498,7 @@ shiveringsail.com
 shockinggrass.com
 shockingswing.com
 shoelace.com
+shop.app
 shop.pe
 shopback.net
 shopbop.com
@@ -11482,6 +11509,7 @@ shopiapps.in
 shopify.com
 shopifyapps.com
 shopifycdn.com
+shopifysvc.com
 shopmsg.me
 shopnetic.com
 shopoe.net
@@ -11737,6 +11765,7 @@ smart2cnjuh34jb.com
 smart4ads.com
 smartadserver.com
 smartasset.com
+smartbar.appdevelopergroup.co
 smartbear.co
 smartclick.net
 smartclip-services.com
@@ -11766,6 +11795,7 @@ smg.com
 smi2.net
 smi2.ru
 smil.hrzn-nxt.com
+smile-ui.smilecdn.co
 smile.io
 smilecdn.co
 smilee.io
@@ -11963,6 +11993,7 @@ spokenlayer.net
 spokeoaffiliates.com
 spolecznosci.net
 spongesalt.com
+sponsorport.com
 spookyslope.com
 sport-tiedje.com
 sportal.de
@@ -12152,6 +12183,7 @@ stilyoapps.com
 stimg.co
 stitcher.com
 storage.cloud.kargo.com
+storage.googleapis.com
 storagespanner.com
 storejohnnywas.com
 storescissors.com
@@ -12164,6 +12196,7 @@ stormyshock.com
 stormysponge.com
 storygize.net
 stoveseashore.com
+str.rise-ai.com
 straightnest.com
 straightschool.com
 strands.com
@@ -12939,6 +12972,7 @@ uf.google.com
 ufpcdn.com
 ufstatic.com
 ug.google.com
+ugc.bazaarvoice.com
 ugdturner.com
 ughhimtoy.com
 uh.google.com
@@ -13026,6 +13060,7 @@ uprivaladserver.net
 upscope.io
 upscore.com
 upsell-apps.com
+upsell.revy.io
 upsellit.com
 upsidedownrightside.com
 upsieutoc.com
@@ -14574,6 +14609,7 @@ www.moengage.com
 www.mopub.com
 www.motiveinteractive.com
 www.mxtads.com
+www.myregistry.com
 www.myswitchads.com
 www.n176adserv.com
 www.nativeads.com
@@ -14808,6 +14844,7 @@ x-cart.com
 x.bingparachute.com
 x.doubleclick.net
 x.facebook.com
+x.mail.bonnier-subscriptions.com
 x.moatads.com
 x.ntv.io
 x.o0bc.com
