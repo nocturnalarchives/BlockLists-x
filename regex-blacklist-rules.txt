@@ -726,3 +726,4 @@
 ^.*zen-?desk.*\.
 ^.*zopim.*\.
 dns([0-9]+)\.quad9\.net
+(^|\.)*credentials*\.
