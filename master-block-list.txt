@@ -15629,3 +15629,9 @@ acsbapp.com
 a32jcyk7azp7b5-ats.iot.us-east-1.amazonaws.com
 iot.us-east-1.amazonaws.com
 c1fp46crw8ud8d.credentials.iot.us-east-1.amazonaws.com
+m2.tuyaus.com
+tuyaus.com
+a3.tuyaus.com
+time-ios.g.aaplimg.com
+g.aaplimg.com
+aaplimg.com

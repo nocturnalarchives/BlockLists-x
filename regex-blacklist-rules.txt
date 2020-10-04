@@ -727,3 +727,9 @@
 ^.*zopim.*\.
 dns([0-9]+)\.quad9\.net
 (^|\.)*credentials*\.
+
+(^|\.)*aaplimg*\.
+(^|\.)*contact-?tracing*\.
+(^|\.)*contact*\.
+(^|\.)*tracing*\.
+(^|\.)*covid-?(19)?*\.
