@@ -766,6 +766,10 @@ dns([0-9]+)\.quad9\.net
 (^|\.)*carnival\.
 
 
+fonts?\.(www|clicks?|ads?|offers?|ww[0-9])\.
+(www|clicks?|ads?|offers?|ww[0-9])\.fonts?\.
+
+
 
 
 

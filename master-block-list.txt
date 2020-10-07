@@ -514,6 +514,7 @@ ad-srv.net
 ad-stir.com
 ad-sys.com
 ad.admitad.com
+ad.atdmt.com
 ad.doubleclick.net
 ad.google.com
 ad.gt
@@ -12349,6 +12350,7 @@ static-od.com
 static-sb.com
 static-st11-a.gc.apple.com
 static-st11-b.gc.apple.com
+static.ad.atdmt.com
 static.addtoany.com
 static.ads-twitter.com
 static.ak.connect.facebook.com
