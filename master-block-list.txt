@@ -15817,3 +15817,6 @@ ocsp.int-x3.letsencrypt.org
 ocsp.digicert.com
 preferences.trustarc.com
 ocsp.entrust.net
+pubads.g.doubleclick.net
+g.doubleclick.net
+doubleclick.net
