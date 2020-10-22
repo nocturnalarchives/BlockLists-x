@@ -884,7 +884,6 @@ admtpmp127.com
 admulti.com
 admulti.ru
 adn.ebay.com
-adn.ebay.com
 adname.ru
 adnami.io
 adnection.com
@@ -1466,7 +1465,6 @@ af.google.com
 afcdn.com
 affec.tv
 affilae.com
-affiliatefuture.com
 affiliatefuture.com
 affiliategroove.com
 affiliateprogramma.eu
@@ -2201,7 +2199,6 @@ aweproto.com
 aweprt.com
 awepsi.com
 awestc.com
-awin1.com
 awin1.com
 awmserve.com
 awsatstb.com
@@ -3772,7 +3769,6 @@ biblemenus.com
 biblia.com
 bibliocommons.com
 bid.g.doubleclick.net
-bid.g.doubleclick.net
 bidadx.com
 bidder-shv-05-frc3.facebook.com
 bidder-shv-10-frc1.facebook.com
@@ -4423,7 +4419,6 @@ civiclive.com
 civicplus.com
 civicscience.com
 cj.dotomi.com
-cj.dotomi.com
 cj.google.com
 ck-cdn.com
 ck.google.com
@@ -4749,7 +4744,6 @@ conductrics.com
 conectadosbancogalicia.m.facebook.com
 config.gorgias.io
 config.mapbox.com
-configuration.ls.apple.com
 configuration.ls.apple.com
 configuration.ls.apple.com.akadns.com
 configuration.ls.origin-apple.com
@@ -5213,12 +5207,10 @@ discoveryeducation.com
 discreetfield.com
 diskpart.com
 disney.io
-disney.io
 disneyinternational.com
 dispensablestranger.com
 display.ugc.bazaarvoice.com
 disply.me
-disqus.com
 disqus.com
 disqusads.com
 disquscdn.com
@@ -5383,12 +5375,7 @@ dotmailer-surveys.com
 dotmetrics.net
 dotmetrics.rocks
 dotomi.com
-dotomi.com
 doubleclick.com
-doubleclick.net
-doubleclick.net
-doubleclick.net
-doubleclick.net
 doubleclick.net
 doublepimp.com
 doublepimpads.com
@@ -5397,7 +5384,6 @@ doubtfulrainstorm.com
 downdetector.com
 doyoudreamup.com
 dp.google.com
-dpbolvw.net
 dpbolvw.net
 dpic.me
 dpmsrv.com
@@ -5525,7 +5511,6 @@ eccmp.com
 ecitizen.gov.sg
 eclick.vn
 eclickz.com
-ecomm.events
 ecomm.events
 econda-monitor.de
 economedia.bg
@@ -6001,7 +5986,6 @@ emediate.se
 emerse.com
 emetriq.de
 emfluence.com
-emjcd.com
 emjcd.com
 emma.tools
 emmtree.com
@@ -6618,31 +6602,21 @@ fogl1onf.com
 followtub.com
 fomo.com
 font.cj.dotomi.com
-font.cj.dotomi.com
 fontainsuny.club
 fontawesome.com
 fontplus.jp
 fonts.ad.admitad.com
 fonts.adn.ebay.com
-fonts.adn.ebay.com
 fonts.affiliatefuture.com
-fonts.affiliatefuture.com
-fonts.awin1.com
 fonts.awin1.com
 fonts.click.linksynergy.com
 fonts.doubleclick.net
-fonts.doubleclick.net
-fonts.dpbolvw.net
 fonts.dpbolvw.net
 fonts.emjcd.com
-fonts.emjcd.com
-fonts.go2cloud.org
 fonts.go2cloud.org
 fonts.net
 fonts.offer.alibaba.com
-fonts.offer.alibaba.com
 fonts.pepperjamnetwork.com
-fonts.shareasale.com
 fonts.shareasale.com
 fonts.shopifycdn.com
 fonts.www.linkconnector.com
@@ -6726,7 +6700,6 @@ fresh-video.com
 fresh.inlinkz.com
 freshbots.ai
 freshchat.com
-freshchat.com
 freshclick.co.uk
 freshdesk.com
 freshfilter.co.uk
@@ -6736,7 +6709,6 @@ freshop.com
 freshrelevance.com
 freshsales.io
 freshworks.com
-freshworksapi.com
 freshworksapi.com
 fretfulfurniture.com
 friend.gc.apple.com
@@ -6801,9 +6773,6 @@ fz.google.com
 g--o.info
 g.aaplimg.com
 g.bingparachute.com
-g.doubleclick.net
-g.doubleclick.net
-g.doubleclick.net
 g.doubleclick.net
 g.moatads.com
 g.ntv.io
@@ -6957,6 +6926,7 @@ giosg.com
 giraff.io
 giraffepiano.com
 gitbook.com
+gitcdn.xyz
 githack.com
 github.com
 github.io
@@ -9889,7 +9859,6 @@ odvr.nic.cz
 oe.google.com
 of.google.com
 offer.alibaba.com
-offer.alibaba.com
 offerista.com
 offerscdn.net
 offerstrack.net
@@ -10639,7 +10608,6 @@ pu.google.com
 pub-cdn.com
 pub.network
 pubads.g.doubleclick.net
-pubads.g.doubleclick.net
 pubdirecte.com
 pubexchange.com
 pubguru.com
@@ -10759,7 +10727,6 @@ qn.google.com
 qnsr.com
 qo.google.com
 qp.google.com
-qq.com
 qq.com
 qq.google.com
 qqjar.ru
@@ -11704,7 +11671,6 @@ sendtonews.com
 sensic.net
 sentinelpublishers.com
 sentry-cdn.com
-sentry-cdn.com
 sentry.ghostmonitor.net
 seon.io
 separatesilver.com
@@ -11779,7 +11745,6 @@ share.djt.app
 shareaholic.com
 shareaholic.net
 shareasale-analytics.com
-shareasale.com
 shareasale.com
 sharecare.com
 sharedid.org
@@ -12016,7 +11981,6 @@ siteintercept.qualtrics.com
 sitejabber.com
 sitekno.net
 sitel.m.facebook.com
-sitelock.com
 sitelock.com
 siteoid.com
 sitescdn.net
@@ -12387,7 +12351,6 @@ stackcommerce.com
 stackla.com
 stackpathcdn.com
 stackpathdns.com
-stackpathdns.com
 stags.bluekai.com
 stailamedia.com
 stakingscrew.com
@@ -12726,7 +12689,6 @@ tapad.com
 tapatalk-cdn.com
 tapatalk.com
 tapestry.tapad.com
-tapfiliate.com
 tapfiliate.com
 tapinfluence.com
 tapjoy.com
@@ -14873,7 +14835,6 @@ www.fbcdn.net
 www.fidelity-media.com
 www.financialjuice.com
 www.fluct.jp
-www.fonts.go2cloud.org
 www.fonts.go2cloud.org
 www.foshk.com
 www.foxmetrics.com
