@@ -3974,6 +3974,7 @@ brandify.com
 brandingbrand.com
 brandme-prod.s3.amazonaws.com
 brandmetrics.com
+brands.home-assistant.io
 brandwire.tv
 brassrule.com
 braun634.com
@@ -8322,6 +8323,7 @@ johnsonoutdoors.com
 jotfor.ms
 jotform.com
 journalmedia.ie
+journey.newyorker.com
 journity.com
 joyreactor.cc
 joyshub.com
@@ -11638,6 +11640,7 @@ seedtag.com
 seenthis.se
 sefsdvc.com
 segmanta.com
+segment-data.zqtk.net
 segment.com
 segmentify.com
 segmetrics.io
@@ -13762,6 +13765,7 @@ vteximg.com.br
 vthumb.xx.fbcdn.net
 vu.google.com
 vuejs.org
+vulcan.condenastdigital.com
 vup.to
 vupload.facebook.com
 vupulse.com
@@ -15809,6 +15813,7 @@ zpg.co.uk
 zphimsex.com
 zprk.io
 zq.google.com
+zqtk.net
 zr.google.com
 zs.google.com
 zt.google.com
