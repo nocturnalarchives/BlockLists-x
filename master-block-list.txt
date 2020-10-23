@@ -1002,6 +1002,7 @@ adserver.com
 adserver.pm
 adserversolutions.com
 adservice.google.com
+adservice.google.ru
 adservicemedia.dk
 adservme.com
 adservone.com
@@ -1628,6 +1629,7 @@ ambimob.com
 ambitiousagreement.com
 amcdn.vn
 amcharts.com
+amd.cdn.turner.com
 americaneagle.com
 amfeed.ru
 amgdgt.com
@@ -2043,6 +2045,7 @@ artydia.com
 arukereso.com
 as-casalemedia.com
 as-sec.casalemedia.com
+as.casalemedia.com
 as.google.com
 as22384.net
 asadcdn.com
@@ -2338,6 +2341,7 @@ be-map.it
 be.google.com
 beacon-v2.helpscout.net
 beacon.krxd.net
+beacon.tru.am
 beaconads.com
 beaconforstore.com
 beacons.extremereach.io
@@ -4245,6 +4249,7 @@ cdn.blueconic.net
 cdn.branch.io
 cdn.ckeditor.com
 cdn.cookielaw.org
+cdn.corporate.walmart.com
 cdn.digitaloceanspaces.com
 cdn.fera.ai
 cdn.ghostmonitor.com
@@ -4260,6 +4265,7 @@ cdn.shortpixel.ai
 cdn.sstatic.net
 cdn.tax
 cdn.tinypass.com
+cdn.turner.com
 cdn.viglink.com
 cdn20tube.pro
 cdn3.net
@@ -4291,6 +4297,7 @@ cdntvn.pl
 cdnwebcloud.com
 cdnwidget.com
 cdpn.io
+cds.taboola.com
 cdx-nk11.gc.apple.com
 cdx.gc.apple.com
 cdxnet.com
@@ -4448,6 +4455,7 @@ cleverpush.com
 click-plus.net
 click.aliexpress.com
 click.linksynergy.com
+click.redditmail.com
 click4assistance.co.uk
 clickability.com
 clickagy.com
@@ -4664,6 +4672,7 @@ cobalten.com
 cobaltgroup.com
 cobrowser.com
 code.facebook.com
+code.responsivevoice.org
 codeblackbelt.com
 codefund.app
 codefund.io
@@ -4772,6 +4781,7 @@ consciouscabbage.com
 consciouschairs.com
 consensu.org
 consent.is
+consent.truste.com
 consentag.eu
 consistentcart.com
 consoglobe.com
@@ -4852,12 +4862,14 @@ coremetrics.com
 cormes.de
 corot-20c.com
 corp.google.com
+corporate.walmart.com
 corporate1.bluepink.ro
 corprensa.com
 correctchaos.com
 corrieredellosport.it
 corriereobjects.it
 cosmosjackson.com
+counter.yadro.ru
 countingdownto.com
 countryflags.io
 countyou.de
@@ -5023,6 +5035,7 @@ damdy.com
 dampdock.com
 dancemistake.com
 dandb.com
+daneden.github.io
 danone.m.facebook.com
 danzz.ch
 dapperdiscussion.com
@@ -5036,6 +5049,8 @@ dashingdirt.com
 dashingsweater.com
 dashjs.org
 data-dynamic.net
+data.api.cnn.io
+data.cnn.com
 data.gc.apple.com
 datacamp.com
 dataconnector.corp.google.com
@@ -5097,6 +5112,7 @@ decoycreation.com
 deep.bi
 deepintent.com
 deezer.com
+def.devnano.com
 defectivesun.com
 defense.gov
 defensivecarry.com
@@ -5149,6 +5165,7 @@ developers.facebook.com
 device-metrics-us.amazon.com
 device-metrics.amazon.com
 device9.com
+devnano.com
 devolksbank.nl
 devrimplayer.com
 devscroll.com
@@ -5417,6 +5434,7 @@ dsa.moatads.com
 dspx.tv
 dsspn.com
 dstillery.com
+dsum-sec.casalemedia.com
 dsum.casalemedia.com
 dt.google.com
 dt6.clnmde.com
@@ -6203,6 +6221,7 @@ ethanallensweepstakes.com
 ethicalads.io
 etracker.com
 etracker.de
+eu-u.openx.net
 eu.google.com
 eulerian.net
 eum-appdynamics.com
@@ -6394,6 +6413,7 @@ fastclick.net
 fastcounter.de
 fastemu.co
 fastgull.io
+fastlane-adv.rubiconproject.com
 fastlane.rubiconproject.com
 fastly-insights.com
 fastly.net
@@ -6412,6 +6432,7 @@ fb.com
 fb.google.com
 fb.m.facebook.com
 fb.me
+fb.watch
 fb4708f8e80kdno4pyq-bigworkf1521512717-sonar.xz.fbcdn.net
 fbcallback.wechat.com
 fbcdn-creative-a.akamaihd.net
@@ -9052,6 +9073,7 @@ mbah-togel.com
 mbasic.facebook.com
 mbww.com
 mc.google.com
+mc.yandex.ru
 mcast.net
 mccdn.me
 md-nx.com
@@ -9997,6 +10019,7 @@ opticalanalytics.io
 optico.fr
 optimahub.com
 optimallimit.com
+optimized-by.rubiconproject.com
 optimizely.com
 optimizesrv.com
 optimonk.com
@@ -10160,6 +10183,7 @@ parsely.com
 parsimoniouspolice.com
 particlenews.com
 particularaudience.com
+partner.googleadservices.com
 partner.shareaholic.net
 partplanes.com
 partyvibe.com
@@ -10366,6 +10390,7 @@ pluto.tv
 plyr.io
 pm.google.com
 pmc.com
+pmd.cdn.turner.com
 pmsrv.co
 pn.google.com
 pn.vg
@@ -10447,6 +10472,7 @@ powr.io
 powrcdn.com
 poyopara.com
 pp.google.com
+pp.lp4.io
 ppapi.pl
 ppcsecure.com
 ppl-news3.club
@@ -10926,6 +10952,7 @@ redblue.de
 redcdn.pl
 redclick.ru
 reddit.com
+redditmail.com
 redditmedia.com
 redditstatic.com
 redfastlabs.com
@@ -11640,6 +11667,7 @@ seedtag.com
 seenthis.se
 sefsdvc.com
 segmanta.com
+segment-data-us-east.zqtk.net
 segment-data.zqtk.net
 segment.com
 segmentify.com
@@ -12369,6 +12397,7 @@ star-advertising.com
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
 star.facebook.com
+starecat.com
 starfieldtech.com
 starsaffiliateclub.com
 startgaming.net
@@ -12398,6 +12427,7 @@ static.ak.facebook.com
 static.ak.facebook.com.edgesuite.net
 static.ak.fbcdn.net
 static.criteo.net
+static.doubleclick.net
 static.facebook.com
 static.fdel11-1.fna.fbcdn.net
 static.fsea1-1.fna.fbcdn.net
@@ -12411,6 +12441,7 @@ static.www.ojrq.net
 static.www.tkqlhce.com
 static.xx.fbcdn.net
 static.yieldmo.com
+static8.mixi.media
 statica.site
 staticdata.site
 staticiv.com
@@ -12998,6 +13029,7 @@ townsquare.media
 townsquareblogs.com
 toyota-europe.com
 tp.google.com
+tpc.googlesyndication.com
 tpmedia-reactads.com
 tps.doubleverify.com
 tps10232.doubleverify.com
@@ -13427,6 +13459,8 @@ usa.gov
 usabilla.com
 usablenet.com
 usatoday.com
+usden.ce.apple-dns.net
+usden.icloud-content.com
 use-application-dns.net
 use-tor.adsrvr.org
 usefathom.com
@@ -14862,6 +14896,7 @@ www.goodadvert.ru
 www.gooddata.com
 www.goodreads.com
 www.google-analytics.com
+www.google.ru
 www.googleadservices.co.uk
 www.googleadservices.com
 www.googleadservices.org
@@ -14915,6 +14950,7 @@ www.kds.media
 www.keymedia.com
 www.kingoapp.com
 www.kissmetrics.com
+www.knotch-cdn.com
 www.kochava.com
 www.krxd.net
 www.kwizzad.com
@@ -15148,6 +15184,7 @@ www.tinypass.com
 www.tiqcdn.com
 www.tjournal.ru
 www.tkqlhce.com
+www.tns-counter.ru
 www.toroadvertising.com
 www.touchads.com
 www.touchcast.com
@@ -15195,8 +15232,10 @@ www.xapads.com
 www.yahoo.com
 www.yeahmobi.com
 www.yoads.net
+www.yoast.com
 www.yomedia.vn
 www.younetmedia.com
+www.youtubepp.com
 www.ysense.com
 www.yuhuads.com
 www.zestads.com
@@ -15462,6 +15501,7 @@ ym.google.com
 yn.google.com
 yo.google.com
 yoads.net
+yoast.com
 yobee.it
 yolastore.com
 yomedia.vn
