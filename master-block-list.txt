@@ -1922,6 +1922,7 @@ apple-dns.net
 apple-mapkit.com
 apple.com
 apple.news
+appleid.cdn-apple.com
 appleiphonecell.com
 applesarmy.com
 appliancesaccount.io
@@ -1953,6 +1954,7 @@ approstar.com
 apprupt.com
 apps-host.com
 apps.facebook.com
+apps.mil
 apps.mzstatic.com
 apps.npr.org
 appscomeon.com
@@ -4696,6 +4698,7 @@ cointraffic.io
 coinzilla.com
 coinzillatag.com
 coke.com
+collab.apps.mil
 collect.igodigital.com
 collectcdn.com
 collector-pxogckki0e.px-cloud.net
@@ -4919,6 +4922,7 @@ critictruck.com
 crittercism.com
 crm4d.com
 crmservice.eu
+crooksandliars.com
 crossengage.io
 crossmark-cdn.crossref.org
 crossref.org
@@ -5319,6 +5323,7 @@ docksalmon.com
 docomo.ne.jp
 docplanner.com
 doctena.de
+dod.teams.microsoft.us
 doggies.com
 doh-2.seby.io
 doh-ch.blahdns.com
@@ -6285,6 +6290,7 @@ exoticads.com
 expedia.com
 expediapartnercentral.com
 experience.tinypass.com
+experiment.routing.cloudfront.aws.a2z.com
 expoints.nl
 exponea.com
 exponential.com
@@ -7103,6 +7109,7 @@ gotomeeting.com
 gotpoem.com
 gotraffic.net
 gov.bc.ca
+gov.teams.microsoft.us
 govdelivery.com
 govmetric.com
 govtech.m.facebook.com
@@ -7536,6 +7543,7 @@ gudangbanner.com
 guidants.com
 guidestar.org
 guiltlessbasketball.com
+guim.co.uk
 guitarbelieve.com
 gulliblecamp.com
 gumgum.com
@@ -7849,6 +7857,7 @@ i-parcel.com
 i.bingparachute.com
 i.doubleclick.net
 i.gov.ph
+i.guim.co.uk
 i.insider.com
 i.matheranalytics.com
 i.moatads.com
@@ -9665,6 +9674,7 @@ newshub.id
 newsletter2go.com
 newsmax.com
 newsmaxfeednetwork.com
+newsmaxwidget.com
 newsmemory.com
 newsportal9.ru
 newsportalssl1.top
@@ -10538,6 +10548,7 @@ pro.ad-blocker.org
 pro.imdb.com
 proboards.com
 prod.bidr.io
+prod.experiment.routing.cloudfront.aws.a2z.com
 prod.facebook.com
 prodara.de
 prodperfect.com
@@ -10959,6 +10970,7 @@ redfastlabs.com
 redgifs.com
 redintelligence.net
 redirecionador.ml
+redirect.prod.experiment.routing.cloudfront.aws.a2z.com
 redlink.com
 redllama.ru
 redlotus.com
@@ -11151,6 +11163,7 @@ rotumal.com
 roughroll.com
 roularta.be
 routeapp.io
+routing.cloudfront.aws.a2z.com
 rowoardog.com
 roxot-panel.com
 royalbank.com
@@ -12780,6 +12793,7 @@ teacherfucksteens.com
 teads.com
 teads.tv
 tealiumiq.com
+teams.microsoft.us
 teasoftware.com
 teathemes.net
 tech426.com
@@ -13126,6 +13140,7 @@ trenddigital.vn
 trendemon.com
 trendingpolitics.com
 trendmd.com
+trends.newsmaxwidget.com
 trengo.eu
 trfmxt.com
 trialfire.com
@@ -14813,6 +14828,7 @@ www.co.jp
 www.co.kr
 www.co.nz
 www.co.uk
+www.collab.apps.mil
 www.com.br
 www.com.cn
 www.com.tr
@@ -14905,6 +14921,7 @@ www.googleadsserving.cn
 www.googletagmanager.com
 www.googletagservices.com
 www.gothamads.com
+www.gov.teams.microsoft.us
 www.graph.facebook.com
 www.gravatar.com
 www.grenads.com
