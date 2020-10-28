@@ -1547,6 +1547,7 @@ akubebas.com
 al.google.com
 alaskaair.net
 albacross.com
+albertonne.com
 alcmpn.com
 alcroconawa.com
 alertafterthought.com
@@ -4259,6 +4260,7 @@ cdn.irsdn.net
 cdn.krxd.net
 cdn.live
 cdn.mg2connext.com
+cdn.mojoreporter.com
 cdn.onesignal.com
 cdn.otstatic.com
 cdn.printfriendly.com
@@ -4871,6 +4873,7 @@ corprensa.com
 correctchaos.com
 corrieredellosport.it
 corriereobjects.it
+corwin.com
 cosmosjackson.com
 counter.yadro.ru
 countingdownto.com
@@ -5437,6 +5440,7 @@ ds-cdn.com
 ds.google.com
 dsa.moatads.com
 dspx.tv
+dss.platform.californiatimes.com
 dsspn.com
 dstillery.com
 dsum-sec.casalemedia.com
@@ -8370,6 +8374,7 @@ js-agent.newrelic.com
 js-bn.com
 js-sec.indexww.com
 js.google.com
+js.hs-scripts.com
 js.org
 js.sentry-cdn.com
 js.smile.io
@@ -8709,6 +8714,7 @@ libchat.com
 libero.it
 libertystmedia.com
 libraryh3lp.com
+libs.platform.californiatimes.com
 libsyn.com
 licdn.com
 licensebuttons.net
@@ -9110,6 +9116,7 @@ media-imdb.com
 media-match.com
 media.msg.dotomi.com
 media.net
+media.rocketreach.co
 media01.eu
 media6degrees.com
 mediaad.org
@@ -9357,6 +9364,8 @@ moelven.m.facebook.com
 moengage.com
 moevideo.biz
 moex.com
+mohunlal.com
+mojoreporter.com
 mol.im
 moldyicicle.com
 momagic.com
@@ -10368,6 +10377,7 @@ placelocal.com
 planetsuzy.org
 plantazon.nl
 platform-events.phunware.com
+platform.californiatimes.com
 platform.foursquare.com
 platform.smile.io
 platforum.cloud
@@ -10547,6 +10557,7 @@ pro-market.net
 pro.ad-blocker.org
 pro.imdb.com
 proboards.com
+prod.ally.ac
 prod.bidr.io
 prod.experiment.routing.cloudfront.aws.a2z.com
 prod.facebook.com
@@ -11137,6 +11148,7 @@ roadid.com
 robspabah.com
 rocketcdn.me
 rocketpush.net
+rocketreach.co
 rockomni.com
 roeye.com
 roeyecdn.com
@@ -11657,6 +11669,7 @@ secure-media.fbcdn.net
 secure-rubiconproject.com
 secure-us.imrworldwide.com
 secure.adnxs.com
+secure.espn.com
 secure.facebook.com
 secure.fanboy.co.nz
 secure.force.com
@@ -12382,6 +12395,7 @@ ssl-services.com
 ssl.facebook.com
 ssl.gstatic.com
 sso-service.de
+ssor.platform.californiatimes.com
 ssp.behave.com
 sspinc.io
 sstatic.net
@@ -13051,6 +13065,7 @@ tps30.doubleverify.com
 tpt.cloud
 tq.google.com
 tr-tr.facebook.com
+tr.albertonne.com
 tr.facebook.com
 tr.fatmedia.io
 tr.google.com
@@ -13468,6 +13483,7 @@ urlbi.com
 us-east-sync.bidswitch.net
 us-proxy.org
 us-u.openx.net
+us.corwin.com
 us.google.com
 us1.gigya.com
 usa.gov
