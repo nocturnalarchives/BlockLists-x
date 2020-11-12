@@ -4759,6 +4759,7 @@ conductrics.com
 conectadosbancogalicia.m.facebook.com
 config.gorgias.io
 config.mapbox.com
+configuration.apple.com
 configuration.ls.apple.com
 configuration.ls.apple.com.akadns.com
 configuration.ls.origin-apple.com
@@ -4801,6 +4802,7 @@ container.pepperjam.com
 contehos.com
 content-ad.net
 content-autofill.googleapis.com
+content-storage-upload.googleapis.com
 content.ad
 content4.jdmagicbox.com
 contentabc.com
@@ -5533,6 +5535,8 @@ ebu.io
 ec-cloud.org
 ec-concier.com
 ec.google.com
+ec2-34-213-103-51.us-west-2.compute.amazonaws.com
+ec2-54-175-170-213.compute-1.amazonaws.com
 ecal.com
 ecbsn.com
 eccmp.com
@@ -6019,6 +6023,7 @@ emma.tools
 emmtree.com
 emol.cl
 emory.edu
+emoshape.com
 empathybroker.com
 empower.net
 emsecure.net
@@ -10250,6 +10255,12 @@ pelcro.com
 pendo.io
 pennynetwork.com
 penspade.com
+peoplestackwebexperiments-pa.clients1.google.com
+peoplestackwebexperiments-pa.clients2.google.com
+peoplestackwebexperiments-pa.clients3.google.com
+peoplestackwebexperiments-pa.clients4.google.com
+peoplestackwebexperiments-pa.clients5.google.com
+peoplestackwebexperiments-pa.clients6.google.com
 pepperjam.com
 pepperjamnetwork.com
 pepsia.com
@@ -11250,6 +11261,7 @@ s-palvelut.fi
 s-static.ak.facebook.com
 s-static.ak.facebook.com.edgekey.net
 s-static.facebook.com
+s.adroll.com
 s.amazon-adsystem.com
 s.bingparachute.com
 s.click.aliexpress.com
@@ -14886,6 +14898,7 @@ www.eclickz.com
 www.eero.com
 www.electronic.us
 www.emediate.se
+www.emoshape.com
 www.emxdigital.com
 www.engage.co
 www.engagebdr.com
