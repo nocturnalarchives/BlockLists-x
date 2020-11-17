@@ -11685,6 +11685,7 @@ secure.espn.com
 secure.facebook.com
 secure.fanboy.co.nz
 secure.force.com
+secure.globalsign.com
 secure.insightexpressai.com
 secureaddisplay.com
 secureads.g.doubleclick.net
