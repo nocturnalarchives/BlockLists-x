@@ -122,6 +122,7 @@
 26.taskassist-pa.clients.google.com
 27.client-channel.google.com
 27.taskassist-pa.clients.google.com
+277288171.pixel.archive.is
 28.client-channel.google.com
 28.taskassist-pa.clients.google.com
 29.client-channel.google.com
@@ -1122,6 +1123,7 @@ adup-tech.com
 adups.com
 aduwant.com
 adux.com
+adv5.277288171.pixel.archive.is
 advaction.ru
 advalue.com.vn
 advanced-web-analytics.com
@@ -1621,6 +1623,7 @@ amazon.co.uk
 amazon.de
 amazon.jobs
 amazonaws.com
+amazoncrl.com
 amazontrust.com
 ambient-platform.com
 ambientdsp.com
@@ -1657,6 +1660,7 @@ analytiall.com
 analytics-egain.com
 analytics-sm.com
 analytics.analytics-egain.com
+analytics.archive.org
 analytics.disney.go.com
 analytics.google.com
 analytics.twitter.com
@@ -1846,6 +1850,7 @@ api-v3.tinypass.com
 api.actionbutton.co
 api.altmetric.com
 api.bmw
+api.btloader.com
 api.cloudapp.net
 api.cnn.io
 api.facebook.com
@@ -4035,6 +4040,7 @@ bsmartdata.com
 bstatic.com
 bt.google.com
 btez8.xyz
+btloader.com
 btlr.sharethrough.com
 btn2go.com
 btncdn.com
@@ -6898,6 +6904,7 @@ geotix.com
 geotrust.com
 gestionexterne.com
 get-native.eu
+get.s-onetag.com
 getambassador.com
 getamigo.io
 getawesome10.com
@@ -9021,6 +9028,7 @@ maplestory2.tv
 mapquestapi.com
 maps.googgleapis.com
 maps.googleapis.com
+maps.gstatic.com
 maptiler.com
 marchex.io
 marcie.io
@@ -9447,6 +9455,7 @@ mqtt.c10r.facebook.com
 mqtt.facebook.com
 mqtt.vvv.facebook.com
 mr.google.com
+mrb.upapi.net
 mrcdn.info
 mrelko.com
 mrf.io
@@ -10361,6 +10370,7 @@ pix.spot.im
 pixel-a.basis.net
 pixel.adsafeprotected.com
 pixel.advertising.com
+pixel.archive.is
 pixel.everesttech.net
 pixel.facebook.com
 pixel.mathtag.com
@@ -10391,6 +10401,7 @@ platform-events.phunware.com
 platform.californiatimes.com
 platform.foursquare.com
 platform.smile.io
+platform.twitter.com
 platforum.cloud
 plavxml.com
 play.googleapis.com
@@ -10569,6 +10580,7 @@ pro.ad-blocker.org
 pro.imdb.com
 proboards.com
 prod.ally.ac
+prod.amazoncrl.com
 prod.bidr.io
 prod.experiment.routing.cloudfront.aws.a2z.com
 prod.facebook.com
@@ -13496,6 +13508,7 @@ urlbi.com
 us-east-sync.bidswitch.net
 us-proxy.org
 us-u.openx.net
+us.adv5.277288171.pixel.archive.is
 us.corwin.com
 us.google.com
 us1.gigya.com
