@@ -969,6 +969,7 @@ ads-twitter.com
 ads.addynamix.com
 ads.doubleclick.net
 ads.facebook.com
+ads.linkedin.com
 ads.pubmatic.com
 ads.rubiconproject.com
 ads1-adnow.com
@@ -10268,6 +10269,7 @@ pelcro.com
 pendo.io
 pennynetwork.com
 penspade.com
+peoplestack-pa.clients6.google.com
 peoplestackwebexperiments-pa.clients1.google.com
 peoplestackwebexperiments-pa.clients2.google.com
 peoplestackwebexperiments-pa.clients3.google.com
@@ -10744,6 +10746,7 @@ pw.google.com
 pwnedpasswords.com
 px-cdn.net
 px-cloud.net
+px.ads.linkedin.com
 px.bhyhome.com
 px.google.com
 px.moatads.com
@@ -12803,6 +12806,7 @@ targeting.unrulymedia.com
 targetspot.com
 tarrobads.com
 tarttendency.com
+taskassist-pa.clients6.google.com
 tastefulsongs.com
 tastelesstrees.com
 tatdunsit.com
