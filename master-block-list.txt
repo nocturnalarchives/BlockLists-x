@@ -1854,6 +1854,7 @@ api.btloader.com
 api.cloudapp.net
 api.cnn.io
 api.facebook.com
+api.foxnews.com
 api.grow.me
 api.ipify.org
 api.kochava.com
@@ -1867,6 +1868,7 @@ api.pluto.tv
 api.pwnedpasswords.com
 api.rollbar.com
 api.sail-personalize.com
+api.smoot.apple.com
 api2.branch.io
 api64.com
 apia.com.au
@@ -3996,6 +3998,7 @@ brcdn.com
 breakfastboat.com
 brealtime.co
 brealtime.com
+breitbartproduction.disqus.com
 breuni.de
 brickandmobile.com
 bricknet.com
@@ -4792,6 +4795,7 @@ conrad.de
 consciouscabbage.com
 consciouschairs.com
 consensu.org
+consent.cookiebot.com
 consent.is
 consent.truste.com
 consentag.eu
@@ -12150,6 +12154,7 @@ smct.io
 smdg.ca
 smehost.net
 smetrics.abbott
+smetrics.foxnews.com
 smg.com
 smi2.net
 smi2.ru
@@ -12164,6 +12169,7 @@ smind.si
 smithsonian.museum
 smoggysnakes.com
 smooch.io
+smoot.apple.com
 smopy.com
 smrk.io
 smrtb.com
@@ -13582,6 +13588,8 @@ vaderinis.com
 vads.net.vn
 vak345.com
 valica.it
+valid.apple.com
+valid.origin-apple.com.akadns.net
 validclick.com
 valiuz.com
 valos.com.au
