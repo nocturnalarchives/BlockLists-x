@@ -38,6 +38,7 @@
 1000ps.net
 100widgets.com
 101network.com
+1066935-35.chat.api.drift.com
 11.client-channel.google.com
 11.taskassist-pa.clients.google.com
 114dns.com
@@ -374,6 +375,7 @@ a-latam.com
 a-mo.net
 a.adroll.com
 a.bingparachute.com
+a.convertkit.com
 a.doubleclick.net
 a.moatads.com
 a.ns.facebook.com
@@ -1505,6 +1507,7 @@ agora.pl
 agraria.org
 agreeableprice.com
 agreeablestew.com
+ah-server.com
 ah.google.com
 ahacdn.me
 ahalogy.com
@@ -1854,6 +1857,7 @@ api.bmw
 api.btloader.com
 api.cloudapp.net
 api.cnn.io
+api.drift.com
 api.facebook.com
 api.foxnews.com
 api.grow.me
@@ -1870,6 +1874,7 @@ api.pwnedpasswords.com
 api.rollbar.com
 api.sail-personalize.com
 api.smoot.apple.com
+api.time.com
 api2.branch.io
 api64.com
 apia.com.au
@@ -2252,6 +2257,7 @@ b-liadm.com
 b-m.facebook.com
 b-www.facebook.com
 b.bingparachute.com
+b.convertkit.com
 b.doubleclick.net
 b.moatads.com
 b.ns.facebook.com
@@ -4116,6 +4122,7 @@ c-eu3.stripst.com
 c-i.as
 c-ovn.jp
 c.bingparachute.com
+c.convertkit.com
 c.doubleclick.net
 c.facebook.com
 c.go-mpulse.net
@@ -4264,6 +4271,7 @@ cdn.ckeditor.com
 cdn.cookielaw.org
 cdn.corporate.walmart.com
 cdn.digitaloceanspaces.com
+cdn.dynamicyield.com
 cdn.fera.ai
 cdn.ghostmonitor.com
 cdn.irsdn.net
@@ -4274,6 +4282,7 @@ cdn.mojoreporter.com
 cdn.onesignal.com
 cdn.otstatic.com
 cdn.printfriendly.com
+cdn.ravenjs.com
 cdn.shareaholic.net
 cdn.shortpixel.ai
 cdn.sstatic.net
@@ -4281,6 +4290,7 @@ cdn.tax
 cdn.tinypass.com
 cdn.turner.com
 cdn.viglink.com
+cdn.volument.com
 cdn20tube.pro
 cdn3.net
 cdn4dd.com
@@ -4366,6 +4376,7 @@ chartboost.de
 chartboosts.com
 chartjs.org
 chase.com
+chat.api.drift.com
 chatanexpert.com
 chatango.com
 chatbot.com
@@ -4687,6 +4698,7 @@ cobaltgroup.com
 cobrowser.com
 code.facebook.com
 code.responsivevoice.org
+code.robertdegroot.nl
 codeblackbelt.com
 codefund.app
 codefund.io
@@ -4948,6 +4960,7 @@ crowdynews.com
 crownclam.com
 crownmediadev.com
 crsspxl.com
+crt.comodoca.com
 crtx.info
 crutchfieldonline.com
 crwdcntrl.net
@@ -4993,6 +5006,7 @@ curvywebcam.com
 custhelp.com
 custobar.com
 custom.bnc.lt
+customer.api.drift.com
 customer.io
 customerevents.netflix.com
 custora.com
@@ -5018,6 +5032,7 @@ d-markets.net
 d-ughwashes.ru
 d.agkn.com
 d.bingparachute.com
+d.convertkit.com
 d.doubleclick.net
 d.facebook.com
 d.moatads.com
@@ -5176,6 +5191,7 @@ detentiongirls.com
 detik.net.id
 detour.click
 dev.okcupid.com
+dev.visualwebsiteoptimizer.com
 dev.vvv.facebook.com
 devaltitude.com
 devcloudsoftware.com
@@ -5389,6 +5405,7 @@ dombnrs.com
 dominos.com
 domnovrek.com
 domru.ru
+donations.livestream.com
 donorbox.org
 donstick.com
 doodcdn.com
@@ -5505,6 +5522,7 @@ e-planning.net
 e-planning.video
 e-reading.pw
 e.bingparachute.com
+e.convertkit.com
 e.doubleclick.net
 e.moatads.com
 e.ntv.io
@@ -6174,6 +6192,7 @@ ent-b.xx.fbcdn.net
 ent-c.xx.fbcdn.net
 ent-d.xx.fbcdn.net
 ent-e.xx.fbcdn.net
+ent.sdy.ai
 entertainow.com
 enthusiast.gg
 enthusiastenterprises.us
@@ -6371,6 +6390,7 @@ ezoic.net
 ezojs.com
 f-static.net
 f.bingparachute.com
+f.convertkit.com
 f.doubleclick.net
 f.moatads.com
 f.ntv.io
@@ -7971,6 +7991,7 @@ im-apps.net
 im-g.pl
 im.google.com
 image-ad.jp
+image-proxy-cdn.ent.sdy.ai
 imagebam.com
 imagendigital.com
 images-apmex.com
@@ -8130,6 +8151,7 @@ insuit.net
 insurads.com
 inswebt.com
 intelliad.de
+intelligence-api-prod.ent.sdy.ai
 intelligentscissors.com
 intellimize.co
 intellipse.com
@@ -8179,6 +8201,7 @@ ionicframework.com
 iono.fm
 iot.us-east-1.amazonaws.com
 iowa.gov
+ip-185-177-93-166.ah-server.com
 ip-label.net
 ip.google.com
 ipapi.co
@@ -8390,8 +8413,10 @@ jrs5.com
 js-agent.newrelic.com
 js-bn.com
 js-sec.indexww.com
+js.driftt.com
 js.google.com
 js.hs-scripts.com
+js.hsforms.net
 js.org
 js.sentry-cdn.com
 js.smile.io
@@ -8773,6 +8798,7 @@ linximpulse.net
 liquifire.com
 liqwid.net
 list-manage.com
+list.mailigen.com
 listamax.com
 listenlive.co
 listenloop.com
@@ -8863,6 +8889,7 @@ loginradius.com
 loginside.co.kr
 logitech.com
 logly.co.jp
+logo.clearbit.com
 logrocket.io
 logsss.com
 logystowtencon.info
@@ -8871,6 +8898,7 @@ lolibay.to
 lolicam.site
 loligirls.xyz
 loliplay.net
+lombardiroberto.it
 longinglettuce.com
 lookaside.facebook.com
 lookbookhq.com
@@ -9001,6 +9029,7 @@ mailcampaigns.nl
 mailchimp.com
 mailerlite.com
 mailfire.io
+mailigen.com
 mailing.wideopenmediagroup.com
 mailjet.com
 maillist-manage.com
@@ -10506,6 +10535,7 @@ portalinmobiliario.com
 poshdevelopment.com
 possessivebucket.com
 possibleboats.com
+posta.lombardiroberto.it
 postaffiliatepro.com
 postcodeanywhere.co.uk
 postimgs.org
@@ -10546,6 +10576,7 @@ premiumvertising.com
 premixture.com
 prensaiberica.es
 prepareplanes.com
+presence.api.drift.com
 presetrabbits.com
 pressablecdn.com
 pressboard.ca
@@ -10592,6 +10623,7 @@ prod.experiment.routing.cloudfront.aws.a2z.com
 prod.facebook.com
 prodara.de
 prodperfect.com
+producer-api.appspot.com
 profile-a-atl.xx.fbcdn.net
 profile-a-dfw.xx.fbcdn.net
 profile-a-iad.xx.fbcdn.net
@@ -10935,6 +10967,7 @@ rbx.abcvg.ovh
 rc.google.com
 rcgroups.net
 rcn.m.facebook.com
+rcom.dynamicyield.com
 rcrsv.io
 rcs.it
 rcsmetrics.it
@@ -11175,6 +11208,7 @@ ro-ro.connect.facebook.com
 ro-ro.facebook.com
 ro.google.com
 roadid.com
+robertdegroot.nl
 robspabah.com
 rocketcdn.me
 rocketpush.net
@@ -11669,6 +11703,7 @@ sdhfbvd.com
 sdk.snapkit.com
 sdkbox.com
 sdkfjxjertertry.com
+sdy.ai
 se.google.com
 seaboblit.com
 seadform.net
@@ -11719,6 +11754,7 @@ securetve.com
 securionpay.com
 securiti.ai
 security.cloudflare-dns.com
+securitytrails.com
 seedanddew.com
 seedr.com
 seedtag.com
@@ -12108,6 +12144,7 @@ sl.google.com
 slashdotmedia.com
 slaysweater.com
 sleeknote.com
+sleeknotecustomerscripts.sleeknote.com
 sleepcartoon.com
 slgnt.eu
 slgnt.us
@@ -12215,6 +12252,7 @@ so.google.com
 soakedtube.com
 soapcreative.com
 socdm.com
+sociable.co
 social-sb.com
 social9.com
 socialannex.com
@@ -12929,6 +12967,7 @@ thehiveworks.com
 theinventory.com
 thejobnetwork.com
 thelotter.com
+themail.substack.com
 theme-sphere.com
 theme.co
 themediateam.net
@@ -13599,6 +13638,8 @@ valiuz.com
 valos.com.au
 valuad.cloud
 valuecommerce.com
+valuewalk.com
+valuewalkpremium.com
 vanadcloud.com
 vanfireworks.com
 vanillicon.com
@@ -13833,6 +13874,7 @@ voicevegetable.com
 voissa.fr
 volkswagen.com
 voltn.com
+volument.com
 volusia.k12.fl.us
 volusion.com
 voluumtlkrnarketing.com
@@ -14955,6 +14997,7 @@ www.gameanalytics.com
 www.gannettdigital.com
 www.gbvanalytics.com
 www.getdrip.com
+www.getpushmonkey.com
 www.getsitecontrol.com
 www.getsocial.im
 www.gigya.com
@@ -15285,6 +15328,7 @@ www.usatoday.com
 www.usemaxserver.de
 www.uservoice.com
 www.validclick.com
+www.valuewalk.com
 www.verizonmedia.com
 www.vertoanalytics.com
 www.vietbuzzad.com
@@ -15943,7 +15987,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-code.robertdegroot.nl
-robertdegroot.nl
-posta.lombardiroberto.it
-lombardiroberto.it
