@@ -226,6 +226,7 @@
 51.taskassist-pa.clients.google.com
 52.client-channel.google.com
 52.taskassist-pa.clients.google.com
+5290727.fls.doubleclick.net
 53.client-channel.google.com
 53.taskassist-pa.clients.google.com
 53rv3r.com
@@ -368,6 +369,7 @@
 9cache.com
 9cdn.net
 9to5terminal.com
+9xbuddy.org
 9zpg.net
 a-ads.com
 a-cast.jp
@@ -383,7 +385,9 @@ a.ntv.io
 a.o0bc.com
 a.optmnstr.com
 a.optmstr.com
+a.serverbid.com
 a.skimresources.com
+a.teads.com
 a.teads.tv
 a.udkcjr.com
 a.usabilla.com
@@ -465,6 +469,7 @@ accountkit.com
 accounts.google.com
 accutics.net
 accuweather.com
+acdn.adnxs.com
 acecounter.com
 acexedge.com
 achcdn.com
@@ -557,6 +562,7 @@ adap.tv
 adapex.io
 adapf.com
 adapt.io
+adaptv.advertising.com
 adaraanalytics.com
 adasiaholdings
 adasiaholdings.com
@@ -968,6 +974,7 @@ adrunnr.com
 ads-4u.com
 ads-link.net
 ads-twitter.com
+ads.adaptv.advertising.com
 ads.addynamix.com
 ads.doubleclick.net
 ads.facebook.com
@@ -1002,6 +1009,7 @@ adsertor.co.uk
 adserv.mobi
 adserve.postrelease.com
 adserver-us.adtech.advertising.com
+adserver.adtechus.com
 adserver.com
 adserver.pm
 adserversolutions.com
@@ -1854,11 +1862,13 @@ api-v3.tinypass.com
 api.actionbutton.co
 api.altmetric.com
 api.bmw
+api.bounceexchange.com
 api.btloader.com
 api.cloudapp.net
 api.cnn.io
 api.drift.com
 api.facebook.com
+api.flashvd.com
 api.foxnews.com
 api.grow.me
 api.ipify.org
@@ -2088,6 +2098,8 @@ assets.bounceexchange.com
 assets.calendly.com
 assets.context.ly
 assets.juicer.io
+assets.newsmaxwidget.com
+assets.omny.fm
 assets.targetimg1.com
 assoc-amazon.com
 associates-amazon.com
@@ -2265,6 +2277,7 @@ b.ntv.io
 b.o0bc.com
 b.optmnstr.com
 b.optmstr.com
+b.serverbid.com
 b.skimresources.com
 b.teads.tv
 b.udkcjr.com
@@ -3793,6 +3806,7 @@ bid.g.doubleclick.net
 bidadx.com
 bidder-shv-05-frc3.facebook.com
 bidder-shv-10-frc1.facebook.com
+bidder.criteo.com
 biddercore.io
 biddingx.com
 biddr.brealtime.co
@@ -4131,6 +4145,7 @@ c.ntv.io
 c.o0bc.com
 c.optmnstr.com
 c.optmstr.com
+c.serverbid.com
 c.skimresources.com
 c.teads.tv
 c.udkcjr.com
@@ -4264,6 +4279,7 @@ cdn-server.cc
 cdn-server.top
 cdn-spurit.com
 cdn-us-doubleverify.com
+cdn.9xbud.com
 cdn.apple-mapkit.com
 cdn.blueconic.net
 cdn.branch.io
@@ -5040,6 +5056,7 @@ d.ntv.io
 d.o0bc.com
 d.optmnstr.com
 d.optmstr.com
+d.serverbid.com
 d.skimresources.com
 d.teads.tv
 d.turn.com
@@ -5227,6 +5244,7 @@ diariodeavisos.com
 diariodelweb.it
 dickssportinggoods.sponsorport.com
 differentdesk.com
+diffuser-cdn.app-us1.com
 digidip.net
 digikey.com
 digismoothie.app
@@ -5985,6 +6003,7 @@ ematicsolutions.com
 embed-fastly.wistia.com
 embed-ssl.wistia.com
 embed.ly
+embed.tawk.to
 embed.wistia.com
 embedfastly.wistia.com
 embedly.com
@@ -6397,6 +6416,7 @@ f.ntv.io
 f.o0bc.com
 f.optmnstr.com
 f.optmstr.com
+f.serverbid.com
 f.skimresources.com
 f.teads.tv
 f.udkcjr.com
@@ -6454,6 +6474,7 @@ fascinatedfeather.com
 fashion4u.uk
 fast-hunter.com
 fast.co
+fast.fonts.net
 fast.wistia.com
 fastclick.net
 fastcounter.de
@@ -6617,6 +6638,7 @@ flagandcross.com
 flakyfeast.com
 flashb.id
 flashtalking.com
+flashvd.com
 flattr.com
 flavordecision.com
 flex.m.facebook.com
@@ -6923,6 +6945,7 @@ geoip-js.com
 geoiplookup.io
 geojs.io
 geolocation-recommendations.shopifycloud.com
+geolocation.1trust.app
 geolocation.onetrust.com
 geosolinc.com
 geotix.com
@@ -7996,6 +8019,7 @@ imagebam.com
 imagendigital.com
 images-apmex.com
 images.pluto.tv
+images.taboola.com
 imagescanner.cc
 imageshack.host
 imarketsmart.com
@@ -10004,6 +10028,7 @@ omnisrc.com
 omnitagjs.com
 omnivirt.com
 omny.fm
+omnycontent.com
 omroep.nl
 oms.eu
 omsnative.de
@@ -10416,6 +10441,7 @@ pixel.samba.tv
 pixel.sitescout.com
 pixel.tapad.com
 pixel.watch
+pixel.wp.com
 pixeleze.com
 pixfuture.com
 piximedia.com
@@ -10435,6 +10461,7 @@ plantazon.nl
 platform-events.phunware.com
 platform.californiatimes.com
 platform.foursquare.com
+platform.iteratehq.com
 platform.smile.io
 platform.twitter.com
 platforum.cloud
@@ -10956,6 +10983,7 @@ raxcdn.com
 raycommedia.com
 raygun.io
 razorpay.com
+rb.adnxs.com
 rb.google.com
 rb24.com
 rba.nom.es
@@ -11333,8 +11361,11 @@ s.udkcjr.com
 s.usabilla.com
 s.wsj.net
 s0.2mdn.net
+s0.wp.com
 s1-iad-ww.cf.videorolls.row.aiv-cdn.net
+s1.wp.com
 s2-iad-ww.cf.videorolls.row.aiv-cdn.net
+s2.wp.com
 s3-1-w.amazonaws.com
 s3-iad-2.cf.dash.row.aiv-cdn.net
 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
@@ -11343,6 +11374,7 @@ s3chat.com
 s3wfg.com
 s3xified.com
 s4-iad-ww.cf.videorolls.row.aiv-cdn.net
+s4.wp.com
 s4mdsp.com
 s7d2.scene7.com
 s99i.org
@@ -12472,6 +12504,7 @@ ssp.behave.com
 sspinc.io
 sstatic.net
 sstats.vizergy.com
+ssum-sec.casalemedia.com
 ssum.casalemedia.com
 st-hatena.com
 st.google.com
@@ -12521,10 +12554,12 @@ static-st11-b.gc.apple.com
 static.ad.atdmt.com
 static.addtoany.com
 static.ads-twitter.com
+static.adsafeprotected.com
 static.ak.connect.facebook.com
 static.ak.facebook.com
 static.ak.facebook.com.edgesuite.net
 static.ak.fbcdn.net
+static.chartbeat.com
 static.criteo.net
 static.doubleclick.net
 static.facebook.com
@@ -12798,6 +12833,7 @@ tagcommander.com
 taggstar.com
 taggyad.jp
 tags.crwdcntrl.net
+tags.newscgp.com
 tags.tiqcdn.com
 tagsrvcs.com
 tagtool.de
@@ -13560,6 +13596,7 @@ us-u.openx.net
 us.adv5.277288171.pixel.archive.is
 us.corwin.com
 us.google.com
+us.tags.newscgp.com
 us1.gigya.com
 usa.gov
 usabilla.com
@@ -13625,6 +13662,7 @@ v.skimresources.com
 v.teads.tv
 v.udkcjr.com
 v.usabilla.com
+v0.wordpress.com
 v4help.facebook.com
 va.google.com
 vaderinis.com
@@ -15149,6 +15187,7 @@ www.o0bc.com
 www.oath.com
 www.offerstrack.net
 www.ojrq.net
+www.omnycontent.com
 www.onesignal.com
 www.online-adnetwork.com
 www.ontarget.mobi
