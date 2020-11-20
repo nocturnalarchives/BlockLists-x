@@ -39,6 +39,7 @@
 100widgets.com
 101network.com
 1066935-35.chat.api.drift.com
+10base-t.com
 11.client-channel.google.com
 11.taskassist-pa.clients.google.com
 112.2o7.net
@@ -744,6 +745,7 @@ addtocalendar.com
 addup.com
 addwish.com
 addynamix.com
+ade.googlesyndication.com
 adecorp.co.kr
 adecosystems.net
 adecosystems.tech
@@ -974,6 +976,7 @@ adrttt.com
 adrtx.net
 adrunnr.com
 ads-4u.com
+ads-e-darwin.hulustream.com
 ads-link.net
 ads-twitter.com
 ads.adaptv.advertising.com
@@ -4163,6 +4166,7 @@ c1fp46crw8ud8d.credentials.iot.us-east-1.amazonaws.com
 c212.net
 c2shb.ssp.yahoo.com
 c3tag.com
+c5.rgstatic.net
 c8.net.ua
 ca-es.facebook.com
 ca.google.com
@@ -6318,6 +6322,7 @@ eus.rubiconproject.com
 ev.google.com
 evaluateend.com
 evanescentedge.com
+event.havasedge.com
 events-collector.spot.im
 events.bouncex.net
 events.brightline.tv
@@ -6901,6 +6906,7 @@ g.skimresources.com
 g.teads.tv
 g.udkcjr.com
 g.usabilla.com
+g1.nyt.com
 g2afse.com
 g2crowd.com
 ga.google.com
@@ -7711,6 +7717,7 @@ hawksearch.com
 hawksearch.info
 hayfatduh.com
 haymarketmedia.com
+hb-api.omtrdc.net
 hb.emxdgt.com
 hb.google.com
 hb.undertone.com
@@ -7920,6 +7927,7 @@ hulinu.info
 hulkapps.com
 hull.io
 hullapp.io
+hulu-lr.hb-api.omtrdc.net
 humanautomation.ai
 humblebundle.com
 humdrumhat.com
@@ -7966,6 +7974,7 @@ i.teads.tv
 i.ua
 i.udkcjr.com
 i.usabilla.com
+i1.rgstatic.net
 i2i.jp
 ia.google.com
 ia.media-imdb.com
@@ -8205,6 +8214,7 @@ instrumentsponge.com
 insuit.net
 insurads.com
 inswebt.com
+int-x3.letsencrypt.org
 intelliad.de
 intelligence-api-prod.ent.sdy.ai
 intelligentscissors.com
@@ -8794,6 +8804,7 @@ lesplansduweb.com
 lessbuttons.com
 letmejerk.com
 letreach.com
+letsencrypt.org
 letslinc.com
 lettucelimit.com
 levelaccess.net
@@ -10802,6 +10813,7 @@ public1.alidns.com
 public2.114dns.com
 public2.alidns.com
 publicidees.com
+publicize.co
 publift.com
 publir.com
 publish-int.se
@@ -11231,6 +11243,7 @@ rfihub.net
 rfksrv.com
 rfvk.net
 rg.google.com
+rgstatic.net
 rh.google.com
 rhetoricalloss.com
 rhombusads.com
@@ -11393,6 +11406,7 @@ s-palvelut.fi
 s-static.ak.facebook.com
 s-static.ak.facebook.com.edgekey.net
 s-static.facebook.com
+s-video.innovid.com
 s.adroll.com
 s.amazon-adsystem.com
 s.bingparachute.com
@@ -11469,6 +11483,7 @@ salsalabs.org
 samandehi.ir
 samba.tv
 samestretch.com
+samizdat-graphql.nytimes.com
 samplicio.us
 samsung.com
 samsungacr.com
@@ -11917,7 +11932,6 @@ servingmillions.com
 servmetric.com
 sesaab.it
 sesameworkshop.org
-sessioncam.com
 sessioncam.com
 sessions.bugsnag.com
 sessions.exchange
@@ -13731,6 +13745,7 @@ v.teads.tv
 v.udkcjr.com
 v.usabilla.com
 v0.wordpress.com
+v0.WordPress.com
 v4help.facebook.com
 va.google.com
 vaderinis.com
