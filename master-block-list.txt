@@ -41,6 +41,7 @@
 1066935-35.chat.api.drift.com
 11.client-channel.google.com
 11.taskassist-pa.clients.google.com
+112.2o7.net
 114dns.com
 12.client-channel.google.com
 12.taskassist-pa.clients.google.com
@@ -530,6 +531,7 @@ ad.gt
 ad.org.vn
 ad.plus
 ad.style
+ad.wsod.com
 ad120m.com
 ad127m.com
 ad131m.com
@@ -1655,6 +1657,7 @@ amoad.com
 amp.services
 ampcid.google.com
 amplify.ai
+amplify.outbrain.com
 amplitude.com
 ampproject.net
 ampproject.org
@@ -1674,6 +1677,7 @@ analytics-sm.com
 analytics.analytics-egain.com
 analytics.archive.org
 analytics.disney.go.com
+analytics.foresee.com
 analytics.google.com
 analytics.twitter.com
 analytics.yahoo.com
@@ -1877,6 +1881,7 @@ api.lbry.com
 api.lbry.tv
 api.no
 api.okendo.io
+api.parsely.com
 api.permutive.com
 api.placed.com
 api.pluto.tv
@@ -2100,6 +2105,7 @@ assets.context.ly
 assets.juicer.io
 assets.newsmaxwidget.com
 assets.omny.fm
+assets.revcontent.com
 assets.targetimg1.com
 assoc-amazon.com
 associates-amazon.com
@@ -4080,6 +4086,8 @@ bughd.com
 bugreplay.com
 bugsee.com
 bugsense.com
+bugsnag.com
+builder.lift.acquia.com
 builderall.com
 bulbbait.com
 bulkfilms.net
@@ -4153,6 +4161,7 @@ c.usabilla.com
 c1exchange.com
 c1fp46crw8ud8d.credentials.iot.us-east-1.amazonaws.com
 c212.net
+c2shb.ssp.yahoo.com
 c3tag.com
 c8.net.ua
 ca-es.facebook.com
@@ -4266,6 +4275,7 @@ ccma.cat
 ccmbg.com
 ccscserver.com
 cd.google.com
+cdc.112.2o7.net
 cdc.gov
 cdg2.fbcdn.net
 cdglb.com
@@ -4283,20 +4293,25 @@ cdn.9xbud.com
 cdn.apple-mapkit.com
 cdn.blueconic.net
 cdn.branch.io
+cdn.brandmetrics.com
 cdn.ckeditor.com
 cdn.cookielaw.org
 cdn.corporate.walmart.com
 cdn.digitaloceanspaces.com
+cdn.districtm.io
 cdn.dynamicyield.com
 cdn.fera.ai
 cdn.ghostmonitor.com
+cdn.inpwrd.net
 cdn.irsdn.net
 cdn.krxd.net
 cdn.live
+cdn.mediago.io
 cdn.mg2connext.com
 cdn.mojoreporter.com
 cdn.onesignal.com
 cdn.otstatic.com
+cdn.parsely.com
 cdn.printfriendly.com
 cdn.ravenjs.com
 cdn.shareaholic.net
@@ -4357,6 +4372,7 @@ center.io
 centerpointmedia.com
 ceros.com
 certona.net
+cf-cpc-worker.pub-ocean-cloudflare-account.workers.dev
 cf.google.com
 cf.videorolls.row.aiv-cdn.net
 cfgr2.com
@@ -4483,6 +4499,7 @@ classic-porn.cc
 clcknads.pro
 clcktrax.com
 cld1.staticsfly.com
+clean.gg
 cleanmediaads.com
 clear.link
 clearbit.com
@@ -4683,6 +4700,7 @@ cluep.com
 clustaar.io
 clusters.pluto.tv
 clustrmaps.com
+cm.everesttech.net
 cm.google.com
 cmadserver.de
 cmgdigital.com
@@ -4841,6 +4859,7 @@ container.pepperjam.com
 contehos.com
 content-ad.net
 content-autofill.googleapis.com
+content-signature-2.cdn.mozilla.net
 content-storage-upload.googleapis.com
 content.ad
 content4.jdmagicbox.com
@@ -5204,6 +5223,7 @@ detailedgovernment.com
 detailedkitten.com
 detectdinner.com
 detectdiscovery.com
+detectportal.firefox.com
 detentiongirls.com
 detik.net.id
 detour.click
@@ -5461,6 +5481,7 @@ doyoudreamup.com
 dp.google.com
 dpbolvw.net
 dpic.me
+dpm.demdex.net
 dpmsrv.com
 dpstream.ink
 dq.google.com
@@ -5573,6 +5594,7 @@ easyfeeed.com
 easypolls.net
 easyvoyage.com
 eb.google.com
+eb2.3lift.com
 ebay.com
 ebis.ne.jp
 ebnerpublishing.com
@@ -5954,6 +5976,7 @@ eg.google.com
 egain.cloud
 eggplant.cloud
 egmontpublishing.se
+egraffiti-d.openx.net
 eh.google.com
 ehealthcaresolutions.com
 ehosts.net
@@ -6322,6 +6345,7 @@ evyy.net
 ew.google.com
 ewerhodub.com
 ewscloud.com
+ex.co
 ex.google.com
 exactag.com
 exactdn.com
@@ -6616,6 +6640,7 @@ firebrandtech.com
 firecall.tv
 firecast.tv
 firefox.dns.nextdns.io
+firefox.settings.services.mozilla.com
 firepush.net
 fireside.fm
 firestormmedia.tv
@@ -6859,6 +6884,7 @@ fwcdn1.com
 fwdcdn.com
 fwmrm.net
 fx.google.com
+fxc-prod.moz.works
 fxporn.net
 fy.google.com
 fz.google.com
@@ -6901,6 +6927,7 @@ gardoult.com
 garss.tv
 gatedcontent.com
 gatehousemedia.com
+gateway.foresee.com
 gateway.harri.com
 gatorapi.com
 gaug.es
@@ -7921,6 +7948,7 @@ hz.google.com
 i-mobile.co.jp
 i-parcel.com
 i.bingparachute.com
+i.clean.gg
 i.doubleclick.net
 i.gov.ph
 i.guim.co.uk
@@ -8440,6 +8468,7 @@ jrs5.com
 js-agent.newrelic.com
 js-bn.com
 js-sec.indexww.com
+js.ad-score.com
 js.driftt.com
 js.google.com
 js.hs-scripts.com
@@ -8454,6 +8483,7 @@ jsdelivr.net
 jsfuz.com
 jsmstat.com
 jsrdn.com
+jssdkcdns.mparticle.com
 jst.ai
 jsuol.com.br
 jt.google.com
@@ -8789,6 +8819,7 @@ licdn.com
 licensebuttons.net
 lifehacker.com
 lifestreet.com
+lift.acquia.com
 lifteragecheck.com
 lifterapps.com
 lifterpopup.com
@@ -8897,11 +8928,13 @@ localizercdn.com
 localmediabuying.com
 localytics.com
 location-services-measurements.s3-external-1.amazonaws.com
+location.services.mozilla.com
 locationiq.org
 lockerdome.com
 lockerdomecdn.com
 locopelis.com
 lodder7.biz
+log.aimtell.com
 log.outbrainimg.com
 logbor.com
 loggly.com
@@ -9127,6 +9160,7 @@ massrel.io
 massrelevance.com
 masterworks.com
 matadrama.com
+match.adsrvr.org
 match.gc.apple.com
 match.prod.bidr.io
 matchads.net
@@ -9208,6 +9242,7 @@ mediafin.be
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediago.io
 mediahawk.co.uk
 mediahuis.be
 mediaite.com
@@ -9493,6 +9528,7 @@ mowfruit.com
 mox.tv
 moxielinks.com
 moxiworks.com
+moz.works
 mozilla.cloudflare-dns.com
 mozilor.com
 mozu.com
@@ -10235,6 +10271,7 @@ p.tvpixel.com
 p.udkcjr.com
 p.usabilla.com
 p0.com
+p1.zemanta.com
 p24.hu
 p2r14.com
 pa-in.facebook.com
@@ -10598,6 +10635,8 @@ praivacy.eu
 praxisdienst-server.de
 praxisdienst.com
 prcdn.co
+prd-collector-anon.ex.co
+prebid.media.net
 prebid.org
 precisemodeling.com
 preferences.trustarc.com
@@ -10648,6 +10687,7 @@ pro-market.net
 pro.ad-blocker.org
 pro.imdb.com
 proboards.com
+prod-use.perf-serving.com
 prod.ally.ac
 prod.amazoncrl.com
 prod.bidr.io
@@ -10749,6 +10789,7 @@ ptgncdn.com
 ptr.cnsat.com.cn
 pu.google.com
 pub-cdn.com
+pub-ocean-cloudflare-account.workers.dev
 pub.network
 pubads.g.doubleclick.net
 pubdirecte.com
@@ -10767,6 +10808,7 @@ publish-int.se
 publy.net
 pubmatic.com
 pubmine.com
+pubocean.com
 pubstack.io
 puffnetwork.com
 puffyloss.com
@@ -10837,6 +10879,7 @@ q.ntv.io
 q.o0bc.com
 q.optmnstr.com
 q.optmstr.com
+q.quora.com
 q.skimresources.com
 q.teads.tv
 q.udkcjr.com
@@ -11056,6 +11099,7 @@ receptivereaction.com
 recirculation.spot.im
 reciteme.com
 recognified.net
+recommendation-hybrid.wpdigital.net
 reconditerake.com
 recovermycart.com
 recreativ.com
@@ -11292,6 +11336,7 @@ rss2json.com
 rstudio.com
 rsz.sk
 rt.google.com
+rta.pubocean.com
 rta247.com
 rtalabel.org
 rtb.mfadsrvr.com
@@ -11353,6 +11398,7 @@ s.amazon-adsystem.com
 s.bingparachute.com
 s.click.aliexpress.com
 s.doubleclick.net
+s.go-mpulse.net
 s.innovid.com
 s.moatads.com
 s.mzstatic.com
@@ -11730,6 +11776,7 @@ scribdassets.com
 script.hotjar.com
 script.tapfiliate.com
 scripts.mediavine.com
+scripts.webcontentassessor.com
 scroll.com
 scrollmagic.io
 scrollservice.com
@@ -11860,6 +11907,7 @@ service-st11-a.gc.apple.com
 service-st11-b.gc.apple.com
 service.gc.apple.com
 services.amazon.com
+services.mozilla.com
 services.sap
 servicetick.com
 serving-sys.com
@@ -11870,8 +11918,11 @@ servmetric.com
 sesaab.it
 sesameworkshop.org
 sessioncam.com
+sessioncam.com
+sessions.bugsnag.com
 sessions.exchange
 settings.crashlytics.com
+settings.services.mozilla.com
 setupad.com
 sex-smotret.ru
 sex4viet.com
@@ -12676,6 +12727,7 @@ straightschool.com
 strands.com
 strangesink.com
 stream.ne.jp
+stream.playbuzz.com
 streamamp.tech
 streaming-graph.facebook.com
 streamingddigital.com
@@ -12833,6 +12885,7 @@ tac1.disqus.com
 tafdi.org
 tag-serv.com
 tag.1rx.io
+tag.bounceexchange.com
 tag.researchnow.com
 tag4arm.com
 tagan.adlightning.com
@@ -12885,6 +12938,7 @@ targetbay.com
 targetfuel.com
 targetimg1.com
 targeting.unrulymedia.com
+targeting.washpost.nile.works
 targetspot.com
 tarrobads.com
 tarttendency.com
@@ -13188,6 +13242,7 @@ tr.facebook.com
 tr.fatmedia.io
 tr.google.com
 tracdelight.io
+trace.mediago.io
 tracead.com
 tracedesire.com
 tracer.jp
@@ -13201,6 +13256,7 @@ trackedweb.net
 tracker.gg
 tracker.samplicio.us
 trackercdn.com
+tracking-protection.cdn.mozilla.net
 tracking.bigbrain.me
 trackings.top
 trackjs.com
@@ -13274,6 +13330,7 @@ trendemon.com
 trendingpolitics.com
 trendmd.com
 trends.newsmaxwidget.com
+trends.revcontent.com
 trengo.eu
 trfmxt.com
 trialfire.com
@@ -13454,6 +13511,7 @@ u.doubleclick.net
 u.moatads.com
 u.ntv.io
 u.o0bc.com
+u.openx.net
 u.optmnstr.com
 u.optmstr.com
 u.skimresources.com
@@ -13598,6 +13656,7 @@ urekamedia.com
 ureruadnw.com
 uri.sh
 urlbi.com
+us-east-1-decisionapi.lift.acquia.com
 us-east-sync.bidswitch.net
 us-proxy.org
 us-u.openx.net
@@ -13609,6 +13668,7 @@ us1.gigya.com
 usa.gov
 usabilla.com
 usablenet.com
+usasync01.admantx.com
 usatoday.com
 usden.ce.apple-dns.net
 usden.icloud-content.com
@@ -14003,6 +14063,7 @@ warpstorage.pro
 warumbistdusoarm.space
 waryfog.com
 washingtonpost.com
+washpost.nile.works
 wasp-182b.com
 watch-series.co
 watchdog.energized.pro
@@ -14264,7 +14325,9 @@ wp.pusherapps.com
 wpbloggertricks.com
 wpcc.io
 wpcdn.pl
+wpdigital.net
 wpfc.ml
+wpidpub.s3.amazonaws.com
 wpmucdn.com
 wpncdn.com
 wpnjs.com
@@ -14279,7 +14342,9 @@ wreckvolcano.com
 wronwaskinthetron.pro
 wrwebinar.com
 wryfinger.com
+ws-us2.pusher.com
 ws.google.com
+ws.sessioncam.com
 ws.tjournal.ru
 wsbnk.com
 wsf-e-loreal.com
@@ -14304,6 +14369,8 @@ wwclicknews.club
 wwe9.com
 wwopenclick.space
 wwry.xyz
+www-google-analytics.l.google.com
+www-googletagmanager.l.google.com
 www.114dns.com
 www.1rx.io
 www.247.ai
@@ -15176,6 +15243,7 @@ www.myswitchads.com
 www.n176adserv.com
 www.nativeads.com
 www.nativo.com
+www.nbcudigitaladops.com
 www.nclick.ru
 www.net.ua
 www.net.vn
