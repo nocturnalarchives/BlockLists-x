@@ -5345,6 +5345,7 @@ dns.google.com
 dns.hostux.net
 dns.jrc.it
 dns.neutopia.org
+dns.nextdns.com
 dns.nextdns.io
 dns.quad9.net
 dns.rubyfish.cn
@@ -6614,6 +6615,7 @@ firebaseapp.com
 firebrandtech.com
 firecall.tv
 firecast.tv
+firefox.dns.nextdns.io
 firepush.net
 fireside.fm
 firestormmedia.tv
@@ -7930,6 +7932,7 @@ i.ntv.io
 i.o0bc.com
 i.optmnstr.com
 i.optmstr.com
+i.rmbl.ws
 i.skimresources.com
 i.teads.tv
 i.ua
@@ -9767,6 +9770,8 @@ nextad.global
 nextclick.pl
 nextclickadv.com
 nextday.media
+nextdns.com
+nextdns.io
 nextinsure.com
 nextopia.net
 nexus.ensighten.com
@@ -11226,6 +11231,7 @@ rl.google.com
 rlcdn.com
 rlets.com
 rm.google.com
+rmbl.ws
 rmsi-vermarktung.de
 rmtag.com
 rmulus.com
@@ -11359,6 +11365,7 @@ s.skimresources.com
 s.teads.tv
 s.udkcjr.com
 s.usabilla.com
+s.w.org
 s.wsj.net
 s0.2mdn.net
 s0.wp.com
@@ -12354,6 +12361,7 @@ sp-trk.com
 sp.analytics.yahoo.com
 sp.auth.adobe.com
 sp.google.com
+sp.rmbl.ws
 spacesquirrel.net
 spankbang.com
 spankcdn.net
