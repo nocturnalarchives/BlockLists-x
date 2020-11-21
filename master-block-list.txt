@@ -4113,6 +4113,7 @@ businessbells.com
 businessclick.ch
 businessclick.com
 bussgeldrechner.org
+bustle.com
 bustlinganimal.com
 butterbulb.com
 butterburst.com
@@ -4298,6 +4299,7 @@ cdn.apple-mapkit.com
 cdn.blueconic.net
 cdn.branch.io
 cdn.brandmetrics.com
+cdn.brid.tv
 cdn.ckeditor.com
 cdn.cookielaw.org
 cdn.corporate.walmart.com
@@ -4308,6 +4310,7 @@ cdn.fera.ai
 cdn.ghostmonitor.com
 cdn.inpwrd.net
 cdn.irsdn.net
+cdn.iubenda.com
 cdn.krxd.net
 cdn.live
 cdn.mediago.io
@@ -4326,6 +4329,7 @@ cdn.tinypass.com
 cdn.turner.com
 cdn.viglink.com
 cdn.volument.com
+cdn2.bustle.com
 cdn20tube.pro
 cdn3.net
 cdn4dd.com
@@ -4866,6 +4870,7 @@ content-autofill.googleapis.com
 content-signature-2.cdn.mozilla.net
 content-storage-upload.googleapis.com
 content.ad
+content.jwplatform.com
 content4.jdmagicbox.com
 contentabc.com
 contentexchange.me
@@ -6715,6 +6720,7 @@ fna-fbcdn-shv-02-fsnc1.fbcdn.net
 fna-fbcdn-video-shv-01-ffjr1.fbcdn.net
 fna.fbcdn.net
 fnac.com
+fncstatic.com
 fndrsp.com
 fo.google.com
 foamybox.com
@@ -6735,12 +6741,15 @@ fonts.click.linksynergy.com
 fonts.doubleclick.net
 fonts.dpbolvw.net
 fonts.emjcd.com
+fonts.evyy.net
 fonts.go2cloud.org
 fonts.net
 fonts.offer.alibaba.com
 fonts.pepperjamnetwork.com
 fonts.shareasale.com
 fonts.shopifycdn.com
+fonts.skimresources.com
+fonts.tradedoubler.com
 fonts.www.linkconnector.com
 fonts.www.ojrq.net
 fontshop.com
@@ -7082,6 +7091,7 @@ glimr.io
 glispa.com
 gloapi.com
 global-e.com
+global.fncstatic.com
 globaladmedia.com
 globalismedia.com
 globalsign.com
@@ -7227,6 +7237,7 @@ granicus.com
 granify.com
 graph-video.facebook.com
 graph.bluecava.com
+graph.bustle.com
 graph.facebook.com
 graphly.io
 gratis-fickfilme.net
@@ -8068,6 +8079,7 @@ imbox.io
 imedia.cz
 imercostatic.dk
 img.tpt.cloud
+img3.wikia.nocookie.net
 img4.zergnet.com
 imgaft.com
 imgbox.com
@@ -10270,6 +10282,7 @@ oy.google.com
 oz.google.com
 p-n.io
 p.bingparachute.com
+p.brid.tv
 p.doubleclick.net
 p.moatads.com
 p.ntv.io
@@ -11088,6 +11101,7 @@ readymoon.com
 readypulse.com
 readysnails.com
 realite.id
+realitytitbit.com
 realizerecess.com
 realizevacation.com
 reallyfreegeoip.org
@@ -12635,6 +12649,7 @@ static.ak.fbcdn.net
 static.chartbeat.com
 static.criteo.net
 static.doubleclick.net
+static.ess.apple.com
 static.facebook.com
 static.fdel11-1.fna.fbcdn.net
 static.fsea1-1.fna.fbcdn.net
@@ -12644,6 +12659,7 @@ static.kqzyfj.com
 static.scroll.com
 static.track.omguk.com
 static.webnx.com
+static.wikia.nocookie.net
 static.www.ojrq.net
 static.www.tkqlhce.com
 static.xx.fbcdn.net
@@ -13926,6 +13942,7 @@ vietbuzzad.com
 viewdeos.com
 vigilantesdopeso.com.br
 viglink.com
+vignette.wikia.nocookie.net
 vihub.ru
 viktvaktarna.se
 viloud.tv
@@ -14255,6 +14272,7 @@ wigglestatic.com
 wigglygeese.com
 wikia-services.com
 wikia.com
+wikia.nocookie.net
 wikibuy.com
 wikidot.com
 wikimedia.org
@@ -15114,7 +15132,10 @@ www.fbcdn.net
 www.fidelity-media.com
 www.financialjuice.com
 www.fluct.jp
+www.fonts.evyy.net
 www.fonts.go2cloud.org
+www.fonts.skimresources.com
+www.fonts.tradedoubler.com
 www.foshk.com
 www.foxmetrics.com
 www.fractionalmedia.com
@@ -15337,6 +15358,7 @@ www.quantcast.com
 www.r7mediar.com
 www.radiusnetworks.com
 www.rakutenadvertising.com
+www.realitytitbit.com
 www.recreativ.com
 www.redclick.ru
 www.redlotus.com
