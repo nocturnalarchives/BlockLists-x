@@ -125,6 +125,7 @@
 26.taskassist-pa.clients.google.com
 27.client-channel.google.com
 27.taskassist-pa.clients.google.com
+2761768.fls.doubleclick.net
 277288171.pixel.archive.is
 28.client-channel.google.com
 28.taskassist-pa.clients.google.com
@@ -391,6 +392,7 @@ a.serverbid.com
 a.skimresources.com
 a.teads.com
 a.teads.tv
+a.tribalfusion.com
 a.udkcjr.com
 a.usabilla.com
 a.vidora.com
@@ -1679,6 +1681,7 @@ analytics-egain.com
 analytics-sm.com
 analytics.analytics-egain.com
 analytics.archive.org
+analytics.cohesionapps.com
 analytics.disney.go.com
 analytics.foresee.com
 analytics.google.com
@@ -1893,6 +1896,7 @@ api.rollbar.com
 api.sail-personalize.com
 api.smoot.apple.com
 api.time.com
+api.verizon.com
 api2.branch.io
 api64.com
 apia.com.au
@@ -2102,6 +2106,7 @@ aso1.net
 asos.m.facebook.com
 aspnetcdn.com
 assets.a-mo.net
+assets.adobedtm.com
 assets.bounceexchange.com
 assets.calendly.com
 assets.context.ly
@@ -4157,6 +4162,7 @@ c.ntv.io
 c.o0bc.com
 c.optmnstr.com
 c.optmstr.com
+c.pmsrv.co
 c.serverbid.com
 c.skimresources.com
 c.teads.tv
@@ -4301,6 +4307,7 @@ cdn.branch.io
 cdn.brandmetrics.com
 cdn.brid.tv
 cdn.ckeditor.com
+cdn.cohesionapps.com
 cdn.cookielaw.org
 cdn.corporate.walmart.com
 cdn.digitaloceanspaces.com
@@ -4709,6 +4716,7 @@ clustaar.io
 clusters.pluto.tv
 clustrmaps.com
 cm.everesttech.net
+cm.g.doubleclick.net
 cm.google.com
 cmadserver.de
 cmgdigital.com
@@ -4765,6 +4773,7 @@ coinzilla.com
 coinzillatag.com
 coke.com
 collab.apps.mil
+collaborateext.verizon.com
 collect.igodigital.com
 collectcdn.com
 collector-pxogckki0e.px-cloud.net
@@ -5277,6 +5286,7 @@ diffuser-cdn.app-us1.com
 digidip.net
 digikey.com
 digismoothie.app
+digital-cloud.medallia.com
 digital-metric.com
 digitalaudienz.com
 digitalbots.ai
@@ -6698,6 +6708,7 @@ flowcdn.io
 floweryoperation.com
 flowplayer.com
 flowplayer.org
+fls.doubleclick.net
 fluchtrucksack.de
 fluct.jp
 fluidplayer.com
@@ -6944,6 +6955,7 @@ gatedcontent.com
 gatehousemedia.com
 gateway.foresee.com
 gateway.harri.com
+gateway.verizonwireless.com
 gatorapi.com
 gaug.es
 gaydemon.com
@@ -7239,6 +7251,8 @@ graph-video.facebook.com
 graph.bluecava.com
 graph.bustle.com
 graph.facebook.com
+graph.Facebook.com
+graph.Facebook.net
 graphly.io
 gratis-fickfilme.net
 gravatar.com
@@ -7957,6 +7971,7 @@ hx.google.com
 hy.google.com
 hybrid.ai
 hybrid1.io
+hydra.mediasearch.verizon.com
 hyj.mobi
 hypemarks.com
 hyperspeed.pro
@@ -8034,6 +8049,7 @@ idlcloud.com
 idmnet.pl
 idolfileup.com
 idosell.com
+idsync.rlcdn.com
 ie.google.com
 ie8eamus.com
 iesnare.com
@@ -8227,6 +8243,7 @@ insuit.net
 insurads.com
 inswebt.com
 int-x3.letsencrypt.org
+integration-services.redventures.io
 intelliad.de
 intelligence-api-prod.ent.sdy.ai
 intelligentscissors.com
@@ -9245,6 +9262,7 @@ media-amazon.com
 media-b.jp
 media-imdb.com
 media-match.com
+media-verizon-dev.inq.com
 media.msg.dotomi.com
 media.net
 media.rocketreach.co
@@ -10289,6 +10307,7 @@ p.ntv.io
 p.o0bc.com
 p.optmnstr.com
 p.optmstr.com
+p.rfihub.com
 p.skimresources.com
 p.teads.tv
 p.tvpixel.com
@@ -10347,6 +10366,7 @@ partplanes.com
 partyvibe.com
 passendo.com
 passivemonetizer.com
+pasta.esfile.duapps.com
 patchmedia14411z.btttag.com
 pathfactory.com
 patreon.com
@@ -11156,6 +11176,7 @@ redretarget.com
 redteenporn.net
 redtube.com
 reduxmediagroup.com
+redventures.io
 redwap-cdn.com
 reedbusiness.net
 reembed.com
@@ -11217,7 +11238,9 @@ reson8.com
 resonantbrush.com
 resonate.com
 resources.cdn.seon.io
+resources.digital-cloud.medallia.com
 respectrain.com
+respframework.verizon.com
 responsetap.com
 responsiveads.com
 responsivevoice.org
@@ -11357,6 +11380,7 @@ rq.google.com
 rqtrk.eu
 rr.google.com
 rrchnm.org
+rs.fullstory.com
 rs.google.com
 rsms.me
 rss2json.com
@@ -12756,6 +12780,7 @@ straightnest.com
 straightschool.com
 strands.com
 strangesink.com
+stratusapps.io
 stream.ne.jp
 stream.playbuzz.com
 streamamp.tech
@@ -12781,6 +12806,7 @@ strossle.it
 strpjmp.com
 structurerod.com
 structuresofa.com
+sts3.wsj.net
 sttic.xx.fbcdn.net
 studios.ms
 stumbleupon.com
@@ -13029,6 +13055,7 @@ teenyvolcano.com
 teethfan.com
 tegnadigital.com
 telecom.com.ar
+telecom.stratusapps.io
 telefonica-partner.de
 telefonica.es
 telegram.im
@@ -13480,6 +13507,7 @@ tsyawshost.com
 tsyndicate.com
 tsystatic.com
 tt.google.com
+tt.omtrdc.net
 ttarget.ru
 ttgtmedia.com
 ttxm.co.uk
@@ -13493,6 +13521,7 @@ tubecorporate.com
 tubepush.eu
 tumblr.com
 tumedia.no
+tundra.telecom.stratusapps.io
 tunegenie.com
 tunein.com
 tuongthuatketqua.vn
@@ -13660,6 +13689,7 @@ uplynk.com
 upravel.com
 uprimp.com
 uprivaladserver.net
+ups.analytics.yahoo.com
 upscope.io
 upscore.com
 upsell-apps.com
@@ -13722,6 +13752,7 @@ userreplay.net
 userreport.com
 userscoring.io
 usersnap.com
+usersync.videoamp.com
 usertracks.live
 uservoice.com
 userway.org
@@ -13815,8 +13846,13 @@ veoxa.com
 vergic.com
 verifypass.com
 verifyvegetable.com
+verizon-dev.inq.com
+verizon.demdex.net
+verizon.inq.com
 verizon.net
+verizoncorp.demdex.net
 verizonmedia.com
+verizontelecom.tt.omtrdc.net
 verizonwireless.com
 verseballs.com
 vertamedia.com
@@ -14042,6 +14078,7 @@ vshield.sitelock.com
 vsmedien.media
 vstatics.com
 vt.google.com
+vt.myvisualiq.net
 vtex.com.br
 vtexassets.com
 vteximg.com.br
@@ -14062,6 +14099,7 @@ vx.google.com
 vxcdn.com
 vy.google.com
 vyrl.co
+vz-atom-service.integration-services.redventures.io
 vz.google.com
 vzew.net
 w.bingparachute.com
@@ -15126,6 +15164,7 @@ www.example.org
 www.facebook.com
 www.facebook.de
 www.facebook.fr
+www.facebook.net
 www.fam-ad.com
 www.fbcdn.com
 www.fbcdn.net
