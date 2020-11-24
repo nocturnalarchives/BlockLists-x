@@ -16178,3 +16178,15 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+user.usatoday.com
+networking.apple
+ls-apple.com.akadns.net
+com.akadns.net
+cdn.thesn.net
+image.issuu.com
+snworksceo.imgix.net
+imgix.net
+android.clients.google.com
+configuration-vending.service.amazonsilk.com
+service.amazonsilk.com
+amazonsilk.com
