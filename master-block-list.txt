@@ -983,6 +983,7 @@ ads-link.net
 ads-twitter.com
 ads.adaptv.advertising.com
 ads.addynamix.com
+ads.celtra.com
 ads.doubleclick.net
 ads.facebook.com
 ads.linkedin.com
@@ -997,6 +998,7 @@ adsafeprotected.com
 adsafety.net
 adsage.cn
 adsage.com
+adsales.snidigital.com
 adsame.com
 adsb4track.com
 adsbtrk.com
@@ -1643,6 +1645,7 @@ amazon.de
 amazon.jobs
 amazonaws.com
 amazoncrl.com
+amazonsilk.com
 amazontrust.com
 ambient-platform.com
 ambientdsp.com
@@ -1685,6 +1688,7 @@ analytics.cohesionapps.com
 analytics.disney.go.com
 analytics.foresee.com
 analytics.google.com
+analytics.snidigital.com
 analytics.twitter.com
 analytics.yahoo.com
 analyticssuitefrontend-pa.clients0.google.com
@@ -1804,6 +1808,7 @@ and.co.uk
 andbeyond.media
 andomedia.com
 android-root-tool.com
+android.clients.google.com
 android.prod.cloud.netflix.com
 androidpit.info
 androworks.org
@@ -1871,6 +1876,7 @@ api-read.facebook.com
 api-v3.tinypass.com
 api.actionbutton.co
 api.altmetric.com
+api.bibblio.org
 api.bmw
 api.bounceexchange.com
 api.btloader.com
@@ -2114,6 +2120,7 @@ assets.juicer.io
 assets.newsmaxwidget.com
 assets.omny.fm
 assets.revcontent.com
+assets.sni-dat.com
 assets.targetimg1.com
 assoc-amazon.com
 associates-amazon.com
@@ -3812,6 +3819,7 @@ bhcumsc.com
 bhphotovideo.com
 bhyhome.com
 bi.google.com
+bibblio.org
 biblehu.com
 biblemenus.com
 biblia.com
@@ -4229,6 +4237,7 @@ captcha-delivery.com
 capterra-static.com
 capterra.com
 captnemo.in
+capture.condenastdigital.com
 capturehighered.net
 capturly.com
 carambo.la
@@ -4302,6 +4311,7 @@ cdn-spurit.com
 cdn-us-doubleverify.com
 cdn.9xbud.com
 cdn.apple-mapkit.com
+cdn.bibblio.org
 cdn.blueconic.net
 cdn.branch.io
 cdn.brandmetrics.com
@@ -4319,6 +4329,7 @@ cdn.inpwrd.net
 cdn.irsdn.net
 cdn.iubenda.com
 cdn.krxd.net
+cdn.kustomerapp.com
 cdn.live
 cdn.mediago.io
 cdn.mg2connext.com
@@ -4332,6 +4343,7 @@ cdn.shareaholic.net
 cdn.shortpixel.ai
 cdn.sstatic.net
 cdn.tax
+cdn.thesn.net
 cdn.tinypass.com
 cdn.turner.com
 cdn.viglink.com
@@ -4347,6 +4359,7 @@ cdnaz.win
 cdnbase.com
 cdnbm.net
 cdnimg.xyz
+cdninstagram.com
 cdnjke.com
 cdnjs.cc
 cdnjs.cloudflare.com
@@ -4357,6 +4370,8 @@ cdnpark.com
 cdnproviders.net
 cdns.connatix.com
 cdns.us1.gigya.com
+cdns1.gigya.com
+cdns2.gigya.com
 cdnspon.com
 cdnstaticpr.com
 cdnster.com
@@ -4513,6 +4528,7 @@ clarovideo.net
 classic-porn.cc
 clcknads.pro
 clcktrax.com
+cld.sndimg.com
 cld1.staticsfly.com
 clean.gg
 cleanmediaads.com
@@ -4746,6 +4762,7 @@ coaching.viktvaktarna.se
 cobalten.com
 cobaltgroup.com
 cobrowser.com
+code.adsales.snidigital.com
 code.facebook.com
 code.responsivevoice.org
 code.robertdegroot.nl
@@ -4781,6 +4798,7 @@ collegenet.com
 colorinside.com
 colossalchance.com
 colossusssp.com
+com.akadns.net
 com.br
 com.cn
 com.ru
@@ -4832,6 +4850,7 @@ conductrics.com
 conectadosbancogalicia.m.facebook.com
 config.gorgias.io
 config.mapbox.com
+configuration-vending.service.amazonsilk.com
 configuration.apple.com
 configuration.ls.apple.com
 configuration.ls.apple.com.akadns.com
@@ -6246,6 +6265,7 @@ engage.co
 engage.dickssportinggoods.com
 engagebdr.com
 engageya.com
+engine.adzerk.net
 enhance.co
 eniro.com
 ensighten.com
@@ -6343,6 +6363,7 @@ events.bouncex.net
 events.brightline.tv
 events.mapbox.com
 events.tremorhub.com
+events.whisk.com
 everestjs.net
 everesttech.net
 evergage.com
@@ -6764,6 +6785,7 @@ fonts.tradedoubler.com
 fonts.www.linkconnector.com
 fonts.www.ojrq.net
 fontshop.com
+food.cld.sndimg.com
 foodora.com
 foolcdn.com
 foolfishes.com
@@ -6995,6 +7017,7 @@ genieventures.co.uk
 geniusmonkey.com
 genndi.com
 geo-targetly.com
+geo.moatads.com
 geo.privacymanager.io
 geoedge.be
 geoip-js.com
@@ -7067,6 +7090,7 @@ giardinaggio.it
 giddycoat.com
 gie.net
 gigya.com
+gigya.foodnetwork.com
 gingerhotels.m.facebook.com
 gio.com.au
 giocdn.com
@@ -7104,6 +7128,7 @@ glispa.com
 gloapi.com
 global-e.com
 global.fncstatic.com
+global.safebrowsing.service.amazonsilk.com
 globaladmedia.com
 globalismedia.com
 globalsign.com
@@ -8001,6 +8026,8 @@ i.ua
 i.udkcjr.com
 i.usabilla.com
 i1.rgstatic.net
+i1.wp.com
+i2.wp.com
 i2i.jp
 ia.google.com
 ia.media-imdb.com
@@ -8082,6 +8109,7 @@ im-g.pl
 im.google.com
 image-ad.jp
 image-proxy-cdn.ent.sdy.ai
+image.issuu.com
 imagebam.com
 imagendigital.com
 images-apmex.com
@@ -8102,6 +8130,7 @@ imgbox.com
 imgcdnbet.com
 imgcloud.pw
 imgfox.xyz
+imgix.net
 imgshare.info
 imgsmail.ru
 imgsynd.com
@@ -8508,6 +8537,7 @@ js-agent.newrelic.com
 js-bn.com
 js-sec.indexww.com
 js.ad-score.com
+js.createsend1.com
 js.driftt.com
 js.google.com
 js.hs-scripts.com
@@ -8882,6 +8912,7 @@ line.me
 linguatec.org
 linio.com
 link.gc.apple.com
+link.theplatform.com
 linkangood.com
 linkconnector.com
 linkedin.com
@@ -9037,6 +9068,7 @@ lr.google.com
 lrcontent.com
 ls-apple.com
 ls-apple.com.akadns.com
+ls-apple.com.akadns.net
 ls-models.gr
 ls-new.apple.com
 ls-origin-apple.com
@@ -9810,6 +9842,7 @@ netvigie.com
 netwads.com
 network-n.com
 network.bazaarvoice.com
+networking.apple
 networkmanag.com
 networx.com
 netzseiten.de
@@ -10224,6 +10257,7 @@ orderlogicapp.com
 org.vn
 organizer.bizzabo.com
 oribi.io
+origin-services.epicurious.com
 origincache-ash.t.fbcdn.net
 origincache-frc.t.fbcdn.net
 origincache-kb6-shv-10-frc1.fbcdn.net
@@ -10517,6 +10551,7 @@ pixel-a.basis.net
 pixel.adsafeprotected.com
 pixel.advertising.com
 pixel.archive.is
+pixel.condenastdigital.com
 pixel.everesttech.net
 pixel.facebook.com
 pixel.mathtag.com
@@ -11439,6 +11474,7 @@ rz.google.com
 s-cloud.fi
 s-i-r.de
 s-img.de
+s-jsonp.moatads.com
 s-onetag.com
 s-palvelut.fi
 s-static.ak.facebook.com
@@ -11493,6 +11529,7 @@ sabio.us
 sablesmile.com
 sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
 safebrowsing.googleapis.com
+safebrowsing.service.amazonsilk.com
 safefaststatic.com
 safelinku.com
 safeway.com
@@ -11642,6 +11679,7 @@ scontent-frx5-1.xx.fbcdn.net
 scontent-gru.xx.fbcdn.net
 scontent-hkg3-1.xx.fbcdn.net
 scontent-hkg3-2.xx.fbcdn.net
+scontent-iad3-1.cdninstagram.com
 scontent-iad3-1.xx.fbcdn.net
 scontent-icn1-1.xx.fbcdn.net
 scontent-lax.xx.fbcdn.net
@@ -11958,6 +11996,7 @@ service-nk11-b.gc.apple.com
 service-sandbox-st11-1.gc.apple.com
 service-st11-a.gc.apple.com
 service-st11-b.gc.apple.com
+service.amazonsilk.com
 service.gc.apple.com
 services.amazon.com
 services.mozilla.com
@@ -12016,6 +12055,7 @@ shareasale.com
 sharecare.com
 sharedid.org
 sharethis.com
+sharethrough.adnxs.com
 sharethrough.com
 sharethru.com
 sharez.cc
@@ -12379,6 +12419,7 @@ sndimg.com
 sneaklevel.com
 sneakystamp.com
 sneakystew.com
+sni-dat.com
 snidigital.com
 snigelweb.com
 snipcart.com
@@ -12390,6 +12431,7 @@ snplow.net
 snrbox.com
 snrcdn.net
 snva.jp
+snworksceo.imgix.net
 so.google.com
 soakedtube.com
 soapcreative.com
@@ -12680,6 +12722,7 @@ static.fsea1-1.fna.fbcdn.net
 static.gc.apple.com
 static.hotjar.com
 static.kqzyfj.com
+static.parsely.com
 static.scroll.com
 static.track.omguk.com
 static.webnx.com
@@ -13743,6 +13786,7 @@ usemessages.com
 useproof.com
 user-red.com
 user.com
+user.usatoday.com
 user1st.info
 userback.io
 usercentrics.eu
@@ -14168,6 +14212,7 @@ weatherwidget.io
 web-2-tel.com
 web-z.net
 web.beta.facebook.com
+web.dev
 web.easy-ads.com
 web.facebook.com
 webads.co.nz
@@ -14177,6 +14222,7 @@ webantenna.info
 webclicks24.com
 webcontentassessor.com
 webdav.facebook.com
+webdev.imgix.net
 webedia.fr
 webengage.co
 webengage.com
@@ -14301,6 +14347,7 @@ wideopenmediagroup.com
 widerplanet.com
 widespace.com
 widget.manychat.com
+widget.whisk.com
 widgetbot.io
 widgetic.com
 widgetly.com
@@ -14350,6 +14397,7 @@ wl.amazon-dss.com
 wl.google.com
 wlresources.com
 wm.google.com
+wms.assoc-amazon.com
 wmt.media
 wn.google.com
 wnyc.org
@@ -15359,6 +15407,7 @@ www.outbrain.com
 www.pardot.com
 www.passivemonetizer.com
 www.pay-click.ru
+www.pdk.video.snidigital.com
 www.performcb.com
 www.persona.ly
 www.personalics.com
@@ -15990,6 +16039,7 @@ z-m-video-yyz.xx.fbcdn.net
 z-m-www.facebook.com
 z-m.c10r.facebook.com
 z-m.facebook.com
+z-na.associates-amazon.com
 z-p1-api.facebook.com
 z-p1-graph.facebook.com
 z-p1-upload.facebook.com
@@ -16178,15 +16228,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-user.usatoday.com
-networking.apple
-ls-apple.com.akadns.net
-com.akadns.net
-cdn.thesn.net
-image.issuu.com
-snworksceo.imgix.net
-imgix.net
-android.clients.google.com
-configuration-vending.service.amazonsilk.com
-service.amazonsilk.com
-amazonsilk.com
