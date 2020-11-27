@@ -1,105 +1,4 @@
-          $actionarray = checkactiontext($debugflag,$temptext,$origtext,$lasttext,$findtext,$actionarray);
-          $temptext = findreplace($GLOBALS['subdebug'],$findtext,$replacetext,$temptext);
-        }
-        $findtext = checkmakeregex($GLOBALS['subdebug'],$value);
-        $lastvalue = $temptext;
-        $temptext = $value;
-        if(preg_match($findtext,$temptext)){
-      }
-      $GLOBALS['subdebug'] = setdebugflag($GLOBALS['testingflag'],$GLOBALS['rssregen'],"","","",$debugflag,"");
-      $temptext = $value;
-      $temptext = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-      if($temptext != ""){array_push($temparray,$temptext);}
-      if($value != ""){
-    }
-    $GLOBALS['subdebug'] = setdebugflag($GLOBALS['testingflag'],$GLOBALS['rssregen'],"","","",$debugflag,"");
-    $temparray = array();
-    $temparray = arraycleaner($GLOBALS['subdebug'],$temparray,"preserve","");
-    $temptext = "";
-    $temptext = $temparray;
-    $temptext = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-    foreach ($temparray as $value) {
-    foreach($origarray as $value){
-  }
-  }else{
-  // CONVERT ARRAY TO STRING
-  // CONVERT STRING TO ARRAY
-  // endfold
-  // fold
-  // PROCESS IT AS AN ARRAY OR A STRING
-  // XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-  //DEBUGGING DISPLAY
-  $actionarray = array("");
-  $actionarray = array();
-  $actiontext = "";
-  $debugflag = setdebugflag($GLOBALS['testingflag'],$GLOBALS['rssregen'],"","","",$debugflag,"");
-  $GLOBALS['subdebug'] = false;
-  $header = "FILE ".__FILE__."LINE ".__LINE__." FUNCTION NAME" . __FUNCTION__ . " starbreak";
-  $origarray = $temptext;
-  $origtext = $temptext;
-  $somevalue = defaultvalue($GLOBALS['subdebug'],$somevalue,$default);
-  $temptext = cleantext($GLOBALS['subdebug'],$temptext);
-  if($temptext != "" && count($temparray) > 0){
-  if(count($actionarray) >0 && $GLOBALS['changenotify']){$debugflag = true;}
-  if(is_array($temparray)){
-  if(is_array($temparray)){$temptext = converttostring($GLOBALS['subdebug'],$temptext,$delimiter);}
-  if(is_array($temptext)){$temparray = $temptext;}
-  return $temptext;
-  showstatusmsg($debugflag,$header,$temptext, $filename,$tempname,$origtext,$findtext,$replacetext,$findtext2,$replacetext2,$lasttext,$actionarray,$temparray);
------------------------------------------------------------------------------------------
-"beachlocationname",
-"beachmetroname",
-"beachmetroworlddestinationnames",
-"beachname",
-"beachworlddestinationname",
-"caribeanname",
-"citypasslocationname",
-"coldweatherlocationnameoption",
-"coldweatheruslocationname",
-"coldweatherworldlocationname",
-"cruisedestinationnames",
-"destinationname",
-"lakedestinationname",
-"metronamepoor",
-"metronamerich",
-"nationalparknameoption",
-"near me",
-"southpacificname",
-"statecapitalname",
-"statename",
-"top1000metroname",
-"top200metroname",
-"top500metroname",
-"top50metroname",
-"top50worldcitycapitalname",
-"top50worldcityname",
-"top50worldcountryname",
-"vacationcountryname",
-"worldcitycapitalname",
-"worldcityname",
-"worldcountryname"
-}
-// CONVERT STRING TO ARRAY
-// endfold
-// fold
-=257000/328000000
-$debugflag = false;
-$debugflag = setdebugflag($GLOBALS['testingflag'],$GLOBALS['rssregen'],"","1","",$debugflag,"");
-$GLOBALS['subdebug']
-$GLOBALS['subdebug'] = false;
-$GLOBALS['subdebug'] = setdebugflag($GLOBALS['testingflag'],$GLOBALS['rssregen'],"","1","",$debugflag,"");
-$GLOBALS['subdebug'] = true;
-$linedebug = setlinedebugcommondebugonly($debugflag,$linedebug);
-$linedebug = setlinedebugfunction($debugflag,__FUNCTION__,$linedebug);
-$origtext = $temptext;
-$temptext = dofindreplace($GLOBALS['subdebug'],$temptext,$findtext,$replacetext,true);
-$temptext = donolooptextcleaner($temptext);
-$temptext = getparameter($debugflag,$parameter,$default);
-$temptext = rawfindreplace($GLOBALS['subdebug'],$temptext,$findtext,$replacetext);
-$temptext = rssitemcheck($debugflag,$temptext);
-$temptext = spellinggrammarmultifix($GLOBALS['subdebug'],$temptext);
 0-edge-chat.facebook.com
-0.0783537
 0.beta.facebook.com
 0.client-channel.google.com
 0.facebook.com
@@ -356,7 +255,6 @@ $temptext = spellinggrammarmultifix($GLOBALS['subdebug'],$temptext);
 6.taskassist-pa.clients.google.com
 60.client-channel.google.com
 60.taskassist-pa.clients.google.com
-60*60*60
 61.client-channel.google.com
 61.taskassist-pa.clients.google.com
 62.client-channel.google.com
@@ -488,7 +386,6 @@ a.moatads.com
 a.ns.facebook.com
 a.ntv.io
 a.o0bc.com
-a.omappapi.com
 a.optmnstr.com
 a.optmstr.com
 a.serverbid.com
@@ -1665,8 +1562,6 @@ ajx272.online
 ak.google.com
 ak.sail-horizon.com
 ak0gsh40.com
-akadns.net
-akahost.net
 akamai.net
 akamaihd.net
 akamaized.net
@@ -1966,7 +1861,6 @@ apex.go.sonobi.com
 apex.live
 apextag.com
 apgrv.com
-APH
 aphycolourses.info
 api-01.com
 api-02.com
@@ -2316,7 +2210,6 @@ autodaily.vn
 autodesk.com
 autoforums.com
 autoimg.cn
-autolinkmaker.itunes.apple.com
 automatad.com
 automaticflock.com
 automaticside.com
@@ -2359,7 +2252,6 @@ aweprt.com
 awepsi.com
 awestc.com
 awin1.com
-AWK
 awmserve.com
 awsatstb.com
 awsmpsa.com
@@ -3927,7 +3819,6 @@ bhcumsc.com
 bhphotovideo.com
 bhyhome.com
 bi.google.com
-bi.medscape.com
 bibblio.org
 biblehu.com
 biblemenus.com
@@ -4078,7 +3969,6 @@ bol.com
 boldapps.net
 boldchat.com
 boldcommerce.com
-boldtext.io
 bolt.com
 bonad.io
 bonanzastatic.com
@@ -4286,7 +4176,6 @@ c.skimresources.com
 c.teads.tv
 c.udkcjr.com
 c.usabilla.com
-c0.wp.com
 c1exchange.com
 c1fp46crw8ud8d.credentials.iot.us-east-1.amazonaws.com
 c212.net
@@ -4316,7 +4205,6 @@ calmfoot.com
 calreplyapp.com
 caltat.com
 cam4-10.as22384.net
-Camaro10
 cambium-media.com
 camgirlfap.com
 cammedia.com
@@ -4385,7 +4273,6 @@ cashlayer.com
 castbox.fm
 castplatform.com
 casualportals.com
-CAT stock
 catalog-retail.amazon.com
 catawiki.net
 catschickens.com
@@ -4452,7 +4339,6 @@ cdn.otstatic.com
 cdn.parsely.com
 cdn.printfriendly.com
 cdn.ravenjs.com
-cdn.rebel.ai
 cdn.shareaholic.net
 cdn.shortpixel.ai
 cdn.sstatic.net
@@ -4525,7 +4411,6 @@ cfigroup.com
 cfmediaview.com
 cfzu.net
 cg.google.com
-CGA
 ch.google.com
 ch3.ru
 chaglihysty.pro
@@ -4599,7 +4484,6 @@ chlorobike.com
 chocolateplatform.com
 choogeet.net
 choozle.com
-chris_remsen@yahoo.com
 chrono24.com
 chsc.dk
 cht.xxx
@@ -4824,7 +4708,6 @@ clnmde.com
 clockwisemd.com
 cloisteredhydrant.com
 closetopic.site
-cloud-access.online
 cloud-iq.com
 cloud-iq.com.au
 cloud.adobe.io
@@ -4841,7 +4724,6 @@ cloudmaestro.com
 cloudsdestruction.com
 cloudsponge.com
 cloudways.com
-clrregex();
 clrstm.com
 clubmed.m.facebook.com
 cludo.com
@@ -4917,7 +4799,6 @@ colorinside.com
 colossalchance.com
 colossusssp.com
 com.akadns.net
-com.akahost.net
 com.br
 com.cn
 com.ru
@@ -5113,7 +4994,6 @@ cquotient.com
 cr.google.com
 cr.org
 crabbychin.com
-craphound.com
 crashlytics.com
 crawlclocks.com
 crayoncompetition.com
@@ -5207,7 +5087,6 @@ cutercounter.com
 cuteturkey.com
 cux.io
 cv.google.com
-CVGI
 cw.google.com
 cw98228.com
 cworks.cloud
@@ -5266,7 +5145,6 @@ dancemistake.com
 dandb.com
 daneden.github.io
 danone.m.facebook.com
-danschaper.com
 danzz.ch
 dapperdiscussion.com
 darksky.net
@@ -5305,7 +5183,6 @@ datpix.net
 daum.net
 daumcdn.net
 davivienda.m.facebook.com
-dawax2ualjfe6.cloudfront.net
 daznservices.com
 db-ip.com
 db.google.com
@@ -5335,7 +5212,6 @@ dealerinspire.com
 dealertrack.com
 debitcrebit669.com
 debonairway.com
-debugbacktrace();
 decibelinsight.net
 decisivedrawer.com
 decisiveducks.com
@@ -5768,7 +5644,6 @@ ec-cloud.org
 ec-concier.com
 ec.google.com
 ec2-34-213-103-51.us-west-2.compute.amazonaws.com
-ec2-52-72-175-27.compute-1.amazonaws.com
 ec2-54-175-170-213.compute-1.amazonaws.com
 ecal.com
 ecbsn.com
@@ -6146,7 +6021,6 @@ ehosts.net
 ei.google.com
 eight.eight.eight.eight
 eight.eight.four.four
-eip-ntt.pbs.twimg.com.akahost.net
 ej.google.com
 ejyymghi.com
 ek.google.com
@@ -6175,7 +6049,6 @@ ellingtoncms.com
 elocallink.tv
 eloqua.com
 elpais.com
-elsa.memoinsights.com
 elseone.nl
 elsevier.com
 elsevierhealth.com
@@ -6439,7 +6312,6 @@ eroge.com
 eroterest.net
 erotik-webspace.net
 erotube.org
-error_clear_last();
 error.facebook.com
 errorception.com
 errorpilot.com
@@ -6460,7 +6332,6 @@ eslpro.gg
 esm1.net
 esmaker.net
 esolutionsgroup.ca
-ESPN HYPE HITS
 esputnik.com
 esri.com
 esri.de
@@ -7033,8 +6904,6 @@ fullstory.com
 fulltv.com.ar
 fulltvnetwork.com
 fullypcgames.org
-function arrayswitch($debugflag,$temptext){
-function functionname($debugflag,$temptext,$temparray,$value1){
 functionalclaim.com
 functionalclam.com
 functionalcrown.com
@@ -7117,7 +6986,6 @@ gazo.space
 gazzetta.it
 gazzettaobjects.it
 gb.google.com
-GBTC
 gbtcdn.com
 gbucket.ch
 gbvanalytics.com
@@ -7194,8 +7062,6 @@ getmetrical.com
 getpushmonkey.com
 getresponse.com
 getrockerbox.com
-GETS HERE: include-functions-library-3.php LINE: 9444 -
-GETS HERE: include-functions-library-3.php LINE: 9444 - /\bLast Minute ?La
 getsatisfaction.com
 getscriptjs.com
 getshogun.com
@@ -7272,7 +7138,6 @@ glomex.com
 glopal.com
 glossysense.com
 glotgrx.com
-glyph.medium.com
 gm.google.com
 gmailo.co
 gmg.io
@@ -7893,7 +7758,6 @@ hardenize.com
 hardtofindmilk.com
 hariken.co
 harri.com
-hasregexcheck($temptext,$findtext)
 hatchbuck.com
 hatena.ne.jp
 havasedge.com
@@ -8092,25 +7956,6 @@ ht.google.com
 htdvt.com
 htlbid.com
 html.it
-https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en-US
-https://chrome.google.com/webstore/detail/archiveror/cpjdnekhgjdecpmjglkcegchhiijadpb?hl=en
-https://chrome.google.com/webstore/detail/bp-privacy-block-all-font/bfoidacjeobbnkpoemlfllfmmnbogcig?hl=en
-https://chrome.google.com/webstore/detail/bp-privacy-block-all-font/bfoidacjeobbnkpoemlfllfmmnbogcig?hl=en-US
-https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd?hl=en
-https://chrome.google.com/webstore/detail/canvas-fingerprint-defend/lanfdkkpgfjfdikkncbnojekcppdebfp?hl=en
-https://chrome.google.com/webstore/detail/cookie-notice-blocker/odhmfmnoejhihkmfebnolljiibpnednn?hl=en-GB
-https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo?hl=en
-https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo/related?hl=en
-https://chrome.google.com/webstore/detail/history-autodelete/bhfakmaiadhflpjloimlagikhodjiefj?hl=en-US
-https://chrome.google.com/webstore/detail/history-cache-cleaner-for/fidcileobejjkcaoalcnedmgmnegmoic?hl=en-US
-https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp?hl=en
-https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp?hl=en-US
-https://chrome.google.com/webstore/detail/random-user-agent/einpaelgookohagofgnnkcfjbkkgepnp?hl=en
-https://chrome.google.com/webstore/detail/sybu-javascript-blocker/ceicidjdokcfbnkdenbhmnonehglgilk?hl=en
-https://nocturnalarchives.com/randomizer/?cachebuster7441421=7885880&g=&gg=99&s=1&t=22&rssseqnum=1&setname=random-&settings=-rssregen&testing=-randomizertestingon
-https://www.amazon.com/Aeotec-ZW122-Z-Wave-Water-Sensor/dp/B0799KLKVC/
-https://www.amazon.com/Aeotec-ZW160-Z-Wave-Water-Sensor/dp/B01FW2D9MG/
-https://www.zerohedge.com/commodities/platts-5-commodity-charts-watch-week-15
 htvapps.com
 hu-hu.facebook.com
 hu.google.com
@@ -8207,7 +8052,6 @@ icebns.com
 icfcdn.com
 ichecknotifyfriends.info
 ichnaea.netflix.com
-icloud.com.akadns.net
 icmedienhaus.de
 icon.s.click.aliexpress.com
 iconfinder.com
@@ -8238,22 +8082,6 @@ ie8eamus.com
 iesnare.com
 ietf.org
 if.google.com
-if(!$linedebug){$linedebug = $GLOBALS['subdebug'];}
-if(!$linedebug){$linedebug = setlinedebugcommon($debugflag,$filename,$linedebug);}
-if(!$linedebug){$linedebug = setlinedebugcommon($debugflag,$temparray,$linedebug);}
-if(!$linedebug){$linedebug = setlinedebugcommon($debugflag,$temptext,$linedebug);}
-if(!$linedebug){$linedebug = setlinedebugcommon($debugflag,$title,$linedebug);}
-if(!$linedebug){$linedebug = setlinedebugcommondebugonly($debugflag,$linedebug);}
-if(!$linedebug){$linedebug = setlinedebugcommonfunction($debugflag,$temptext,__FUNCTION__,$linedebug);}
-if(!$linedebug){$linedebug = setlinedebugfunction($debugflag,__FUNCTION__,$linedebug);}
-if(!is_array($temparray)){$temparray = converttoarray($GLOBALS['subdebug'],$temparray,$splitchar,"","");}
-if($actiontext == ""){$actiontext = getactiontext($debugflag,$temptext,$origtext,$findtext,$actiontext);}
-if($GLOBALS['displaydebug'] && $linedebug){debugdisplayarray($temparray);}
-if($GLOBALS['displaydebug']){rederrorarray(error_get_last());}
-if($temptext != $origtext){$temptext =  donolooptextcleaner($temptext);}
-if($temptext != $origtext){$temptext = donolooptextcleaner($temptext);}
-if(hasregexcheck($temptext,$findtext)){ }
-if(isvalidarray($temparray)){$temparray = arraypretty($debugflag,$temparray);}
 iframe.ly
 ift.tt
 ig.google.com
@@ -8346,7 +8174,6 @@ inboundgeo.com
 incapsula.com
 incest-sex.com
 incindio.com
-include-randomizer-madlibs-master-include-filelist-holder.php
 includemodal.com
 inclusite.com
 incommandary.club
@@ -8685,7 +8512,6 @@ jm.google.com
 jmpmedia.club
 jmsinf.com
 jn.google.com
-JNUG
 jo.google.com
 jobat.be
 jockeryfgtu.club
@@ -9072,7 +8898,6 @@ lightboxcdn.com
 lightcushion.com
 lightinthebox.com
 lightningbasecdn.com
-lightstep.medium.systems
 lightwidget.com
 lijit.com
 like-video.com
@@ -9151,7 +8976,6 @@ lj.google.com
 lk.google.com
 lk21c.fun
 lkqd.net
-LL
 ll.google.com
 llnwd.net
 llnwi.net
@@ -9306,13 +9130,10 @@ m.usabilla.com
 m.wsj.net
 m0mentum.net
 m1e2x-alternate.test-app.link
-m1schwb1
 m2.tuyaus.com
-m2schwb2
 m32.media
 m6r.eu
 ma.google.com
-ma1498-r.analytics.edgekey.net
 macromill.com
 macupdate.com
 madadsmedia.com
@@ -9450,7 +9271,6 @@ mc.google.com
 mc.yandex.ru
 mcast.net
 mccdn.me
-mcstaging2.
 md-nx.com
 md-static.com
 md.google.com
@@ -9536,7 +9356,6 @@ medimops.eu
 medium.com
 medleyads.com
 medpagetoday.com
-medscape.com
 medtargetsystem.com
 medyanetads.com
 meetami.ai
@@ -9647,7 +9466,6 @@ miolive.tv
 mipo.co.il
 mippin.com
 mirando.de
-miro.medium.com
 miroglio.m.facebook.com
 mirror.co.uk
 mirsexy.nl
@@ -9666,7 +9484,6 @@ mixi.mn
 mixmarket.biz
 mixpanel.com
 mixpo.com
-MJ
 mj.google.com
 mjhassoc.com
 mk.google.com
@@ -9840,7 +9657,6 @@ mt.lv
 mtalk.google.com
 mtb-news.de
 mthsense.com
-MTN
 mtouch.facebook.com
 mtrcs.samba.tv
 mtrl.me
@@ -10153,7 +9969,6 @@ noz-cdn.de
 noz.de
 np.google.com
 npmcdn.com
-npmjs.org
 npms.io
 npo-data.nl
 npo.nl
@@ -10205,7 +10020,6 @@ nuttyorganization.com
 nuviad.com
 nuvidp.com
 nv.google.com
-NVDA
 nvspc.me
 nw.google.com
 nwk-sandbox.gc.apple.com
@@ -10537,7 +10351,6 @@ p0.com
 p1.zemanta.com
 p24.hu
 p2r14.com
-P7Z9Z*#lv2#b8u^24#Cp4^VOnJwEMIa6d
 pa-in.facebook.com
 pa.google.com
 pa.gov
@@ -10603,7 +10416,6 @@ paypalobjects.com
 pb.google.com
 pbbl.co
 pbh-network.com
-pbs.twimg.com.akahost.net
 pbstck.com
 pc.google.com
 pc180101.com
@@ -10955,7 +10767,6 @@ pro.ad-blocker.org
 pro.imdb.com
 proboards.com
 prod-use.perf-serving.com
-prod.adspsp.com
 prod.ally.ac
 prod.amazoncrl.com
 prod.bidr.io
@@ -11158,7 +10969,6 @@ qa.google.com
 qanon.at
 qat2.vigilantesdopeso.com.br
 qat2.weightwatchers.ch
-qaz.wtf
 qb.google.com
 qbox.me
 qbrick.com
@@ -11350,22 +11160,11 @@ realitytitbit.com
 realizerecess.com
 realizevacation.com
 reallyfreegeoip.org
-realmagnet.land
 realnudist.biz
 realperson.de
 realpython.net
 realsrv.com
 realtimestatistics.net
-realtimesupport.clients1.google.com
-realtimesupport.clients10.google.com
-realtimesupport.clients2.google.com
-realtimesupport.clients3.google.com
-realtimesupport.clients4.google.com
-realtimesupport.clients5.google.com
-realtimesupport.clients6.google.com
-realtimesupport.clients7.google.com
-realtimesupport.clients8.google.com
-realtimesupport.clients9.google.com
 realtimewebstats.net
 realvu.net
 realwap.net
@@ -11433,7 +11232,6 @@ reftagger.com
 reginapps.com
 register.facebook.com
 registry.api.cnn.io
-registry.npmjs.org
 reichelcormier.bid
 reimo-shops.de
 rejoiner.com
@@ -11820,7 +11618,6 @@ scintillatingspace.com
 scmmesh.com
 scmplayer.net
 scnez.com
-scone-pa.clients6.google.com
 scontent-1.2914.fna.fbcdn.net
 scontent-2.2914.fna.fbcdn.net
 scontent-a-ams.xx.fbcdn.net
@@ -12067,7 +11864,6 @@ scribblelive.com
 scribbr.com
 scribd.com
 scribdassets.com
-script.crazyegg.com
 script.hotjar.com
 script.tapfiliate.com
 scripts.mediavine.com
@@ -12461,7 +12257,6 @@ simpleads.com.br
 simpleanalytics.com
 simpleanalytics.io
 simplecast.com
-simpleerror("Gets here".__FILE__." LINE ".__LINE__."");
 simplereach.com
 simplesharebuttons.com
 simpleviewcms.com
@@ -12631,7 +12426,6 @@ snipcart.com
 snmdt.fi
 snmmd.nl
 snoobi.com
-snopes.zeustechnology.com
 snpimg.com
 snplow.net
 snrbox.com
@@ -12707,7 +12501,6 @@ southpointcasino.com
 southwest.com
 souvlatraffic.com
 sovendus.com
-SOXL
 sp-prod.net
 sp-trk.com
 sp.analytics.yahoo.com
@@ -12857,7 +12650,6 @@ ssense.com
 ssl-images-amazon.com
 ssl-services.com
 ssl.facebook.com
-ssl.google-analytics.com
 ssl.gstatic.com
 sso-service.de
 ssor.platform.californiatimes.com
@@ -13193,7 +12985,6 @@ tafdi.org
 tag-serv.com
 tag.1rx.io
 tag.bounceexchange.com
-tag.getdrip.com
 tag.researchnow.com
 tag4arm.com
 tagan.adlightning.com
@@ -13794,10 +13585,8 @@ tvpixel.com
 tvs24.ru
 tvsquared.com
 tw.google.com
-tweeterid.com
 twiago.com
 twimg.com
-twimg.com.akahost.net
 twimgs.com
 twincdn.com
 twinrdsrv.com
@@ -13970,8 +13759,6 @@ urekamedia.com
 ureruadnw.com
 uri.sh
 urlbi.com
-uro5.realmagnet.land
-us-central1-amp-error-reporting.cloudfunctions.net
 us-east-1-decisionapi.lift.acquia.com
 us-east-sync.bidswitch.net
 us-proxy.org
@@ -14025,7 +13812,6 @@ utarget.ru
 utdstc.com
 utherverse.com
 utl-utils.ru
-utteranc.es
 uttermosthobbies.com
 uu.google.com
 uuidksinc.net
@@ -14327,7 +14113,6 @@ vq50.com
 vr.google.com
 vroom.be
 vrt.be
-VRTX, ADSK, PYPL, ISRG, NOW or VAPIN,
 vrtzads.com
 vs.google.com
 vs3.com
@@ -14384,7 +14169,6 @@ walmart.com
 walmeric.com
 want.tf
 wap.vn
-wapo-analytics.zeustechnology.com
 wapsite.info
 warbycdn.com
 wargaming.net
@@ -14704,7 +14488,6 @@ wwclicknews.club
 wwe9.com
 wwopenclick.space
 wwry.xyz
-www-cdn.icloud.com.akadns.net
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www.114dns.com
@@ -15595,7 +15378,6 @@ www.newrelic.com
 www.nextclick.pl
 www.nomobileads.com
 www.nprapps.org
-www.npttech.com
 www.nr-data.net
 www.ntv.io
 www.nuviad.com
@@ -15856,7 +15638,6 @@ xf.google.com
 xfap.eu
 xg.google.com
 xg4ken.com
-xg8TpqMF241J#
 xh.google.com
 xhcdn.com
 xhuc.net
@@ -15889,7 +15670,6 @@ xrares.com
 xromp.com
 xs.google.com
 xscreenattribution.com
-XSD
 xsellco.com
 xshop1.ru
 xsolla.com
@@ -16448,3 +16228,72 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+adservice.google.com
+cdn.rebel.ai
+rebel.ai
+googleads.g.doubleclick.net
+static.doubleclick.net
+bi.medscape.com
+medscape.com
+preferences.trustarc.com
+trustarc.com
+uro5.realmagnet.land
+realmagnet.land
+prod.adspsp.com
+adspsp.com
+eip-ntt.pbs.twimg.com.akahost.net
+pbs.twimg.com.akahost.net
+twimg.com.akahost.net
+com.akahost.net
+akahost.net
+www-cdn.icloud.com.akadns.net
+icloud.com.akadns.net
+com.akadns.net
+akadns.net
+www.npttech.com
+npttech.com
+craphound.com
+c0.wp.com
+autolinkmaker.itunes.apple.com
+configuration.apple.com
+registry.npmjs.org
+npmjs.org
+cloud-access.online
+ssl.google-analytics.com
+scone-pa.clients6.google.com
+realtimesupport.clients6.google.com
+
+realtimesupport.clients10.google.com
+realtimesupport.clients9.google.com
+realtimesupport.clients8.google.com
+realtimesupport.clients7.google.com
+realtimesupport.clients6.google.com
+realtimesupport.clients5.google.com
+realtimesupport.clients4.google.com
+realtimesupport.clients3.google.com
+realtimesupport.clients2.google.com
+realtimesupport.clients1.google.com
+6.client-channel.google.com
+5.client-channel.google.com
+4.client-channel.google.com
+3.client-channel.google.com
+2.client-channel.google.com
+1.client-channel.google.com
+appswaldo-pa.clients6.google.com
+taskassist-pa.clients6.google.com
+tag.getdrip.com
+getdrip.com
+script.crazyegg.com
+crazyegg.com
+jetpack.wordpress.com
+a.omappapi.com
+wapo-analytics.zeustechnology.com
+zeustechnology.com
+recommendation-hybrid.wpdigital.net
+wpdigital.net
+browser.sentry-cdn.com
+sentry-cdn.com
+tweeterid.com
+boldtext.io
+qaz.wtf
+dawax2ualjfe6.cloudfront.net
