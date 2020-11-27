@@ -1,3 +1,5 @@
+0-courier.push.apple.com
+0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
 0.beta.facebook.com
 0.client-channel.google.com
@@ -26,6 +28,8 @@
 09.client-channel.google.com
 09.taskassist-pa.clients.google.com
 0ps.us
+1-courier.push.apple.com
+1-courier.sandbox.push.apple.com
 1-edge-chat.facebook.com
 1.client-channel.google.com
 1.gravatar.com
@@ -88,6 +92,8 @@
 1trust.app
 1ts19.top
 1ts20.top
+2-courier.push.apple.com
+2-courier.sandbox.push.apple.com
 2-edge-chat.facebook.com
 2.client-channel.google.com
 2.gravatar.com
@@ -143,6 +149,8 @@
 2xc8.net
 2xclick.ru
 2znp09oa.com
+3-courier.push.apple.com
+3-courier.sandbox.push.apple.com
 3-edge-chat.facebook.com
 3.client-channel.google.com
 3.gravatar.com
@@ -181,6 +189,8 @@
 3speak.online
 3xplanet.com
 3xplanet.net
+4-courier.push.apple.com
+4-courier.sandbox.push.apple.com
 4-edge-chat.facebook.com
 4.client-channel.google.com
 4.gravatar.com
@@ -217,6 +227,8 @@
 4strokemedia.com
 4webku.com
 4wnetwork.com
+5-courier.push.apple.com
+5-courier.sandbox.push.apple.com
 5-edge-chat.facebook.com
 5.client-channel.google.com
 5.gravatar.com
@@ -249,6 +261,8 @@
 5a8p12.cn
 5hd.co
 5mcwl.pw
+6-courier.push.apple.com
+6-courier.sandbox.push.apple.com
 6-edge-chat.facebook.com
 6.client-channel.google.com
 6.gravatar.com
@@ -386,6 +400,7 @@ a.moatads.com
 a.ns.facebook.com
 a.ntv.io
 a.o0bc.com
+a.omappapi.com
 a.optmnstr.com
 a.optmstr.com
 a.serverbid.com
@@ -410,6 +425,7 @@ a4c.com
 a4yssp.com
 a8.net
 a8723.com
+aa.google.com
 aa.online-metrix.net
 aaacompany.net
 aaaecommerce.com
@@ -1562,6 +1578,8 @@ ajx272.online
 ak.google.com
 ak.sail-horizon.com
 ak0gsh40.com
+akadns.net
+akahost.net
 akamai.net
 akamaihd.net
 akamaized.net
@@ -1688,6 +1706,7 @@ analytics.cohesionapps.com
 analytics.disney.go.com
 analytics.foresee.com
 analytics.google.com
+analytics.lbry.com
 analytics.snidigital.com
 analytics.twitter.com
 analytics.yahoo.com
@@ -1891,6 +1910,7 @@ api.ipify.org
 api.kochava.com
 api.lbry.com
 api.lbry.tv
+api.nextgen.guardianapps.co.uk
 api.no
 api.okendo.io
 api.parsely.com
@@ -1912,6 +1932,7 @@ apis.google.com
 aplaut.io
 apolloprogram.io
 apomaya.net
+app-abq.marketo.com
 app-adforce.jp
 app-c.net
 app-measurement.com
@@ -2116,6 +2137,7 @@ assets.adobedtm.com
 assets.bounceexchange.com
 assets.calendly.com
 assets.context.ly
+assets.guim.co.uk
 assets.juicer.io
 assets.newsmaxwidget.com
 assets.omny.fm
@@ -2210,6 +2232,7 @@ autodaily.vn
 autodesk.com
 autoforums.com
 autoimg.cn
+autolinkmaker.itunes.apple.com
 automatad.com
 automaticflock.com
 automaticside.com
@@ -2274,9 +2297,11 @@ az-az.facebook.com
 az-cdn.ch
 az.google.com
 az.gov
+az416426.vo.msecnd.net
 azame.net
 azet.sk
 azetklik.sk
+azr.footprintdns.com
 aztracking.net
 azure-api.net
 azure.net
@@ -2303,6 +2328,7 @@ b.skimresources.com
 b.teads.tv
 b.udkcjr.com
 b.usabilla.com
+b099d27eb314e5d29d935551970c4817.azr.footprintdns.com
 b0e8.com
 b1img.com
 b1js.com
@@ -3819,6 +3845,7 @@ bhcumsc.com
 bhphotovideo.com
 bhyhome.com
 bi.google.com
+bi.medscape.com
 bibblio.org
 biblehu.com
 biblemenus.com
@@ -3908,6 +3935,8 @@ blesk.cz
 blismedia.com
 blitzcinema21.com
 blkditsup.com
+blob.core.windows.net
+blobcomments-pa.clients6.google.com
 blockchain.info
 blockexplorer.com
 blockthrough.com
@@ -3969,6 +3998,7 @@ bol.com
 boldapps.net
 boldchat.com
 boldcommerce.com
+boldtext.io
 bolt.com
 bonad.io
 bonanzastatic.com
@@ -4160,6 +4190,7 @@ bzl.co
 c-eu3.stripst.com
 c-i.as
 c-ovn.jp
+c.amazon-adsystem.com
 c.bingparachute.com
 c.convertkit.com
 c.doubleclick.net
@@ -4176,6 +4207,7 @@ c.skimresources.com
 c.teads.tv
 c.udkcjr.com
 c.usabilla.com
+c0.wp.com
 c1exchange.com
 c1fp46crw8ud8d.credentials.iot.us-east-1.amazonaws.com
 c212.net
@@ -4303,6 +4335,7 @@ cdn-adtrue.com
 cdn-anvilcms.net
 cdn-apple.com
 cdn-cnj.si
+cdn-media.brightline.tv
 cdn-net.com
 cdn-preorder.com
 cdn-server.cc
@@ -4323,6 +4356,7 @@ cdn.corporate.walmart.com
 cdn.digitaloceanspaces.com
 cdn.districtm.io
 cdn.dynamicyield.com
+cdn.engine.spotscenered.info
 cdn.fera.ai
 cdn.ghostmonitor.com
 cdn.inpwrd.net
@@ -4332,6 +4366,7 @@ cdn.krxd.net
 cdn.kustomerapp.com
 cdn.live
 cdn.mediago.io
+cdn.mediavoice.com
 cdn.mg2connext.com
 cdn.mojoreporter.com
 cdn.onesignal.com
@@ -4339,8 +4374,10 @@ cdn.otstatic.com
 cdn.parsely.com
 cdn.printfriendly.com
 cdn.ravenjs.com
+cdn.rebel.ai
 cdn.shareaholic.net
 cdn.shortpixel.ai
+cdn.sophi.io
 cdn.sstatic.net
 cdn.tax
 cdn.thesn.net
@@ -4401,7 +4438,9 @@ censurfridns.dk
 center.io
 centerpointmedia.com
 ceros.com
+certify-js.alexametrics.com
 certona.net
+certs.securetrust.com
 cf-cpc-worker.pub-ocean-cloudflare-account.workers.dev
 cf.google.com
 cf.videorolls.row.aiv-cdn.net
@@ -4708,6 +4747,7 @@ clnmde.com
 clockwisemd.com
 cloisteredhydrant.com
 closetopic.site
+cloud-access.online
 cloud-iq.com
 cloud-iq.com.au
 cloud.adobe.io
@@ -4736,6 +4776,7 @@ cm.g.doubleclick.net
 cm.google.com
 cmadserver.de
 cmgdigital.com
+cmp.oath.com
 cmpnet.com
 cmrdr.com
 cn.google.com
@@ -4793,12 +4834,14 @@ collab.apps.mil
 collaborateext.verizon.com
 collect.igodigital.com
 collectcdn.com
+collector-7626.tvsquared.com
 collector-pxogckki0e.px-cloud.net
 collegenet.com
 colorinside.com
 colossalchance.com
 colossusssp.com
 com.akadns.net
+com.akahost.net
 com.br
 com.cn
 com.ru
@@ -4816,6 +4859,7 @@ comm100vue.com
 commander1.com
 commandersact.com
 commandwalk.com
+commentfreely.bitchute.com
 commercialvalue.org
 commitchange.com
 commnat-cohort.gc.apple.com
@@ -4848,6 +4892,7 @@ condenastdigital.com
 conditioncrush.com
 conductrics.com
 conectadosbancogalicia.m.facebook.com
+confiant-integrations.global.ssl.fastly.net
 config.gorgias.io
 config.mapbox.com
 configuration-vending.service.amazonsilk.com
@@ -4864,6 +4909,7 @@ connatix.com
 connect.facebook.com
 connect.facebook.net
 connect.facebook.net.edgekey.net
+connect.scroll.com
 connectad.io
 connectif.cloud
 connectivity.samsung.com
@@ -4878,6 +4924,7 @@ conrad.de
 consciouscabbage.com
 consciouschairs.com
 consensu.org
+consent.cmp.oath.com
 consent.cookiebot.com
 consent.is
 consent.truste.com
@@ -4933,6 +4980,7 @@ convertkit.com
 convertlanguage.com
 convio.net
 conviva.com
+cookie-cdn.cookiepro.com
 cookie-script.com
 cookiebot.com
 cookieconsent.com
@@ -4957,6 +5005,7 @@ coral-talk.ext.nile.works
 cordial.io
 cordlessmedia.com
 core.connatix.com
+core.windows.net
 coreg-feed.com
 corel.com
 coremedia.cloud
@@ -4977,6 +5026,8 @@ countingdownto.com
 countryflags.io
 countyou.de
 coupert.com
+courier.push.apple.com
+courier.sandbox.push.apple.com
 coveo.com
 coveralls.io
 covet.pics
@@ -4994,6 +5045,7 @@ cquotient.com
 cr.google.com
 cr.org
 crabbychin.com
+craphound.com
 crashlytics.com
 crawlclocks.com
 crayoncompetition.com
@@ -5183,6 +5235,7 @@ datpix.net
 daum.net
 daumcdn.net
 davivienda.m.facebook.com
+dawax2ualjfe6.cloudfront.net
 daznservices.com
 db-ip.com
 db.google.com
@@ -6021,6 +6074,7 @@ ehosts.net
 ei.google.com
 eight.eight.eight.eight
 eight.eight.four.four
+eip-ntt.pbs.twimg.com.akahost.net
 ej.google.com
 ejyymghi.com
 ek.google.com
@@ -6266,6 +6320,7 @@ engage.dickssportinggoods.com
 engagebdr.com
 engageya.com
 engine.adzerk.net
+engine.spotscenered.info
 enhance.co
 eniro.com
 ensighten.com
@@ -6487,6 +6542,7 @@ f.skimresources.com
 f.teads.tv
 f.udkcjr.com
 f.usabilla.com
+f1-na.readspeaker.com
 f11-ads.com
 f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net
 f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
@@ -6789,6 +6845,7 @@ food.cld.sndimg.com
 foodora.com
 foolcdn.com
 foolfishes.com
+footprintdns.com
 force.com
 force24.co.uk
 ford.demdex.net
@@ -7019,6 +7076,8 @@ genndi.com
 geo-targetly.com
 geo.moatads.com
 geo.privacymanager.io
+geo.query.yahoo.com
+geo.yahoo.com
 geoedge.be
 geoip-js.com
 geoiplookup.io
@@ -7153,6 +7212,7 @@ go.google.com
 go.itracker360.com
 go.shareaholic.net
 go.sonobi.com
+go.theregister.com
 go2cloud.org
 go2news.biz
 go2of.com
@@ -7683,6 +7743,7 @@ gtranslate.net
 gtsgapps.com
 gttp.co
 gu-in.facebook.com
+gu-web.net
 gu.dyntrk.com
 gu.google.com
 guarantee-cdn.com
@@ -7736,6 +7797,7 @@ h.facebook.com
 h.moatads.com
 h.ntv.io
 h.o0bc.com
+h.ophan.co.uk
 h.optmnstr.com
 h.optmstr.com
 h.skimresources.com
@@ -7766,6 +7828,7 @@ hawk.so
 hawksearch.com
 hawksearch.info
 hayfatduh.com
+haymarket-whistleout.s3.amazonaws.com
 haymarketmedia.com
 hb-api.omtrdc.net
 hb.emxdgt.com
@@ -7873,6 +7936,7 @@ histats.com
 historicalrequest.com
 hit-counts.com
 hit.ua
+hits-secure.theguardian.com
 hitskin.com
 hitslink.com
 hive.co
@@ -8052,6 +8116,7 @@ icebns.com
 icfcdn.com
 ichecknotifyfriends.info
 ichnaea.netflix.com
+icloud.com.akadns.net
 icmedienhaus.de
 icon.s.click.aliexpress.com
 iconfinder.com
@@ -8220,6 +8285,7 @@ init-nk11-b.gc.apple.com
 init-st11-a-old.gc.apple.com
 init-st11-b-old.gc.apple.com
 init.gc.apple.com
+init.push.apple.com
 inlinkz.com
 inlinkz.nyc3.cdn.digitaloceanspaces.com
 inloco.ai
@@ -8284,6 +8350,7 @@ intentiq.com
 intentmedia.net
 interact-quiz-public-api.herokuapp.com
 interactive-circle.jp
+interactive.guim.co.uk
 interactives.dk
 intercom.io
 intercomcdn.com
@@ -8337,6 +8404,7 @@ iphone-cdn-api.fitbit.com
 iphone-ld.apple.com
 iphone-ld.apple.com.akadns.com
 iphone-ld.origin-apple.com
+iphone.clients.google.com
 iphone.facebook.com
 iphonesubmissions.apple.com
 iphonesubmissions.apple.com.akadns.com
@@ -8358,6 +8426,7 @@ ipv6.google.com
 iq.google.com
 iqmining.com
 ir.google.com
+ir.surveywall-api.survata.com
 iridion.de
 iris.net.co
 iris.tv
@@ -8427,6 +8496,7 @@ j.doubleclick.net
 j.moatads.com
 j.ntv.io
 j.o0bc.com
+j.ophan.co.uk
 j.optmnstr.com
 j.optmstr.com
 j.skimresources.com
@@ -8711,6 +8781,7 @@ koddi.com
 kodporno.com
 kodpornx.com
 koehiroba.com
+koi-3qnnf9xqbw.marketingautomation.services
 komisigratis.com
 komito.net
 kommunicate.io
@@ -8758,6 +8829,7 @@ ky.google.com
 kyivstar.m.facebook.com
 kyruus.com
 kz.google.com
+l.admedo.com
 l.bingparachute.com
 l.doubleclick.net
 l.facebook.com
@@ -9356,6 +9428,7 @@ medimops.eu
 medium.com
 medleyads.com
 medpagetoday.com
+medscape.com
 medtargetsystem.com
 medyanetads.com
 meetami.ai
@@ -9669,6 +9742,7 @@ mugpothop.com
 multiscreensite.com
 multiview.com
 multiwork.org
+munchkin.marketo.net
 murdoog.com
 music-group.com
 musicatorrents.com
@@ -9882,6 +9956,7 @@ nextclickadv.com
 nextday.media
 nextdns.com
 nextdns.io
+nextgen.guardianapps.co.uk
 nextinsure.com
 nextopia.net
 nexus.ensighten.com
@@ -9913,6 +9988,7 @@ nintendo-europe.com
 nintendo.com
 nintendo.net
 ninthdecimal.com
+nir.theregister.co.uk
 nissan-cdn.net
 nitropay.com
 nj.google.com
@@ -9969,6 +10045,7 @@ noz-cdn.de
 noz.de
 np.google.com
 npmcdn.com
+npmjs.org
 npms.io
 npo-data.nl
 npo.nl
@@ -10078,6 +10155,8 @@ ocsp.entrust.net
 ocsp.int-x3.letsencrypt.org
 ocsp.pki.goog
 ocsp.rootca1.amazontrust.com
+ocsp.securetrust.com
+ocsp.trustwave.com
 ocstatic.com
 oct8ne.com
 octo.net
@@ -10086,6 +10165,7 @@ od.google.com
 odb.outbrain.com
 odoocdn.com
 odvr.nic.cz
+odysee.com
 oe.google.com
 of.google.com
 offer.alibaba.com
@@ -10214,6 +10294,8 @@ openx.com
 openx.net
 openxcdn.net
 operationkettle.com
+ophan.co.uk
+ophan.theguardian.com
 opiniac.com
 opinionstage.com
 opmnstr.com
@@ -10416,6 +10498,7 @@ paypalobjects.com
 pb.google.com
 pbbl.co
 pbh-network.com
+pbs.twimg.com.akahost.net
 pbstck.com
 pc.google.com
 pc180101.com
@@ -10443,6 +10526,7 @@ pelcro.com
 pendo.io
 pennynetwork.com
 penspade.com
+people-pa.clients6.google.com
 peoplestack-pa.clients6.google.com
 peoplestackwebexperiments-pa.clients1.google.com
 peoplestackwebexperiments-pa.clients2.google.com
@@ -10497,6 +10581,7 @@ pgapi.io
 pgtb.me
 ph.google.com
 phabricator.intern.facebook.com
+phar.gu-web.net
 phenylketh.site
 philips.co.uk
 phimmedia03.com
@@ -10569,6 +10654,7 @@ piximedia.com
 pixlee.com
 pixsrvcs.com
 pj.google.com
+pj.l.admedo.com
 pk.google.com
 pki-goog.l.google.com
 pkqeg5z3xffs.info
@@ -10605,6 +10691,7 @@ plrsrvcs.com
 plufdsb.com
 plug.it
 plugrush.com
+pluralistic.net
 plus.ag
 plus.google.com
 plus.googleapis.com
@@ -10767,6 +10854,7 @@ pro.ad-blocker.org
 pro.imdb.com
 proboards.com
 prod-use.perf-serving.com
+prod.adspsp.com
 prod.ally.ac
 prod.amazoncrl.com
 prod.bidr.io
@@ -10847,6 +10935,7 @@ prtlink.com
 prtlink.pw
 prvstatic.com
 ps.google.com
+ps7894.com
 psimg.com
 psmcdn.net
 psplugin.com
@@ -10969,6 +11058,7 @@ qa.google.com
 qanon.at
 qat2.vigilantesdopeso.com.br
 qat2.weightwatchers.ch
+qaz.wtf
 qb.google.com
 qbox.me
 qbrick.com
@@ -11160,11 +11250,22 @@ realitytitbit.com
 realizerecess.com
 realizevacation.com
 reallyfreegeoip.org
+realmagnet.land
 realnudist.biz
 realperson.de
 realpython.net
 realsrv.com
 realtimestatistics.net
+realtimesupport.clients1.google.com
+realtimesupport.clients10.google.com
+realtimesupport.clients2.google.com
+realtimesupport.clients3.google.com
+realtimesupport.clients4.google.com
+realtimesupport.clients5.google.com
+realtimesupport.clients6.google.com
+realtimesupport.clients7.google.com
+realtimesupport.clients8.google.com
+realtimesupport.clients9.google.com
 realtimewebstats.net
 realvu.net
 realwap.net
@@ -11232,6 +11333,8 @@ reftagger.com
 reginapps.com
 register.facebook.com
 registry.api.cnn.io
+registry.npmjs.org
+regmedia.co.uk
 reichelcormier.bid
 reimo-shops.de
 rejoiner.com
@@ -11517,6 +11620,7 @@ s3xified.com
 s4-iad-ww.cf.videorolls.row.aiv-cdn.net
 s4.wp.com
 s4mdsp.com
+s7.addthis.com
 s7d2.scene7.com
 s99i.org
 sa-as.com
@@ -11618,6 +11722,7 @@ scintillatingspace.com
 scmmesh.com
 scmplayer.net
 scnez.com
+scone-pa.clients6.google.com
 scontent-1.2914.fna.fbcdn.net
 scontent-2.2914.fna.fbcdn.net
 scontent-a-ams.xx.fbcdn.net
@@ -11708,6 +11813,7 @@ scontent-tpe1-1.xx.fbcdn.net
 scontent-vie.xx.fbcdn.net
 scontent-vie1-1.xx.fbcdn.net
 scontent-waw1-1.xx.fbcdn.net
+scontent.cdninstagram.com
 scontent.facc1-1.fna.fbcdn.net
 scontent.fada1-1.fna.fbcdn.net
 scontent.fada1-10.fna.fbcdn.net
@@ -11864,6 +11970,7 @@ scribblelive.com
 scribbr.com
 scribd.com
 scribdassets.com
+script.crazyegg.com
 script.hotjar.com
 script.tapfiliate.com
 scripts.mediavine.com
@@ -11927,6 +12034,7 @@ securedvisit.com
 securefastoffers.com
 secureprivacy.ai
 securepubads.g.doubleclick.net
+securetrust.com
 securetve.com
 securionpay.com
 securiti.ai
@@ -12501,6 +12609,7 @@ southpointcasino.com
 southwest.com
 souvlatraffic.com
 sovendus.com
+sp-prd.theglobeandmail.ca
 sp-prod.net
 sp-trk.com
 sp.analytics.yahoo.com
@@ -12650,7 +12759,9 @@ ssense.com
 ssl-images-amazon.com
 ssl-services.com
 ssl.facebook.com
+ssl.google-analytics.com
 ssl.gstatic.com
+ssl.trustwave.com
 sso-service.de
 ssor.platform.californiatimes.com
 ssp.behave.com
@@ -12906,6 +13017,7 @@ surge.sh
 survata.com
 surveygizmo.eu
 surveymonkey.com
+surveywall-api.survata.com
 survicate.com
 suspension.parts
 sutherlandglobal.com
@@ -12985,6 +13097,7 @@ tafdi.org
 tag-serv.com
 tag.1rx.io
 tag.bounceexchange.com
+tag.getdrip.com
 tag.researchnow.com
 tag4arm.com
 tagan.adlightning.com
@@ -13003,6 +13116,7 @@ takeaway.com
 takefile.link
 talentbrew.com
 talentedsteel.com
+talk-tgam.global.ssl.fastly.net
 talkable.com
 talkgadget.google.com
 talkscreativity.com
@@ -13036,6 +13150,7 @@ target2sell.com
 targetbay.com
 targetfuel.com
 targetimg1.com
+targeting.tgam.arcpublishing.com
 targeting.unrulymedia.com
 targeting.washpost.nile.works
 targetspot.com
@@ -13140,6 +13255,7 @@ tfaforms.com
 tfaforms.net
 tfd.com
 tg.google.com
+tgam.arcpublishing.com
 tglyr.co
 tgtag.io
 th-th.facebook.com
@@ -13160,6 +13276,7 @@ thebrighttag.com
 thechanlist.xyz
 thecreativer.com
 thefacebook.com
+thefastestguninthewest.bitchute.com
 thegatewaypundit.com
 thehiveworks.com
 theinventory.com
@@ -13529,6 +13646,8 @@ trustt.org
 trustu.org
 trustv.org
 trustw.org
+trustwave.azureedge.net
+trustwave.blob.core.windows.net
 trustx.org
 trusty.org
 trustz.org
@@ -13585,8 +13704,10 @@ tvpixel.com
 tvs24.ru
 tvsquared.com
 tw.google.com
+tweeterid.com
 twiago.com
 twimg.com
+twimg.com.akahost.net
 twimgs.com
 twincdn.com
 twinrdsrv.com
@@ -13759,6 +13880,7 @@ urekamedia.com
 ureruadnw.com
 uri.sh
 urlbi.com
+uro5.realmagnet.land
 us-east-1-decisionapi.lift.acquia.com
 us-east-sync.bidswitch.net
 us-proxy.org
@@ -14083,6 +14205,7 @@ vn.google.com
 vnecdn.net
 vntsm.com
 vo.google.com
+vo.msecnd.net
 vocento.com
 vodafone.de
 voicefive.com
@@ -14169,6 +14292,7 @@ walmart.com
 walmeric.com
 want.tf
 wap.vn
+wapo-analytics.zeustechnology.com
 wapsite.info
 warbycdn.com
 wargaming.net
@@ -14488,6 +14612,7 @@ wwclicknews.club
 wwe9.com
 wwopenclick.space
 wwry.xyz
+www-cdn.icloud.com.akadns.net
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www.114dns.com
@@ -15031,6 +15156,7 @@ www.arpuplus.com
 www.asapp.com
 www.atdmt.com
 www.ateam-ad.jp
+www.atmrum.net
 www.audible.com
 www.augur.io
 www.authorcentral
@@ -15289,6 +15415,7 @@ www.inlinkz.com
 www.inloco.ai
 www.inlocoforapps.com
 www.inskinad.com
+www.instagram.com
 www.installtracker.com
 www.instinctiveads.com
 www.ipstack.com
@@ -15378,6 +15505,7 @@ www.newrelic.com
 www.nextclick.pl
 www.nomobileads.com
 www.nprapps.org
+www.npttech.com
 www.nr-data.net
 www.ntv.io
 www.nuviad.com
@@ -15435,6 +15563,7 @@ www.pricespider.com
 www.privy.com
 www.prod.facebook.com
 www.propellerads.com
+www.ps7894.com
 www.pubmatic.com
 www.puffnetwork.com
 www.push-ad.com
@@ -16228,72 +16357,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-adservice.google.com
-cdn.rebel.ai
-rebel.ai
-googleads.g.doubleclick.net
-static.doubleclick.net
-bi.medscape.com
-medscape.com
-preferences.trustarc.com
-trustarc.com
-uro5.realmagnet.land
-realmagnet.land
-prod.adspsp.com
-adspsp.com
-eip-ntt.pbs.twimg.com.akahost.net
-pbs.twimg.com.akahost.net
-twimg.com.akahost.net
-com.akahost.net
-akahost.net
-www-cdn.icloud.com.akadns.net
-icloud.com.akadns.net
-com.akadns.net
-akadns.net
-www.npttech.com
-npttech.com
-craphound.com
-c0.wp.com
-autolinkmaker.itunes.apple.com
-configuration.apple.com
-registry.npmjs.org
-npmjs.org
-cloud-access.online
-ssl.google-analytics.com
-scone-pa.clients6.google.com
-realtimesupport.clients6.google.com
-
-realtimesupport.clients10.google.com
-realtimesupport.clients9.google.com
-realtimesupport.clients8.google.com
-realtimesupport.clients7.google.com
-realtimesupport.clients6.google.com
-realtimesupport.clients5.google.com
-realtimesupport.clients4.google.com
-realtimesupport.clients3.google.com
-realtimesupport.clients2.google.com
-realtimesupport.clients1.google.com
-6.client-channel.google.com
-5.client-channel.google.com
-4.client-channel.google.com
-3.client-channel.google.com
-2.client-channel.google.com
-1.client-channel.google.com
-appswaldo-pa.clients6.google.com
-taskassist-pa.clients6.google.com
-tag.getdrip.com
-getdrip.com
-script.crazyegg.com
-crazyegg.com
-jetpack.wordpress.com
-a.omappapi.com
-wapo-analytics.zeustechnology.com
-zeustechnology.com
-recommendation-hybrid.wpdigital.net
-wpdigital.net
-browser.sentry-cdn.com
-sentry-cdn.com
-tweeterid.com
-boldtext.io
-qaz.wtf
-dawax2ualjfe6.cloudfront.net
