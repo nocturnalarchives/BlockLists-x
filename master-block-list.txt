@@ -1,7 +1,7 @@
-  75520.communities.salesforce.cdn.edgekey.net
-  d.la4-c2-ia2.salesforceliveagent.com
-  la4-c2-ia2.salesforceliveagent.com
-  salesforceliveagent.com
+75520.communities.salesforce.cdn.edgekey.net
+d.la4-c2-ia2.salesforceliveagent.com
+la4-c2-ia2.salesforceliveagent.com
+salesforceliveagent.com
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
@@ -5184,7 +5184,6 @@ d.vvv.facebook.com
 d2-apps.net
 d2cmedia.ca
 d3js.org
-d3p8zr0ffa9t17.cloudfront.net
 d41.co
 da-dk.facebook.com
 da-services.ch
@@ -5245,7 +5244,6 @@ datpix.net
 daum.net
 daumcdn.net
 davivienda.m.facebook.com
-dawax2ualjfe6.cloudfront.net
 daznservices.com
 db-ip.com
 db.google.com
