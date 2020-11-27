@@ -1,3 +1,7 @@
+  75520.communities.salesforce.cdn.edgekey.net
+  d.la4-c2-ia2.salesforceliveagent.com
+  la4-c2-ia2.salesforceliveagent.com
+  salesforceliveagent.com
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
@@ -2144,6 +2148,7 @@ assets.omny.fm
 assets.revcontent.com
 assets.sni-dat.com
 assets.targetimg1.com
+assetshuluimcom-a.akamaihd.net
 assoc-amazon.com
 associates-amazon.com
 astraone.io
@@ -4373,6 +4378,7 @@ cdn.onesignal.com
 cdn.otstatic.com
 cdn.parsely.com
 cdn.printfriendly.com
+cdn.quilljs.com
 cdn.ravenjs.com
 cdn.rebel.ai
 cdn.shareaholic.net
@@ -4732,6 +4738,7 @@ clients96.google.com
 clients97.google.com
 clients98.google.com
 clients99.google.com
+clientservices.googleapis.com
 cliipa.com
 clinch.co
 clip.today
@@ -4914,6 +4921,7 @@ connectad.io
 connectif.cloud
 connectivity.samsung.com
 connectivity.samsung.com.cn
+connectivitycheck.getdropbox.com
 connectivitycheck.gstatic.com
 connecto.io
 connects.ch
@@ -7294,6 +7302,7 @@ googleadservices.org
 googleadservices.ru
 googleadsserving.cn
 googleapi.club
+googlehosted.l.googleusercontent.com
 googleoptimize.com
 googlesyndication.com
 googletagmanager.com
@@ -8833,6 +8842,7 @@ l.admedo.com
 l.bingparachute.com
 l.doubleclick.net
 l.facebook.com
+l.googleusercontent.com
 l.moatads.com
 l.ntv.io
 l.o0bc.com
@@ -9071,6 +9081,7 @@ localizercdn.com
 localmediabuying.com
 localytics.com
 location-services-measurements.s3-external-1.amazonaws.com
+location.force.com
 location.services.mozilla.com
 locationiq.org
 lockerdome.com
@@ -10695,6 +10706,7 @@ pluralistic.net
 plus.ag
 plus.google.com
 plus.googleapis.com
+plus.l.google.com
 plusgrade.com
 pluso.ru
 plusthis.com
@@ -11609,6 +11621,7 @@ s0.wp.com
 s1-iad-ww.cf.videorolls.row.aiv-cdn.net
 s1.wp.com
 s2-iad-ww.cf.videorolls.row.aiv-cdn.net
+s2.googleusercontent.com
 s2.wp.com
 s3-1-w.amazonaws.com
 s3-iad-2.cf.dash.row.aiv-cdn.net
@@ -11654,6 +11667,7 @@ salesfire.co.uk
 salesforce.com
 salesforceliveagent.com
 salesloft.com
+salesloft.netdna-cdn.com
 salesmanago.com
 salesmanago.pl
 salesreps.io
@@ -11961,6 +11975,8 @@ scorecardresearch.com
 scoreuniverse.com
 scoreyourdeal.com
 scotiabank.m.facebook.com
+scout-cdn.salesloft.com
+scout.salesloft.netdna-cdn.com
 scratch-it.com
 scratchsofa.com
 screechingfurniture.com
@@ -12105,6 +12121,7 @@ service-sandbox-st11-1.gc.apple.com
 service-st11-a.gc.apple.com
 service-st11-b.gc.apple.com
 service.amazonsilk.com
+service.force.com
 service.gc.apple.com
 services.amazon.com
 services.mozilla.com
