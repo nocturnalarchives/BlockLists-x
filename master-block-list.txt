@@ -300,6 +300,7 @@
 6noy.net
 6pm.com
 6q33.net
+6q8f5d4.ssl.hwcdn.net
 6sc.co
 7.client-channel.google.com
 7.gravatar.com
@@ -1681,6 +1682,7 @@ amd.cdn.turner.com
 americaneagle.com
 amfeed.ru
 amgdgt.com
+amlg.io
 ammadv.it
 amna.gr
 amoad.com
@@ -12707,6 +12709,7 @@ spincar.com
 spingo.com
 spirebaboon.com
 spkt.io
+splice.amlg.io
 splunk.gc.apple.com
 spokenlayer.com
 spokenlayer.net
@@ -12778,6 +12781,7 @@ ssl-services.com
 ssl.facebook.com
 ssl.google-analytics.com
 ssl.gstatic.com
+ssl.hwcdn.net
 ssl.trustwave.com
 sso-service.de
 ssor.platform.californiatimes.com
@@ -13208,6 +13212,7 @@ te.google.com
 teacherfucksteens.com
 teads.com
 teads.tv
+tealium.cbsnews.com
 tealiumiq.com
 teams.microsoft.us
 teasoftware.com
