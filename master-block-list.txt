@@ -4692,6 +4692,7 @@ clicky.com
 clickyab.com
 clickzzs.nl
 client-channel.google.com
+client.optimizely.com
 clientdata.sslauth.sonos.com
 clientflow.apple.com
 clientflow.apple.com.akadns.com
@@ -5020,6 +5021,7 @@ consumable.com
 consumentenbond.nl
 consumercare.net
 contactatonce.com
+contacts.fe.apple-dns.net
 container.pepperjam.com
 contehos.com
 content-ad.net
@@ -6465,6 +6467,7 @@ erotube.org
 error.facebook.com
 errorception.com
 errorpilot.com
+errors.client.optimizely.com
 errortablet.com
 erry.one
 es-es.facebook.com
@@ -12200,6 +12203,7 @@ secure-media-snc1.fbcdn.net
 secure-media.fbcdn.net
 secure-rubiconproject.com
 secure-us.imrworldwide.com
+secure.actblue.com
 secure.adnxs.com
 secure.espn.com
 secure.facebook.com
@@ -12939,6 +12943,7 @@ squren.com
 sr-rs.facebook.com
 sr.google.com
 sramconnect.com
+src.joebiden.com
 srigbxxv.com
 srt.m.facebook.com
 srviral.com
@@ -16637,5 +16642,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-contacts.fe.apple-dns.net
-mesu.apple.com
