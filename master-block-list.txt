@@ -222,7 +222,6 @@
 49.taskassist-pa.clients.google.com
 4am.ch
 4dex.io
-4dex.io
 4dsply.com
 4games.club
 4jnzhl0d0.com
@@ -1611,6 +1610,14 @@ alcmpn.com
 alcroconawa.com
 alertafterthought.com
 alertme.news
+alexa-skills.amazon.co.jp
+alexa-skills.amazon.com.au
+alexa-skills.amazon.com.br
+alexa.amazon.ca
+alexa.amazon.cn
+alexa.amazon.co.uk
+alexa.amazon.com.au
+alexa.amazon.es
 alexa.com
 alexametrics.com
 alexarankchart.com
@@ -2415,6 +2422,7 @@ barbarousnerve.com
 barchart.com
 barilliance.com
 barilliance.net
+basejumper.apple.com
 basepush.com
 bashirian.biz
 basis.net
@@ -4023,6 +4031,7 @@ boajagoar.com
 boardgamearena.net
 boatchat.com
 boayipids.com
+bob-dispatch-prod-na.amazon.com
 bodelen.com
 bodepository.com
 bodyclick.net
@@ -4133,6 +4142,7 @@ broadcastbed.com
 broadcom.com
 broaddoor.com
 broadstreetads.com
+brodie.amazon.de
 broimg.net
 bronto.com
 brookings.foxycart.com
@@ -4884,6 +4894,7 @@ codigo.se
 codingar.com
 cognitiv.ai
 cognitivlabs.com
+cognito-identity.us-east-1.amazonaws.com
 cogocast.net
 coherentpath.com
 cohesionapps.com
@@ -4953,7 +4964,6 @@ comscoredirect.net
 conative.de
 concernedcondition.com
 concernrain.com
-concert.io
 concert.io
 concertads-configs.vox-cdn.com
 concordmonitor-nh-pw.newsmemory.com
@@ -5093,6 +5103,7 @@ corprensa.com
 correctchaos.com
 corrieredellosport.it
 corriereobjects.it
+cortana-gateway.amazon.com
 corwin.com
 cosmosjackson.com
 counter.yadro.ru
@@ -5402,6 +5413,7 @@ devcloudsoftware.com
 developer.amazon.com
 developermedia.com
 developers.facebook.com
+device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device-metrics.amazon.com
 device9.com
@@ -6392,6 +6404,7 @@ encrypted-tbn97.gstatic.com
 encrypted-tbn98.gstatic.com
 encrypted-tbn99.gstatic.com
 endorsal.io
+endpoint.prod.us-east-1.forester.a2z.com
 endurablecrayon.com
 endurableshop.com
 energeticexample.com
@@ -7117,6 +7130,7 @@ gardoult.com
 garss.tv
 gatedcontent.com
 gatehousemedia.com
+gateway.fe.apple-dns.net
 gateway.foresee.com
 gateway.harri.com
 gateway.verizonwireless.com
@@ -7384,7 +7398,6 @@ googleapi.club
 googlehosted.l.googleusercontent.com
 googleoptimize.com
 googlesyndication.com
-googletagmanager.com
 googletagmanager.com
 googletagservices.com
 googleusercontent.com
@@ -7851,6 +7864,7 @@ gumroad.com
 guoshipartners.com
 guppymedia.com
 guuru.com
+guzzoni.apple.com
 gv.google.com
 gvt1.com
 gvt10.com
@@ -8379,6 +8393,7 @@ ingame.de
 inibokep.best
 init-nk11-a.gc.apple.com
 init-nk11-b.gc.apple.com
+init-p01md.apple.com
 init-st11-a-old.gc.apple.com
 init-st11-b-old.gc.apple.com
 init.gc.apple.com
@@ -9211,6 +9226,7 @@ logly.co.jp
 logo.clearbit.com
 logrocket.io
 logsss.com
+logx.optimizely.com
 logystowtencon.info
 loli.net
 lolibay.to
@@ -9585,6 +9601,7 @@ mes4.gtsgapps.com
 messagenovice.com
 messenger.com
 messiupal.com
+mesu.apple.com
 metadsp.co.uk
 metaffiliation.com
 metalocator.com
@@ -9609,7 +9626,6 @@ metrolatam.com
 metroscubicos.com
 metv.com
 mf.google.com
-mfadsrvr.com
 mfadsrvr.com
 mfbcdn.net
 mfcdn.net
@@ -10735,6 +10751,7 @@ pi.ispot.tv
 pi.pardot.com
 piano.io
 pichunter.com
+pico.amazon.co.uk
 pico.tools
 picreel.com
 picsum.photos
@@ -11113,7 +11130,6 @@ public2.alidns.com
 publicidees.com
 publicize.co
 publift.com
-publir.com
 publir.com
 publish-int.se
 publy.net
@@ -11681,7 +11697,6 @@ rta247.com
 rtalabel.org
 rtb-csync.smartadserver.com
 rtb.mfadsrvr.com
-rtb.mfadsrvr.com
 rtb123.com
 rtk.io
 rtm.com
@@ -12154,6 +12169,9 @@ sdy.ai
 se.google.com
 seaboblit.com
 seadform.net
+seamus.amazon.co.uk
+seamus.amazon.com
+seamus.amazon.de
 seaofads.com
 search.spotxchange.com
 searchanise.com
@@ -12274,6 +12292,7 @@ service-st11-b.gc.apple.com
 service.amazonsilk.com
 service.force.com
 service.gc.apple.com
+service.maxymiser.net
 services.amazon.com
 services.mozilla.com
 services.sap
@@ -13051,6 +13070,7 @@ static.hotjar.com
 static.kqzyfj.com
 static.parsely.com
 static.scroll.com
+static.siege-amazon.com
 static.sinclairstoryline.com
 static.track.omguk.com
 static.webnx.com
@@ -14835,6 +14855,7 @@ ws.sessioncam.com
 ws.tjournal.ru
 wsbnk.com
 wsf-e-loreal.com
+wshifen.com
 wsi.com
 wsimg.com
 wsjstream.wsj.net
@@ -15966,6 +15987,7 @@ www.wigetmedia.com
 www.winningagent.com
 www.wistia.com
 www.wonderlandads.com
+www.wshifen.com
 www.xapads.com
 www.yahoo.com
 www.yeahmobi.com
@@ -16043,6 +16065,7 @@ xnxx-cdn.com
 xo.google.com
 xola.com
 xovq5nemr.com
+xp.apple.com
 xp.google.com
 xpixs.pw
 xplosion.de
