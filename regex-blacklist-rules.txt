@@ -771,7 +771,10 @@ dns([0-9]+)\.quad9\.net
 (^|\.)fonts?\.(www|clicks?|ads?|offers?|ww([w0-9]+))?\.?
 (www|clicks?|ads?|offers?|ww[0-9])\.fonts?\.
 
-
+(\.|^)dualstack\.
+(\.|^)*eu-irl*\.
+(\.|^)([-a-z0-9]+)-?courier\.push\.(apple|akadns)\.(com|net)$
+(\.|^)([0-9]+)\.courier-push-apple\.com\.akadns\.net$
 
 
 

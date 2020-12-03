@@ -4436,6 +4436,7 @@ cdn.mediago.io
 cdn.mediavoice.com
 cdn.mg2connext.com
 cdn.mojoreporter.com
+cdn.mylo.id
 cdn.omnivirt.com
 cdn.onesignal.com
 cdn.otstatic.com
@@ -5707,6 +5708,7 @@ dtscout.com
 dtstmio.com
 dtxngr.com
 du.google.com
+dualstack.f4.shared.global.fastly.net
 ducatiforum.co.uk
 duckduckgo.com
 dudamobile.com
@@ -6644,6 +6646,7 @@ f.usabilla.com
 f.wishabi.net
 f1-na.readspeaker.com
 f11-ads.com
+f4.shared.global.fastly.net
 f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net
 f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
 fa-ir.facebook.com
@@ -9336,7 +9339,9 @@ m.udkcjr.com
 m.usabilla.com
 m.wsj.net
 m0mentum.net
+m1.nsimg.net
 m1e2x-alternate.test-app.link
+m2.nsimg.net
 m2.tuyaus.com
 m32.media
 m6r.eu
@@ -9919,6 +9924,7 @@ myfinance.com
 myiphide.com
 mylfcdn.net
 mylivechat.com
+mylo.id
 mylocaladviser.co.uk
 mylotto24.co.uk
 myluckyads.com
@@ -10212,6 +10218,7 @@ ns8.com
 ns8ds.com
 nsa.facebook.com
 nsaudience.pl
+nsimg.net
 nsstatic.net
 nt.google.com
 nt1.co
@@ -11681,6 +11688,7 @@ royalbank.com
 roymorgan.com
 rp-rep.net
 rp.google.com
+rpc-php.trafficfactory.biz
 rphelios.net
 rpxnow.com
 rq.google.com
@@ -12353,6 +12361,7 @@ shareaholic.net
 shareasale-analytics.com
 shareasale.com
 sharecare.com
+shared.global.fastly.net
 sharedid.org
 sharethis.com
 sharethrough.adnxs.com
@@ -13303,6 +13312,7 @@ synacor.com
 synacormedia.com
 sync-tm.everesttech.net
 sync.1rx.io
+sync.brave.com
 sync.graph.bluecava.com
 sync.search.spotxchange.com
 sync.serverbid.com
@@ -13806,6 +13816,7 @@ trends.revcontent.com
 trengo.eu
 trfmxt.com
 trialfire.com
+trib.al
 tribalfusion.com
 tribl.io
 triboomedia.it
@@ -15861,6 +15872,7 @@ www.reward2spot.com
 www.rhythmnewmedia.com
 www.rkdms.com
 www.rogersmedia.com
+www.roosterfirework.com
 www.rubiconproject.com
 www.runads.com
 www.s-static.ak.facebook.com
