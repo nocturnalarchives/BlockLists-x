@@ -399,6 +399,7 @@ a-cast.jp
 a-latam.com
 a-mo.net
 a.adroll.com
+a.basemaps.cartocdn.com
 a.bingparachute.com
 a.convertkit.com
 a.doubleclick.net
@@ -1956,6 +1957,7 @@ api.smoot.apple.com
 api.time.com
 api.verizon.com
 api.vuukle.com
+api.weforum.org
 api2.branch.io
 api64.com
 apia.com.au
@@ -3994,6 +3996,7 @@ bloglines.com
 bloglovin.com
 blogo.it
 blogr.xxx
+blogsmithmedia.com
 blogtalkradio.com
 blok.link
 blotburn.com
@@ -4411,6 +4414,7 @@ cdn.blueconic.net
 cdn.branch.io
 cdn.brandmetrics.com
 cdn.brid.tv
+cdn.carbonads.com
 cdn.ckeditor.com
 cdn.cohesionapps.com
 cdn.concert.io
@@ -5109,6 +5113,7 @@ corriereobjects.it
 cortana-gateway.amazon.com
 corwin.com
 cosmosjackson.com
+counter.theconversation.edu.au
 counter.yadro.ru
 countingdownto.com
 countryflags.io
@@ -8731,6 +8736,7 @@ js-bn.com
 js-sec.indexww.com
 js.ad-score.com
 js.agkn.com
+js.braintreegateway.com
 js.createsend1.com
 js.driftt.com
 js.google.com
@@ -11767,6 +11773,7 @@ s-video.innovid.com
 s.adroll.com
 s.amazon-adsystem.com
 s.bingparachute.com
+s.blogsmithmedia.com
 s.click.aliexpress.com
 s.doubleclick.net
 s.go-mpulse.net
@@ -14618,6 +14625,7 @@ webads.co.nz
 webads.eu
 webankieta.pl
 webantenna.info
+webcasts.weforum.org
 webclicks24.com
 webcontentassessor.com
 webdav.facebook.com
