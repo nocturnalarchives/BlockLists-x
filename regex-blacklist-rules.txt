@@ -776,7 +776,7 @@ dns([0-9]+)\.quad9\.net
 (\.|^)([-a-z0-9]+)-?courier\.push\.(apple|akadns)\.(com|net)$
 (\.|^)([0-9]+)\.courier-push-apple\.com\.akadns\.net$
 
-
+(\.|^)([0-9]+)\.client-?channel\.google\.com$
 
 
 
