@@ -39,9 +39,11 @@
 10.taskassist-pa.clients.google.com
 100.client-channel.google.com
 100.taskassist-pa.clients.google.com
+100032793.collect.igodigital.com
 1000ps.net
 100widgets.com
 101network.com
+103799d29f4047618be25651e2913a2b.js.ubembed.com
 1066935-35.chat.api.drift.com
 10870841.collect.igodigital.com
 10base-t.com
@@ -146,6 +148,7 @@
 2mdn.net
 2mdnsys.com
 2o7.net
+2w1rgr1gb8231dbubd4236ag-wpengine.netdna-ssl.com
 2way.app
 2xc8.net
 2xclick.ru
@@ -408,6 +411,7 @@ a.ns.facebook.com
 a.ntv.io
 a.o0bc.com
 a.omappapi.com
+a.opmnstr.com
 a.optmnstr.com
 a.optmstr.com
 a.pub.network
@@ -458,6 +462,7 @@ abandonedclover.com
 abashedangle.com
 abc.facebook.com
 abcnews.com
+abcnewsdotcom.disqus.com
 abcotvs.net
 abcvg.ovh
 abeagle-public.buzzfeed.com
@@ -498,6 +503,7 @@ accesstrade.co.id
 accesstrade.net
 accountkit.com
 accounts.google.com
+accounts.youtube.com
 accutics.net
 accuweather.com
 acdn.adnxs.com
@@ -1712,6 +1718,7 @@ amp.services
 ampcid.google.com
 amplify.ai
 amplify.outbrain.com
+amplifypixel.outbrain.com
 amplitude.com
 ampproject.net
 ampproject.org
@@ -1879,6 +1886,7 @@ ansira.com
 answerdash.com
 answerscloud.com
 antarvasnasexstories.org
+anthill.instapage.com
 anthill.vn
 anti-malware-1.114dns.com
 anti-malware-2.114dns.com
@@ -1920,6 +1928,7 @@ api-07.com
 api-08.com
 api-2-0.spot.im
 api-mg2.db-ip.com
+api-migration.weather-perf.akadns.net
 api-read.facebook.com
 api-v3.tinypass.com
 api.actionbutton.co
@@ -1957,6 +1966,7 @@ api.smoot.apple.com
 api.time.com
 api.verizon.com
 api.vuukle.com
+api.weather.com
 api.weforum.org
 api2.branch.io
 api64.com
@@ -1980,6 +1990,7 @@ app.ecwid.com
 app.link
 app.matheranalytics.com
 app.optinmonster.test
+app.wizdom.ai
 appadhoc.com
 appads.com
 apparmor.com
@@ -2183,6 +2194,7 @@ assets.revcontent.com
 assets.scrippsdigital.com
 assets.sni-dat.com
 assets.targetimg1.com
+assets.ubembed.com
 assetshuluimcom-a.akamaihd.net
 assoc-amazon.com
 associates-amazon.com
@@ -4434,6 +4446,7 @@ cdn.engine.spotscenered.info
 cdn.fera.ai
 cdn.ghostmonitor.com
 cdn.inpwrd.net
+cdn.instapagemetrics.com
 cdn.irsdn.net
 cdn.iubenda.com
 cdn.keywee.co
@@ -4954,6 +4967,7 @@ commander1.com
 commandersact.com
 commandwalk.com
 commentfreely.bitchute.com
+commerce.senate.gov
 commercialvalue.org
 commitchange.com
 commnat-cohort.gc.apple.com
@@ -4970,6 +4984,7 @@ comperia.pl
 completecabbage.com
 complex.com
 complextoad.com
+compote.slate.com
 computec.de
 computecmedia.de
 computer-bild.de
@@ -5332,6 +5347,7 @@ datatrac.net
 datatrics.com
 dataunion.com.br
 datawrapper.de
+datawrapper.dwcdn.net
 datawrkz.com
 datocms-assets.com
 datpix.net
@@ -6567,6 +6583,7 @@ example.doh.blockerdns.com
 example.net
 example.org
 exapxl.de
+exceptions.coinbase.com
 exchange.remixd.com
 exchangeratesapi.io
 exchangesolutions.com
@@ -7201,6 +7218,7 @@ geo-targetly.com
 geo.moatads.com
 geo.privacymanager.io
 geo.query.yahoo.com
+geo.vergic.com
 geo.yahoo.com
 geoedge.be
 geoip-js.com
@@ -7386,6 +7404,7 @@ google.gr
 google.m.facebook.com
 google.pt
 google.ru
+Google.ru
 googleads.a.doubleclick.net
 googleads.b.doubleclick.net
 googleads.c.doubleclick.net
@@ -8001,6 +8020,7 @@ hearstnp.com
 heartlandtv.com
 heartlight.org
 heartyhosting.com
+heatmap-events-collector.instapage.com
 heatmap.it
 heavyplayground.com
 heg-cp.com
@@ -8028,6 +8048,7 @@ herokuapp.com
 herokudns.com
 herr.io
 hertz.com
+hexagon-analytics.com
 hey.lt
 heyhelga.net
 heymatic.com
@@ -8314,6 +8335,7 @@ image.issuu.com
 imagebam.com
 imagendigital.com
 images-apmex.com
+images.outbrain.com
 images.pluto.tv
 images.taboola.com
 imagescanner.cc
@@ -8468,6 +8490,8 @@ instana.io
 instant-gaming.com
 instant.page
 instantsearchplus.com
+instapage.com
+instapagemetrics.com
 instgrm.fsnc1-1.fn.fbcdn.net
 insticator.com
 instinctiveads.com
@@ -8757,13 +8781,17 @@ js.createsend1.com
 js.driftt.com
 js.google.com
 js.hs-analytics.net
+js.hs-banner.com
 js.hs-scripts.com
+js.hsadspixel.net
 js.hsforms.net
 js.org
 js.pelcro.com
 js.pusher.com
 js.sentry-cdn.com
 js.smile.io
+js.ubembed.com
+js.usemessages.com
 jsblom.com
 jscache.com
 jsdatabox.com
@@ -9170,6 +9198,7 @@ lithium.facebook.com
 lithium.rubblerock.com
 lithub.com
 litix.io
+live-patch-fe.pantheonsite.io
 live.com
 live.fb.com
 live2support.com
@@ -9237,6 +9266,7 @@ lockerdomecdn.com
 locopelis.com
 lodder7.biz
 log.aimtell.com
+log.outbrain.com
 log.outbrainimg.com
 logbor.com
 loggly.com
@@ -9652,6 +9682,7 @@ metricool.com
 metrics-logger.spot.im
 metrics.icloud.com
 metrics.ticketmaster.com
+metrics.washingtonpost.com
 metrilo.com
 metrolatam.com
 metroscubicos.com
@@ -10344,6 +10375,7 @@ odoocdn.com
 odvr.nic.cz
 odysee.com
 oe.google.com
+oembed.vice.com
 of.google.com
 offer.alibaba.com
 offerista.com
@@ -10644,6 +10676,7 @@ palmtube.net
 palpix.com
 panet.eu
 panickypancake.com
+pantheonsite.io
 paradoxfactor.com
 parastorage.com
 parcelcreature.com
@@ -10824,6 +10857,7 @@ pixel.everesttech.net
 pixel.facebook.com
 pixel.mathtag.com
 pixel.mtrcs.samba.tv
+pixel.parsely.com
 pixel.quantserve.com
 pixel.rubiconproject.com
 pixel.samba.tv
@@ -10858,6 +10892,7 @@ platform.twitter.com
 platforum.cloud
 plavxml.com
 play.googleapis.com
+play.publicradio.org
 playbuzz.com
 player.cnevids.com
 player.spotim.market
@@ -11444,6 +11479,7 @@ readthedocs.org
 readymoon.com
 readypulse.com
 readysnails.com
+realeyesit.wpengine.com
 realite.id
 realitytitbit.com
 realizerecess.com
@@ -11768,6 +11804,7 @@ runative-syndicate.com
 runkit.com
 runkitcdn.com
 rupload.facebook.com
+ruptly-d.openx.net
 ruralstring.com
 russmedia.com
 rusticprice.com
@@ -12988,6 +13025,7 @@ sramconnect.com
 src.joebiden.com
 srigbxxv.com
 srt.m.facebook.com
+srv-2019-01-31-21.pixel.parsely.com
 srviral.com
 srvmath.com
 srvtrck.com
@@ -13087,6 +13125,7 @@ static-6.sinclairstoryline.com
 static-7.sinclairstoryline.com
 static-8.sinclairstoryline.com
 static-9.sinclairstoryline.com
+static-assets.coinbase.com
 static-bluray.com
 static-fra.de
 static-immobilienscout24.de
@@ -13398,6 +13437,7 @@ tagboard.com
 tagcommander.com
 taggstar.com
 taggyad.jp
+tags.bkrtx.com
 tags.crwdcntrl.net
 tags.newscgp.com
 tags.tiqcdn.com
@@ -14182,9 +14222,11 @@ ureruadnw.com
 uri.sh
 urlbi.com
 uro5.realmagnet.land
+us-content.vergic.com
 us-east-1-decisionapi.lift.acquia.com
 us-east-1.wasabisys.com
 us-east-sync.bidswitch.net
+us-eu-main.geo.vergic.com
 us-proxy.org
 us-u.openx.net
 us.adv5.277288171.pixel.archive.is
@@ -14639,6 +14681,7 @@ wdw.disney.io
 wdwinfo.com
 we.google.com
 wearehearken.com
+weather-perf.akadns.net
 weather.com
 weatherforyou.net
 weatherwidget.io
@@ -14828,6 +14871,7 @@ witglobal.net
 wix.com
 wixanswers.com
 wixapps.net
+wizdom.ai
 wj.google.com
 wk.google.com
 wki.it
@@ -15610,6 +15654,7 @@ www.com.tr
 www.com.ua
 www.com.vn
 www.commandersact.com
+www.commerce.senate.gov
 www.comscore.com
 www.comscoredatagems.com
 www.comscoredirect.net
@@ -15637,6 +15682,7 @@ www.disqusads.com
 www.doubleverify.com
 www.drip.com
 www.dstillery.com
+www.dwin2.com
 www.dynad.net
 www.ea.com
 www.easy-ads.com
@@ -15672,6 +15718,7 @@ www.fonts.skimresources.com
 www.fonts.tradedoubler.com
 www.foshk.com
 www.foxmetrics.com
+www.fqtag.com
 www.fractionalmedia.com
 www.frame.ly
 www.fwmrm.net
@@ -15694,6 +15741,7 @@ www.gooddata.com
 www.goodreads.com
 www.google-analytics.com
 www.google.ru
+www.Google.ru
 www.googleadservices.co.uk
 www.googleadservices.com
 www.googleadservices.org
@@ -15723,6 +15771,7 @@ www.h12-media.com
 www.hawk.so
 www.hearstapps.com
 www.hellobar.com
+www.hexagon-analytics.com
 www.hgads.net
 www.himediads.com
 www.howdoesin.net
@@ -16055,6 +16104,7 @@ www.youtubepp.com
 www.ysense.com
 www.yuhuads.com
 www.zestads.com
+www.zignallabs.com
 www.zimad.com
 www.zoomanalytics.co
 www2.facebook.com
@@ -16626,6 +16676,7 @@ ziffdavis.com
 ziffstatic.com
 ziftsolutions.com
 ziggo.nl
+zignallabs.com
 zimad.com
 zimg.jp
 zineone.com
