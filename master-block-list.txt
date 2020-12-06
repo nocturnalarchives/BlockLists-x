@@ -2262,6 +2262,7 @@ auth.adobe.com
 auth.qat2.vigilantesdopeso.com.br
 auth.qat2.weightwatchers.ch
 auth.viktvaktarna.se
+auth.voxmedia.com
 auth0.com
 auth2.comscore.com
 authorcentral
@@ -4115,6 +4116,9 @@ brandwire.tv
 brassrule.com
 braun634.com
 bravebone.com
+braze-hp.cdn.prismic.io
+braze-marketing-assets.s3.amazonaws.com
+braze.com
 brazzers3x.com
 brcdn.com
 breakfastboat.com
@@ -4414,6 +4418,7 @@ cdn.blueconic.net
 cdn.branch.io
 cdn.brandmetrics.com
 cdn.brid.tv
+cdn.britepool.com
 cdn.carbonads.com
 cdn.ckeditor.com
 cdn.cohesionapps.com
@@ -4445,8 +4450,11 @@ cdn.omnivirt.com
 cdn.onesignal.com
 cdn.otstatic.com
 cdn.parsely.com
+cdn.pbgrd.com
+cdn.permutive.com
 cdn.petametrics.com
 cdn.printfriendly.com
+cdn.prismic.io
 cdn.quilljs.com
 cdn.ravenjs.com
 cdn.rebel.ai
@@ -4457,6 +4465,7 @@ cdn.segment.com
 cdn.shareaholic.net
 cdn.shortpixel.ai
 cdn.sophi.io
+cdn.speedcurve.com
 cdn.sstatic.net
 cdn.tax
 cdn.thesn.net
@@ -6649,6 +6658,7 @@ f.teads.tv
 f.udkcjr.com
 f.usabilla.com
 f.wishabi.net
+f1-eu.readspeaker.com
 f1-na.readspeaker.com
 f11-ads.com
 f4.shared.global.fastly.net
@@ -6818,6 +6828,7 @@ field59.com
 fifthborder.com
 fiftyt.com
 figpii.com
+figshare.com
 fileboom.me
 filepicker.io
 files-warehouse.com
@@ -6894,6 +6905,7 @@ flowcdn.io
 floweryoperation.com
 flowplayer.com
 flowplayer.org
+fls-na.amazon-adsystem.co
 fls.doubleclick.net
 fluchtrucksack.de
 fluct.jp
@@ -9333,6 +9345,7 @@ lytics.io
 lz.google.com
 lzrikate.com
 m-pathy.com
+m.addthis.com
 m.bingparachute.com
 m.doubleclick.net
 m.facebook.com
@@ -10192,6 +10205,7 @@ notifia.io
 notification.services
 notification.viktvaktarna.se
 notifpush.com
+notify.bugsnag.com
 notifyon.com
 notifyvisitors.com
 nova.facebook.com
@@ -10755,6 +10769,7 @@ phimmedia03.com
 phncdn.com
 phokukse.com
 phonewagon.com
+phonograph2.voxmedia.com
 phoossax.net
 photographpan.com
 photorank.me
@@ -10878,6 +10893,7 @@ pmsrv.co
 pn.google.com
 pn.vg
 po.google.com
+po.st
 pocketads.pl
 podbean.com
 podfdch.com
@@ -11269,6 +11285,7 @@ qqjar.ru
 qqqwes.com
 qr.google.com
 qs.google.com
+qsearch-a.akamaihd.net
 qservz.com
 qsstats.com
 qt.google.com
@@ -11738,6 +11755,7 @@ rudo.video
 rug-images.com
 rulerabbit.com
 rules.quantcount.com
+rum-static.pingdom.net
 rumble.com
 rumbletalk.com
 rumbletalk.net
@@ -11792,6 +11810,7 @@ s.optmnstr.com
 s.optmstr.com
 s.pinimg.com
 s.pixsrvcs.com
+s.po.st
 s.skimresources.com
 s.teads.tv
 s.udkcjr.com
@@ -14766,6 +14785,7 @@ widget.whisk.com
 widgetbot.io
 widgetic.com
 widgetly.com
+widgets.figshare.com
 widgets.opinary.com
 widgets.outbrain.com
 widgets.tree.com
@@ -14812,6 +14832,7 @@ wj.google.com
 wk.google.com
 wki.it
 wl.amazon-dss.com
+wl.figshare.com
 wl.google.com
 wlresources.com
 wm.google.com
@@ -15513,6 +15534,7 @@ www.boostads.net
 www.boostmobile.com
 www.boxofficemojo.com
 www.brandify.com
+www.braze.com
 www.brickandmobile.com
 www.bricknet.com
 www.brightroll.com
@@ -15986,6 +16008,7 @@ www.traffichunt.com
 www.trafficjunky.com
 www.trendage.com
 www.trenddigital.vn
+www.trendmd.com
 www.u-ad.info
 www.uberads.com
 www.ubermedia.com
