@@ -4857,6 +4857,7 @@ cloud-iq.com
 cloud-iq.com.au
 cloud.adobe.io
 cloud.kargo.com
+cloudapi.imrworldwide.com
 cloudapp.net
 cloudembed.net
 cloudflare-dns.com
@@ -11024,6 +11025,7 @@ praxisdienst-server.de
 praxisdienst.com
 prcdn.co
 prd-collector-anon.ex.co
+preapp.prod.partner.netflix.net
 prebid.a-mo.net
 prebid.adnxs.com
 prebid.media.net
