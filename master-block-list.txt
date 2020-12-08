@@ -561,6 +561,7 @@ ad-stir.com
 ad-sys.com
 ad.admitad.com
 ad.atdmt.com
+ad.crwdcntrl.net
 ad.doubleclick.net
 ad.google.com
 ad.gt
@@ -1910,6 +1911,7 @@ ap.google.com
 ap.lijit.com
 apa.at
 apathetictheory.com
+ape-asset-tag.timeinc.com
 apester.com
 apesvr.com
 apex-ad.com
@@ -1987,6 +1989,7 @@ app-us1.com
 app.cookieyes.com
 app.donaldjtrump.com
 app.ecwid.com
+app.goo.gl
 app.link
 app.matheranalytics.com
 app.optinmonster.test
@@ -3896,6 +3899,7 @@ bfmtv.com
 bg-bg.facebook.com
 bg.google.com
 bgonair.bg
+bh-ems-static-content.s3.amazonaws.com
 bh.contextweb.com
 bh.google.com
 bhabhiporn.pro
@@ -4424,6 +4428,7 @@ cdn-sic.33across.com
 cdn-spurit.com
 cdn-us-doubleverify.com
 cdn.9xbud.com
+cdn.anvato.net
 cdn.apple-mapkit.com
 cdn.bibblio.org
 cdn.blueconic.net
@@ -4454,6 +4459,7 @@ cdn.krxd.net
 cdn.kustomerapp.com
 cdn.live
 cdn.marphezis.com
+cdn.mathjax.org
 cdn.mediago.io
 cdn.mediavoice.com
 cdn.mg2connext.com
@@ -4480,12 +4486,14 @@ cdn.shortpixel.ai
 cdn.sophi.io
 cdn.speedcurve.com
 cdn.sstatic.net
+cdn.taboola.com
 cdn.tax
 cdn.thesn.net
 cdn.tinypass.com
 cdn.turner.com
 cdn.valuad.cloud
 cdn.viglink.com
+cdn.virtuoussoftware.com
 cdn.volument.com
 cdn2.bustle.com
 cdn2.lockerdome.com
@@ -4545,6 +4553,7 @@ certify-js.alexametrics.com
 certona.net
 certs.securetrust.com
 cf-cpc-worker.pub-ocean-cloudflare-account.workers.dev
+cf-images.us-east-1.prod.boltdns.net
 cf.google.com
 cf.videorolls.row.aiv-cdn.net
 cfgr2.com
@@ -5195,6 +5204,7 @@ crm4d.com
 crmservice.eu
 crooksandliars.com
 crossengage.io
+crossmark-cdn
 crossmark-cdn.crossref.org
 crossref.org
 crowdl.io
@@ -6451,6 +6461,7 @@ engine.addroplet.com
 engine.adzerk.net
 engine.bannersolution.net
 engine.spotscenered.info
+engsvc.go.com
 enhance.co
 eniro.com
 ensighten.com
@@ -6543,6 +6554,8 @@ eus.rubiconproject.com
 ev.google.com
 evaluateend.com
 evanescentedge.com
+event-api.global.ssl.fastly.net
+event-plugin-proxy.global.ssl.fastly.net
 event.havasedge.com
 events-collector.spot.im
 events.bouncex.net
@@ -6569,6 +6582,8 @@ evolutionadv.it
 evolvemediallc.com
 evolveplatform.net
 evopurchasev3-fulcrum.mediasearch.verizon.com
+evvnt-api.global.ssl.fastly.net
+evvnt-plugin-proxy.global.ssl.fastly.net
 evyy.net
 ew.google.com
 ewerhodub.com
@@ -6611,6 +6626,7 @@ expressen.se
 ext.nile.works
 extend.tv
 external-cdt1-1.xx.fbcdn.net
+external-content.duckduckgo.com
 external-frt3-2.xx.fbcdn.net
 external-hkg3-1.xx.fbcdn.net
 external-iad3-1.xx.fbcdn.net
@@ -6735,6 +6751,7 @@ fast-hunter.com
 fast.co
 fast.fonts.net
 fast.wistia.com
+fastcast.semfs.engsvc.go.com
 fastclick.net
 fastcounter.de
 fastemu.co
@@ -7191,6 +7208,7 @@ gbvanalytics.com
 gc.apple.com
 gc.google.com
 gcdn.2mdn.net
+gcdn.anvato.net
 gcdn.co
 gcimetrics.com
 gcion.com
@@ -7333,6 +7351,7 @@ global-e.com
 global.fncstatic.com
 global.proper.io
 global.safebrowsing.service.amazonsilk.com
+global.ssl.fastly.net
 globaladmedia.com
 globalismedia.com
 globalsign.com
@@ -7537,6 +7556,7 @@ gs-loc.ls-apple.com.akadns.net
 gs-loc.origin-apple.com
 gs.google.com
 gsadserver.de
+gse.io
 gsecondscreen.com
 gsitrix.com
 gsp-ssl-commute.ls.apple.com
@@ -8230,6 +8250,7 @@ i.bingparachute.com
 i.clean.gg
 i.doubleclick.net
 i.gov.ph
+i.gse.io
 i.guim.co.uk
 i.insider.com
 i.matheranalytics.com
@@ -8245,6 +8266,7 @@ i.teads.tv
 i.ua
 i.udkcjr.com
 i.usabilla.com
+i0.wp.com
 i1.rgstatic.net
 i1.wp.com
 i2.wp.com
@@ -8341,6 +8363,7 @@ images.pluto.tv
 images.taboola.com
 imagescanner.cc
 imageshack.host
+imagesvc.meredithcorp.io
 imarketsmart.com
 imasdk.googleapis.com
 imbox.io
@@ -8383,6 +8406,7 @@ impression.link
 impressionmonster.com
 improvedcontactform.com
 improvedigital.com
+improving.duckduckgo.com
 impulsehands.com
 imrworldwide.com
 imspublishergroup.com
@@ -8515,6 +8539,7 @@ intentmedia.net
 interact-quiz-public-api.herokuapp.com
 interactive-circle.jp
 interactive.guim.co.uk
+interactive.wbir.com
 interactives.dk
 intercom.io
 intercomcdn.com
@@ -8866,6 +8891,7 @@ kaptcha.com
 kargo.com
 karhu.miuku.net
 karisimbi.net
+karma.mdpcdn.com
 karousell.com
 karte.io
 kartra.com
@@ -9177,6 +9203,7 @@ linker.hr
 linkfire.com
 linkmink.com
 linkprice.com
+links.duckduckgo.com
 linksynergy.com
 linkwithin.com
 linuxhostsupport.com
@@ -9565,6 +9592,7 @@ media-verizon-dev.inq.com
 media.msg.dotomi.com
 media.net
 media.rocketreach.co
+media.weather.com
 media01.eu
 media6degrees.com
 mediaad.org
@@ -9657,6 +9685,7 @@ merchantequip.com
 mercolocal.com
 merdeka.com
 meredith.com
+meredithcorp.io
 meremark.com
 merklesearch.com
 mes4.gtsgapps.com
@@ -10645,6 +10674,7 @@ p.usabilla.com
 p0.com
 p1.zemanta.com
 p24.hu
+p26d67164-93a2-4cc6-8556-3e08315ae9ce-54-244-84-195.fastcast.semfs.engsvc.go.com
 p2r14.com
 pa-in.facebook.com
 pa.google.com
@@ -10896,6 +10926,7 @@ play.googleapis.com
 play.publicradio.org
 playbuzz.com
 player.cnevids.com
+player.field59.com
 player.spotim.market
 playground.xyz
 playoncenter.com
@@ -11070,6 +11101,7 @@ prisjakt.nu
 prismamedia.com
 prismic.io
 privacy-center.org
+privacy-policy.truste.com
 privacygenerator.com
 privacymanager.io
 privacypolicies.com
@@ -11087,12 +11119,15 @@ prod.adspsp.com
 prod.ally.ac
 prod.amazoncrl.com
 prod.bidr.io
+prod.boltdns.net
 prod.experiment.routing.cloudfront.aws.a2z.com
 prod.facebook.com
 prodara.de
 prodperfect.com
 producer-api.appspot.com
 production-cmp.isgprivacy.cbsi.com
+production-event-plugin-herokuapp-com.global.ssl.fastly.net
+production-evvnt-plugin-herokuapp-com.global.ssl.fastly.net
 profile-a-atl.xx.fbcdn.net
 profile-a-dfw.xx.fbcdn.net
 profile-a-iad.xx.fbcdn.net
@@ -11521,6 +11556,7 @@ reciteme.com
 recognified.net
 recommendation-hybrid.wpdigital.net
 reconditerake.com
+reconditerespect.com
 recovermycart.com
 recreativ.com
 recreativ.ru
@@ -12335,6 +12371,7 @@ selz.com
 selzstatic.com
 semantiqo.com
 semasio.net
+semfs.engsvc.go.com
 semi-cod.com
 semknox.com
 semrush.com
@@ -12376,6 +12413,7 @@ service.amazonsilk.com
 service.force.com
 service.gc.apple.com
 service.maxymiser.net
+service.signalr.net
 services.amazon.com
 services.mozilla.com
 services.sap
@@ -12620,6 +12658,7 @@ signaler-pa.clients96.google.com
 signaler-pa.clients97.google.com
 signaler-pa.clients98.google.com
 signaler-pa.clients99.google.com
+signalr.net
 signifyd.com
 silentcredit.com
 siliconslow.com
@@ -12808,6 +12847,8 @@ snipcart.com
 snmdt.fi
 snmmd.nl
 snoobi.com
+snopes-d.openx.net
+snopes.zeustechnology.com
 snpimg.com
 snplow.net
 snrbox.com
@@ -13303,6 +13344,7 @@ su.google.com
 sub2tech.com
 subscribe.washingtonpost.com
 subscribers.com
+subscription-assets.timeinc.com
 subscriptiongenius.com
 subsequentswim.com
 substack.com
@@ -13433,6 +13475,7 @@ tag.1rx.io
 tag.bounceexchange.com
 tag.getdrip.com
 tag.researchnow.com
+tag.simpli.fi
 tag4arm.com
 tagan.adlightning.com
 tagboard.com
@@ -13595,6 +13638,8 @@ tfd.com
 tg.google.com
 tgam.arcpublishing.com
 tglyr.co
+tgna-ux-dev.service.signalr.net
+tgna-ux-east2.service.signalr.net
 tgtag.io
 th-th.facebook.com
 th.google.com
@@ -13676,6 +13721,7 @@ thumbs-share.com
 thunderhead.com
 thxxxnung.com
 ti.google.com
+tia.timeinc.net
 tialoto.bg
 tibiabr.com
 ticklesign.com
@@ -14226,6 +14272,7 @@ urlbi.com
 uro5.realmagnet.land
 us-content.vergic.com
 us-east-1-decisionapi.lift.acquia.com
+us-east-1.prod.boltdns.net
 us-east-1.wasabisys.com
 us-east-sync.bidswitch.net
 us-eu-main.geo.vergic.com
@@ -14633,6 +14680,7 @@ w.soundcloud.com
 w.teads.tv
 w.udkcjr.com
 w.usabilla.com
+w3.cdn.anvato.net
 w3apps.co
 w3counter.com
 w55c.net
@@ -14831,6 +14879,7 @@ widgetbot.io
 widgetic.com
 widgetly.com
 widgets.figshare.com
+widgets.media.weather.com
 widgets.opinary.com
 widgets.outbrain.com
 widgets.tree.com
@@ -16154,6 +16203,7 @@ xg4ken.com
 xh.google.com
 xh.video
 xhcdn.com
+xheimmxl4gfvfghng2jjos4qhb.gcdn.anvato.net
 xhuc.net
 xi.google.com
 xineday.com
@@ -16286,6 +16336,7 @@ xx-fbcdn-shv-06-lga1.fbcdn.net
 xx-fbcdn-shv-11-lhr3.fbcdn.net
 xx-fbcdn6-shv-01-atl3.fbcdn.net
 xx-fbcdn6-shv-01-lax3.fbcdn.net
+xx.fbcdn.net
 xx.google.com
 xxccdshj.com
 xxe2.com
