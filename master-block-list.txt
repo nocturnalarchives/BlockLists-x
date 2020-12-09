@@ -534,6 +534,7 @@ actcorp.m.facebook.com
 actiflex.org
 actionbutton.co
 actionnetwork.org
+actions.everyaction.com
 actito.be
 activate.platform.californiatimes.com
 activecalendar.com
@@ -1023,6 +1024,7 @@ ads-link.net
 ads-twitter.com
 ads.adaptv.advertising.com
 ads.addynamix.com
+ads.asccommunications.com
 ads.blogherads.com
 ads.celtra.com
 ads.deliverimp.com
@@ -1234,6 +1236,7 @@ advista.no
 advmob.cn
 advmusic.net
 advocado.media
+advocator.ngpvan.com
 advolution.de
 advombat.ru
 advon.net
@@ -1606,6 +1609,7 @@ aj1716.online
 aj1754.online
 aj2025.online
 aj2031.online
+ajmc.com
 ajx272.online
 ak.google.com
 ak.sail-horizon.com
@@ -1962,6 +1966,7 @@ api.ipify.org
 api.kochava.com
 api.lbry.com
 api.lbry.tv
+api.levelaccess.net
 api.nextgen.guardianapps.co.uk
 api.no
 api.oadoi.org
@@ -2183,6 +2188,7 @@ asaplabs.io
 asapp.com
 asayer.io
 asccdn.com
+asccommunications.com
 ascend.ai
 ascontentcloud.com
 ascraftan.com
@@ -3923,6 +3929,7 @@ bhphotovideo.com
 bhyhome.com
 bi.google.com
 bi.medscape.com
+biadu.com
 bibblio.org
 biblehu.com
 biblemenus.com
@@ -4914,6 +4921,7 @@ cmpnet.com
 cmrdr.com
 cms.ms.akadns.net
 cn.google.com
+cname.vercel-dns.com
 cncenter.cz
 cnd-motionmedia.de
 cnetcontent.com
@@ -7180,6 +7188,7 @@ g--o.info
 g.aaplimg.com
 g.bingparachute.com
 g.doubleclick.net
+g.ezoic.net
 g.moatads.com
 g.ntv.io
 g.o0bc.com
@@ -7190,6 +7199,7 @@ g.teads.tv
 g.udkcjr.com
 g.usabilla.com
 g1.nyt.com
+g2.gumgum.com
 g2afse.com
 g2crowd.com
 ga.google.com
@@ -8849,6 +8859,7 @@ js.sentry-cdn.com
 js.smile.io
 js.ubembed.com
 js.usemessages.com
+js2.verygoodvault.com
 jsblom.com
 jscache.com
 jsdatabox.com
@@ -10168,6 +10179,7 @@ netdna-cdn.com
 netdna-ssl.com
 netexs.com
 netinsight.co.kr
+netizen.co
 netlify.app
 netlify.com
 netmind-cloud.com
@@ -10480,6 +10492,7 @@ olocdn.net
 olx-st.com
 olxcdn.com
 olxssa.com
+olytics.omeda.com
 om.google.com
 omacro.com
 omappapi.com
@@ -10539,6 +10552,7 @@ onmeda.de
 onnetwork.tv
 onscroll.com
 ontarget.mobi
+ontetag-sys.com
 onthe.io
 ontraport.com
 ontraport.net
@@ -12046,6 +12060,7 @@ schneider-electric.com
 scholarlyiq.com
 schoolwires.com
 sci-hub.shop
+scially.wpengine.com
 sciencex.com
 scientificsneeze.com
 scintillatingscissors.com
@@ -12339,6 +12354,8 @@ searchrys.com
 searchspring.net
 searchunify.com
 searsoutlet.com
+seattle-times-d.openx.net
+seattle-times.zeustechnology.com
 seayipsex.com
 secomapp.com
 secondspace.com
@@ -13973,6 +13990,7 @@ trenddigital.vn
 trendemon.com
 trendingpolitics.com
 trendmd.com
+trends.netizen.co
 trends.newsmaxwidget.com
 trends.revcontent.com
 trengo.eu
@@ -14445,6 +14463,7 @@ vendors.privacymanager.io
 venteprivee.m.facebook.com
 venusgloria.com
 veoxa.com
+vercel-dns.com
 vergic.com
 verify.nature.com
 verifypass.com
@@ -15483,6 +15502,7 @@ www.agendize.com
 www.agentanalytics.com
 www.airship.com
 www.aiservice.vn
+www.ajmc.com
 www.alexa.com
 www.allstarmediagroup.com
 www.allyes.com
@@ -15651,6 +15671,7 @@ www.bead-ad.com
 www.beanstalkdata.com
 www.bhclicks.com
 www.bhyhome.com
+www.biadu.com
 www.bidadx.com
 www.biddingx.com
 www.bidgear-syndication.com
@@ -16849,42 +16870,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-g.ezoic.net
-ezoic.net
-prebid.a-mo.net
-a-mo.net
-ontetag-sys.com
-htlb.casalemedia.com
-hb.undertone.com
-undertone.com
-
-g2.gumgum.com
-gumgum.com
-trends.netizen.co
-netizen.co
-trends.revcontent.com
-revcontent.com
-js2.verygoodvault.com
-
-advocator.ngpvan.com
-ngpvan.com
-actions.everyaction.com
-everyaction.com
-get.s-onetag.com
-logx.optimizely.com
-ads.deliverimp.com
-deliverimp.com
-cname.vercel-dns.com
-vercel-dns.com
-www.ajmc.com
-ajmc.com
-seattle-times.zeustechnology.com
-seattle-times-d.openx.net
-api.levelaccess.net
-levelaccess.net
-siteimproveanalytics.com
-olytics.omeda.com
-omeda.com
-ads.asccommunications.com
-asccommunications.com
-scially.wpengine.com
