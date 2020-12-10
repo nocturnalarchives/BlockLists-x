@@ -543,6 +543,7 @@ actpx.com
 actuallysheep.com
 actuallysnake.com
 acuityplatform.com
+acw.elsevier.com
 acwebconnecting.com
 acx.com
 acxiom.com
@@ -782,6 +783,7 @@ addroplet.com
 addsearch.com
 addsticky.com
 addthis.com
+addthisedge.com
 addtoany.com
 addtocalendar.com
 addup.com
@@ -4016,6 +4018,8 @@ blaick.com
 blains.com
 blau.de
 bleacherreport.net
+bleepingcomputer.com
+bleepstatic.com
 blesk.cz
 blismedia.com
 blitzcinema21.com
@@ -4072,6 +4076,7 @@ boajagoar.com
 boardgamearena.net
 boatchat.com
 boayipids.com
+bob.dmpxs.com
 bodelen.com
 bodepository.com
 bodyclick.net
@@ -4491,6 +4496,7 @@ cdn.mojoreporter.com
 cdn.mylo.id
 cdn.omnivirt.com
 cdn.onesignal.com
+cdn.onthe.io
 cdn.otstatic.com
 cdn.parsely.com
 cdn.pbgrd.com
@@ -4603,6 +4609,7 @@ channel-staging-ecmp-05-ash3.facebook.com
 channel-testing-ecmp-05-ash3.facebook.com
 channel.me
 channeladvisor.com
+channelstv.com
 chaordicsystems.com
 chargeads.com
 chargebee.com
@@ -5870,6 +5877,7 @@ ec2-54-175-170-213.compute-1.amazonaws.com
 ecal.com
 ecbsn.com
 eccmp.com
+ecdn.analysis.fi
 ecitizen.gov.sg
 eclick.vn
 eclickz.com
@@ -6274,6 +6282,8 @@ elocallink.tv
 eloqua.com
 elpais.com
 elseone.nl
+elsevier-ae.com
+elsevier-id.elsevier-ae.com
 elsevier.com
 elsevierhealth.com
 eluniversalvideo.com.mx
@@ -10042,6 +10052,7 @@ my.salesforce.com
 myalphaspace1.com
 myamateurclips.com
 myarkansaslottery.com
+mybbc-analytics.files.bbci.co.uk
 mybestpro.com
 mybuys.com
 mycdn.co
@@ -12061,6 +12072,7 @@ scholarlyiq.com
 schoolwires.com
 sci-hub.shop
 scially.wpengine.com
+sciencedirect-id.elsevier-ae.com
 sciencex.com
 scientificsneeze.com
 scintillatingscissors.com
@@ -12763,6 +12775,7 @@ sitejabber.com
 sitekno.net
 sitel.m.facebook.com
 sitelock.com
+sitename.disqus.com
 siteoid.com
 sitescdn.net
 sitescout.com
@@ -12851,6 +12864,7 @@ smdg.ca
 smehost.net
 smetrics.abbott
 smetrics.bostonglobe.com
+smetrics.elsevier.com
 smetrics.foxnews.com
 smetrics.globalnews.ca
 smg.com
@@ -14116,6 +14130,7 @@ tsyndicate.com
 tsystatic.com
 tt.google.com
 tt.omtrdc.net
+tt.onthe.io
 ttarget.ru
 ttgtmedia.com
 ttxm.co.uk
@@ -14935,6 +14950,7 @@ widengle.com
 wideopenmediagroup.com
 widerplanet.com
 widespace.com
+widget.engageya.com
 widget.manychat.com
 widget.whisk.com
 widgetbot.io
@@ -15181,6 +15197,7 @@ www.addealsnetwork.com
 www.addict-mobile.net
 www.addnow.com
 www.addthis.com
+www.addthisedge.com
 www.addtoany.com
 www.adecosystems.net
 www.adecosystems.tech
@@ -15686,6 +15703,8 @@ www.billymobile.com
 www.billytesting.com
 www.bing.net
 www.bkrtx.com
+www.bleepingcomputer.com
+www.bleepstatic.com
 www.blueconic.com
 www.blueconic.net
 www.bluekai.com
@@ -15734,6 +15753,7 @@ www.cdnwidget.com
 www.cedatoplayer.com
 www.cedexis-radar.net
 www.centerpointmedia.com
+www.channelstv.com
 www.chargeads.com
 www.chartbeat.com
 www.chartbeat.net
