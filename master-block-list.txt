@@ -1033,6 +1033,7 @@ ads.deliverimp.com
 ads.doubleclick.net
 ads.facebook.com
 ads.linkedin.com
+ads.pro-market.net
 ads.pubmatic.com
 ads.rubiconproject.com
 ads1-adnow.com
@@ -1760,6 +1761,7 @@ analytics.foresee.com
 analytics.google.com
 analytics.lbry.com
 analytics.shareaholic.com
+analytics.slashdotmedia.com
 analytics.snidigital.com
 analytics.twitter.com
 analytics.yahoo.com
@@ -4454,6 +4456,7 @@ cdn-preorder.com
 cdn-server.cc
 cdn-server.top
 cdn-sic.33across.com
+cdn-sp-gcs.air.tv
 cdn-spurit.com
 cdn-us-doubleverify.com
 cdn.9xbud.com
@@ -5190,6 +5193,7 @@ counter.theconversation.edu.au
 counter.yadro.ru
 countingdownto.com
 countryflags.io
+counts.air.tv
 countyou.de
 coupert.com
 couponcause.com
@@ -6298,6 +6302,7 @@ emarbox.com
 ematicsolutions.com
 embed-fastly.wistia.com
 embed-ssl.wistia.com
+embed.air.tv
 embed.ly
 embed.tawk.to
 embed.wistia.com
@@ -6602,6 +6607,7 @@ event-api.global.ssl.fastly.net
 event-plugin-proxy.global.ssl.fastly.net
 event.havasedge.com
 events-collector.spot.im
+events.air.tv
 events.bouncex.net
 events.brightline.tv
 events.browsiprod.com
@@ -9818,6 +9824,7 @@ minormeeting.com
 mint-mobile.pxf.io
 mintmetrics.io
 minute.ly
+minutemediaservices.com
 miolive.tv
 mipo.co.il
 mippin.com
@@ -12393,6 +12400,7 @@ secure.fanboy.co.nz
 secure.force.com
 secure.gaug.es
 secure.globalsign.com
+secure.gravatar.com
 secure.insightexpressai.com
 secureaddisplay.com
 secureads.g.doubleclick.net
@@ -13543,6 +13551,7 @@ tafdi.org
 tag-serv.com
 tag.1rx.io
 tag.bounceexchange.com
+tag.crsspxl.com
 tag.demandbase.com
 tag.getdrip.com
 tag.researchnow.com
@@ -14671,6 +14680,7 @@ vm.google.com
 vmall.com
 vmallres.com
 vmmpxl.com
+vms-players.minutemediaservices.com
 vmss.boldchat.com
 vmstatic.com
 vn.at
