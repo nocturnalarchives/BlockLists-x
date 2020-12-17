@@ -2072,6 +2072,7 @@ applovin.com
 applozic.com
 applvin.com
 applvn.com
+apply.jrn.columbia.edu
 appmachine.com
 appmifile.com
 appnext.com
@@ -4200,6 +4201,7 @@ brookings.foxycart.com
 browsealoud.com
 browsee.io
 browser-update.org
+browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 browseranalytic.com
 browserpush.net
@@ -5129,6 +5131,9 @@ contivio.net
 contobox.com
 contra.gr
 contributor.google.com
+control.tvinteractive.tv
+control1.tvinteractive.tv
+control2.tvinteractive.tv
 converge-digital.com
 conversantmedia.com
 converseapps.net
@@ -5501,6 +5506,7 @@ devcloudsoftware.com
 developer.amazon.com
 developermedia.com
 developers.facebook.com
+device-metrics-us-1.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device-metrics.amazon.com
@@ -7959,6 +7965,7 @@ gsspcln.jp
 gssprt.jp
 gsstatic.es
 gstatic.com
+gstaticadsssl.i.Google.com
 gsuite.google.com
 gt.google.com
 gtanet.com
@@ -9885,6 +9892,7 @@ mobify.net
 mobile-click.biz
 mobile.beta.facebook.com
 mobile.facebook.com
+mobile.pipe.aria.microsoft.com
 mobilead.vn
 mobileadtrading.com
 mobileadvertisinghub.com
@@ -12871,6 +12879,7 @@ smct.io
 smdg.ca
 smehost.net
 smetrics.abbott
+smetrics.aem.playstation.com
 smetrics.bostonglobe.com
 smetrics.elsevier.com
 smetrics.foxnews.com
@@ -13680,6 +13689,7 @@ telefonica.es
 telegram.im
 telegram.org
 telekom.de
+telemetry-console.api.playstation.com
 telemetry.servers.getgo.com
 telenor.m.facebook.com
 teleport.media
@@ -14167,6 +14177,7 @@ turnto.com
 tuyaus.com
 tv.google.com
 tvadsync.com
+tvinteractive.tv
 tvn.pl
 tvoicalendar.ru
 tvp.pl
