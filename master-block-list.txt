@@ -7150,6 +7150,7 @@ friend.gc.apple.com
 friendbuy.com
 friends2follow.com
 frightenedpotato.com
+fritz.box
 frizbit.com
 frizzymedia.com
 fromdoppler.com
@@ -8470,6 +8471,7 @@ improvedigital.com
 improving.duckduckgo.com
 impulsehands.com
 imrworldwide.com
+imrworldwide.com.fritz.com
 imspublishergroup.com
 imtwjwoasak.com
 imu.nl
@@ -11126,6 +11128,7 @@ pprl.io
 ppstatic.pl
 pq.google.com
 pr.google.com
+pr.prchecker.info
 practicaldatacore.com
 practicetoothpaste.com
 praetor.im
@@ -11133,6 +11136,7 @@ praivacy.eu
 praxisdienst-server.de
 praxisdienst.com
 prcdn.co
+prchecker.info
 prd-collector-anon.ex.co
 preapp.prod.partner.netflix.net
 prebid.a-mo.net
@@ -12394,12 +12398,15 @@ secretturtle.com
 sectigo.com
 section.io
 secure-assets.rubiconproject.com
+secure-eu.imrworldwide.com
+secure-eu.imrworldwide.com.fritz.com
 secure-gg.imrworldwide.com
 secure-gl.imrworldwide.com
 secure-media-snc1.fbcdn.net
 secure-media.fbcdn.net
 secure-rubiconproject.com
 secure-us.imrworldwide.com
+secure-us.imrworldwide.com.fritz.com
 secure.actblue.com
 secure.adnxs.com
 secure.espn.com
@@ -12409,6 +12416,8 @@ secure.force.com
 secure.gaug.es
 secure.globalsign.com
 secure.gravatar.com
+secure.imrworldwide.com
+secure.imrworldwide.com.fritz.com
 secure.insightexpressai.com
 secureaddisplay.com
 secureads.g.doubleclick.net
