@@ -16947,3 +16947,6 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+prod.amazoncrl.com
+amazoncrl.com
+21m0ezw6fosyw.cloudfront.net
