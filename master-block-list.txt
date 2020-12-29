@@ -4570,7 +4570,6 @@ cdnwebcloud.com
 cdnwidget.com
 cdpn.io
 cds.taboola.com
-cdws.us-east-1.amazonaws.com
 cdx-nk11.gc.apple.com
 cdx.gc.apple.com
 cdxnet.com
