@@ -779,5 +779,6 @@ dns([0-9]+)\.quad9\.net
 (\.|^)([0-9]+)\.client-?channel\.google\.com$
 
 
-
+(\.|^)clients?([0-9]+)\.google\.com
+(\.|^)clients?([0-9]+)\.
 

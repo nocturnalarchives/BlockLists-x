@@ -1949,10 +1949,12 @@ api-08.com
 api-2-0.spot.im
 api-mg2.db-ip.com
 api-migration.weather-perf.akadns.net
+api-private.atlassian.com
 api-read.facebook.com
 api-v3.tinypass.com
 api.actionbutton.co
 api.altmetric.com
+api.atlassian.com
 api.bibblio.org
 api.bmw
 api.bounceexchange.com
@@ -4449,6 +4451,7 @@ cdn-adtrue.com
 cdn-anvilcms.net
 cdn-apple.com
 cdn-cnj.si
+cdn-fallback.petametrics.com
 cdn-gl.
 cdn-images.mailchimp.com
 cdn-magiclinks.trackonomics.net
@@ -4567,6 +4570,7 @@ cdnwebcloud.com
 cdnwidget.com
 cdpn.io
 cds.taboola.com
+cdws.us-east-1.amazonaws.com
 cdx-nk11.gc.apple.com
 cdx.gc.apple.com
 cdxnet.com
@@ -4765,12 +4769,25 @@ clicky.com
 clickyab.com
 clickzzs.nl
 client-channel.google.com
+client.google.com
 client.optimizely.com
+client0.google.com
+client1.google.com
+client10.google.com
+client2.google.com
+client3.google.com
+client4.google.com
+client5.google.com
+client6.google.com
+client7.google.com
+client8.google.com
+client9.google.com
 clientdata.sslauth.sonos.com
 clientflow.apple.com
 clientflow.apple.com.akadns.com
 clientflow.origin-apple.com
 clientgear.com
+clients.google.com
 clients0.google.com
 clients00.google.com
 clients01.google.com
@@ -5801,6 +5818,7 @@ dtstmio.com
 dtxngr.com
 du.google.com
 dualstack.f4.shared.global.fastly.net
+duapps.com
 ducatiforum.co.uk
 duckduckgo.com
 dudamobile.com
@@ -6519,6 +6537,7 @@ engine.spotscenered.info
 engsvc.go.com
 enhance.co
 eniro.com
+enormousearth.com
 ensighten.com
 ent-a.xx.fbcdn.net
 ent-b.xx.fbcdn.net
@@ -6579,6 +6598,7 @@ es.google.com
 escalated.io
 escort69.sexy
 esearchvision.com
+esfile.duapps.com
 esicdn.cloud
 eslpro.gg
 esm1.net
@@ -8171,6 +8191,7 @@ hirezstudios.com
 histats.com
 historicalrequest.com
 hit-counts.com
+hit.gemius.pl
 hit.ua
 hits-secure.theguardian.com
 hitskin.com
@@ -9212,6 +9233,7 @@ leparticulier.fr
 leser-umfrage.de
 lesplansduweb.com
 lessbuttons.com
+letemsvetemapplem.eu
 letmejerk.com
 letreach.com
 letsencrypt.org
@@ -9550,6 +9572,7 @@ mangoads.vn
 mangomediaads.com
 manifest.googlevideo.com
 mannenmedia.nl
+mansueto.com
 mantisadnetwork.com
 manychat.com
 mapbox.com
@@ -10470,6 +10493,7 @@ ocsp.sca1b.amazontrust.com
 ocsp.sectigo.com
 ocsp.securetrust.com
 ocsp.trustwave.com
+ocsp.usertrust.com
 ocstatic.com
 oct8ne.com
 octo.net
@@ -10547,6 +10571,7 @@ omxgroup.com
 on.google.com
 oncam.xxx
 ondemand.com
+one.mansueto.com
 one.one.one.one
 one.progmxs.com
 one.zero.zero.one
@@ -12507,6 +12532,7 @@ service.gc.apple.com
 service.maxymiser.net
 service.signalr.net
 services.amazon.com
+services.brid.tv
 services.mozilla.com
 services.sap
 services.visualstudio.com
@@ -13101,6 +13127,7 @@ spillvacation.com
 spinasale.com
 spincar.com
 spingo.com
+spir.hit.gemius.pl
 spirebaboon.com
 spkt.io
 splice.amlg.io
@@ -15978,6 +16005,7 @@ www.krxd.net
 www.kwizzad.com
 www.leadbit.com
 www.leads.su
+www.letemsvetemapplem.eu
 www.lifestreet.com
 www.linkconnector.com
 www.linkprice.com
