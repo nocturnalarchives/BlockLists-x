@@ -16987,3 +16987,14 @@ ssor.platform.californiatimes.com
 metering.platform.latimes.com
 platform.latimes.com
 pcdn.brave.com
+ccpa.sp-prod.net
+sp-prod.net
+geolocation.onetrust.com
+onetrust.com
+a.mailmunch.co
+mailmunch.co
+tag.getdrip.com
+getdrip.com
+a.omappapi.com
+omappapi.com
+stats.wp.com

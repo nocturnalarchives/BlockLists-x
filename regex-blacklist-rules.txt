@@ -782,3 +782,4 @@ dns([0-9]+)\.quad9\.net
 (\.|^)clients?([0-9]+)\.google\.com
 (\.|^)clients?([0-9]+)\.
 
+(\.|^)geolocation\.
