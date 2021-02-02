@@ -108,6 +108,7 @@
 21.client-channel.google.com
 21.taskassist-pa.clients.google.com
 21byte.de
+21m0ezw6fosyw.cloudfront.net
 21pron.com
 21sme.com
 22.client-channel.google.com
@@ -407,6 +408,7 @@ a.basemaps.cartocdn.com
 a.bingparachute.com
 a.convertkit.com
 a.doubleclick.net
+a.mailmunch.co
 a.moatads.com
 a.ns.facebook.com
 a.ntv.io
@@ -1983,10 +1985,12 @@ api.permutive.com
 api.placed.com
 api.pluto.tv
 api.pwnedpasswords.com
+api.rewards.brave.com
 api.rollbar.com
 api.sail-personalize.com
 api.smoot.apple.com
 api.time.com
+api.userleap.com
 api.verizon.com
 api.vuukle.com
 api.weather.com
@@ -4427,6 +4431,7 @@ cbi.boldchat.com
 cbox.im
 cbox.ws
 cbs-alternate.test-app.link
+cbs-local.go-vip.co
 cbs.com
 cbsi.com
 cbsi.demdex.net
@@ -4467,6 +4472,7 @@ cdn-us-doubleverify.com
 cdn.9xbud.com
 cdn.anvato.net
 cdn.apple-mapkit.com
+cdn.arkoselabs.com
 cdn.bibblio.org
 cdn.blueconic.net
 cdn.branch.io
@@ -4767,6 +4773,7 @@ clickworkzmedia.com
 clicky.com
 clickyab.com
 clickzzs.nl
+client-api.arkoselabs.com
 client-channel.google.com
 client.google.com
 client.optimizely.com
@@ -4944,6 +4951,7 @@ cm.g.doubleclick.net
 cm.google.com
 cmadserver.de
 cmgdigital.com
+cmp.dmgmediaprivacy.co.uk
 cmp.oath.com
 cmpnet.com
 cmrdr.com
@@ -5793,6 +5801,7 @@ drivcat.com
 drivenetwork.ru
 driverxxx.com
 drop.com
+dropbox-api.arkoselabs.com
 dropkickmedia.com
 drydrum.com
 ds-cdn.com
@@ -5977,6 +5986,7 @@ edge-atlas-shv-13-frc1.facebook.com
 edge-atlas-shv-17-prn1.facebook.com
 edge-atlas-shv-18-prn1.facebook.com
 edge-chat.facebook.com
+edge-geo.nc0.co
 edge-liverail-shv-01-ams2.facebook.com
 edge-liverail-shv-01-ams3.facebook.com
 edge-liverail-shv-01-ash5.facebook.com
@@ -8391,6 +8401,7 @@ id5-sync.com
 idcdn.de
 idealo.com
 identity.apple.com
+identity.netlify.com
 identitymgmt.net
 idevaffiliate.com
 idevdesign.net
@@ -8894,12 +8905,14 @@ js.hs-banner.com
 js.hs-scripts.com
 js.hsadspixel.net
 js.hsforms.net
+js.matheranalytics.com
 js.org
 js.pelcro.com
 js.pulseinsights.com
 js.pusher.com
 js.sentry-cdn.com
 js.smile.io
+js.stripe.comp
 js.ubembed.com
 js.usemessages.com
 js2.verygoodvault.com
@@ -9222,6 +9235,7 @@ lekane.net
 lemde.fr
 lemonde.fr
 lemonpi.io
+lencr.org
 lendingtree.com
 lengow.com
 lenmit.com
@@ -9504,6 +9518,7 @@ m.o0bc.com
 m.optmnstr.com
 m.optmstr.com
 m.skimresources.com
+m.stripe.network
 m.teads.tv
 m.udkcjr.com
 m.usabilla.com
@@ -9794,6 +9809,7 @@ meteored.com
 meteox.com
 meter-svc.nytimes.com
 meter.bostonglobe.com
+metering.platform.latimes.com
 metizapps.com
 metomic.io
 metosk.com
@@ -10452,6 +10468,7 @@ o.bingparachute.com
 o.doubleclick.net
 o.facebook.com
 o.internet.org
+o.lencr.org
 o.moatads.com
 o.ntv.io
 o.o0bc.com
@@ -10744,6 +10761,7 @@ ovalpigs.com
 overconfidentfood.com
 overflowworks.com
 overratedchalk.com
+ovp.iris.tv
 ow.google.com
 owlsr.us
 owltrack.com
@@ -10849,6 +10867,7 @@ pbstck.com
 pc.google.com
 pc180101.com
 pc20160301.com
+pcdn.brave.com
 pcdn.co
 pcmag.com
 pcrl.co
@@ -11020,6 +11039,7 @@ platform-events.phunware.com
 platform.californiatimes.com
 platform.foursquare.com
 platform.iteratehq.com
+platform.latimes.com
 platform.smile.io
 platform.twitter.com
 platforum.cloud
@@ -11422,6 +11442,7 @@ q.optmnstr.com
 q.optmstr.com
 q.quora.com
 q.skimresources.com
+q.stripe.com
 q.teads.tv
 q.udkcjr.com
 q.usabilla.com
@@ -11505,6 +11526,7 @@ quiz.tryinteract.com
 quizzicalzephyr.com
 qumucloud.com
 quora.com
+quora.map.fastly.net
 quotemedia.com
 quoteninja.com
 quotidiano.net
@@ -11532,6 +11554,7 @@ r.udkcjr.com
 r.usabilla.com
 r10s.jp
 r18.com
+r3.o.lencr.org
 r42tag.com
 r66net.com
 r7.com
@@ -11790,6 +11813,7 @@ revrtb.net
 revupads.com
 revy.io
 reward2spot.com
+rewards.brave.com
 rewardstyle.com
 rezserver.com
 rezync.com
@@ -13041,6 +13065,7 @@ sortext.com
 sortsummer.com
 soundcloud.com
 sourcepoint.theroot.com
+southfront.org
 southpointcasino.com
 southwest.com
 souvlatraffic.com
@@ -13539,6 +13564,7 @@ swordgoose.com
 swpcld.com
 swpsvc.com
 sx.google.com
+sxp.smartclip.net
 sy.google.com
 syllable.ai
 symantec.com
@@ -13552,6 +13578,7 @@ sync.brave.com
 sync.graph.bluecava.com
 sync.search.spotxchange.com
 sync.serverbid.com
+sync.sxp.smartclip.net
 sync.targeting.unrulymedia.com
 sync.teads.tv
 sync.tv
@@ -14532,6 +14559,7 @@ venteprivee.m.facebook.com
 venusgloria.com
 veoxa.com
 vercel-dns.com
+vercel-insights.com
 vergic.com
 verify.nature.com
 verifypass.com
@@ -14702,6 +14730,7 @@ visualstudio.com
 visualwebsiteoptimizer.com
 visx.net
 vitalmedianet.com
+vitals.vercel-insights.com
 vitaminum.net
 viu.com
 vivaclix.com
@@ -16945,56 +16974,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-prod.amazoncrl.com
-amazoncrl.com
-21m0ezw6fosyw.cloudfront.net
-cdn.arkoselabs.com
-client-api.arkoselabs.com
-dropbox-api.arkoselabs.com
-arkoselabs.com
-cmp.dmgmediaprivacy.co.uk
-dmgmediaprivacy.co.uk
-ovp.iris.tv
-iris.tv
-sync.sxp.smartclip.net
-sxp.smartclip.net
-smartclip.net
-browser.sentry-cdn.com
-sentry-cdn.com
-southfront.org
-imasdk.googleapis.com
-api.rewards.brave.com
-rewards.brave.com
-api.userleap.com
-userleap.com
-r3.o.lencr.org
-o.lencr.org
-lencr.org
-identity.netlify.com
-netlify.com
-edge-geo.nc0.co
-nc0.co
-s.ntv.io
-ntv.io
-sc-static.net
-quora.map.fastly.net
-js.matheranalytics.com
-matheranalytics.com
-libs.platform.californiatimes.com
-platform.californiatimes.com
-californiatimes.com
-ssor.platform.californiatimes.com
-metering.platform.latimes.com
-platform.latimes.com
-pcdn.brave.com
-ccpa.sp-prod.net
-sp-prod.net
-geolocation.onetrust.com
-onetrust.com
-a.mailmunch.co
-mailmunch.co
-tag.getdrip.com
-getdrip.com
-a.omappapi.com
-omappapi.com
-stats.wp.com
