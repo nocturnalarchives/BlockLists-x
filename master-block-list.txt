@@ -4530,6 +4530,7 @@ cdn.shortpixel.ai
 cdn.sophi.io
 cdn.speedcurve.com
 cdn.sstatic.net
+cdn.subscribers.com
 cdn.taboola.com
 cdn.tax
 cdn.thesn.net
@@ -11050,6 +11051,7 @@ playbuzz.com
 player.cnevids.com
 player.field59.com
 player.spotim.market
+Player1-Macbook-Air.lan	OK
 playground.xyz
 playoncenter.com
 playreplay.me
@@ -12836,6 +12838,7 @@ sirv.com
 site-annonce.fr
 site123.io
 site24x7rum.com
+siteassets.parastorage.com
 sitebooster.com
 sitecampaign.com
 sitedataprocessing.com
