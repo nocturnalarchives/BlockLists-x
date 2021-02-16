@@ -417,6 +417,7 @@ a.omappapi.com
 a.opmnstr.com
 a.optmnstr.com
 a.optmstr.com
+a.postrelease.com
 a.pub.network
 a.publir.com
 a.serverbid.com
@@ -2432,6 +2433,7 @@ bablic.com
 babsft.com
 babymarkt.com
 backbeatmedia.com
+backtrace.io
 bacontent.de
 badge.facebook.com
 badgerstat.com
@@ -3863,6 +3865,7 @@ beeashale.club
 beebot.me
 beeketing.com
 beeline.ru
+beemray.com
 beemrdwn.com
 beenverified.com
 beesona.ru
@@ -4475,6 +4478,7 @@ cdn.apple-mapkit.com
 cdn.arkoselabs.com
 cdn.bibblio.org
 cdn.blueconic.net
+cdn.boomtrain.com
 cdn.branch.io
 cdn.brandmetrics.com
 cdn.brid.tv
@@ -4721,6 +4725,7 @@ ckies.net
 cl.google.com
 clario.us
 clarip.com
+clarity.ms
 clarivoy.com
 clarovideo.net
 classic-porn.cc
@@ -4927,6 +4932,7 @@ cloud-iq.com
 cloud-iq.com.au
 cloud.adobe.io
 cloud.kargo.com
+cloud.opta.net
 cloudapi.imrworldwide.com
 cloudapp.net
 cloudembed.net
@@ -6906,6 +6912,7 @@ fctablesmedia.com
 fd.google.com
 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
 fe.google.com
+fe.sitedataprocessing.com
 fearfulfish.com
 feathr.co
 federalreserve.org
@@ -9415,6 +9422,7 @@ logmein.com.akadns.net
 logmein.com.logmein.com.akadns.net
 logo.clearbit.com
 logrocket.io
+logs.psm.wmcdp.io
 logsss.com
 logx.optimizely.com
 logystowtencon.info
@@ -9535,6 +9543,7 @@ ma.google.com
 mab.chartbeat.com
 macromill.com
 macupdate.com
+macys-app.quantummetric.com
 madadsmedia.com
 madcheddar.com
 madeinwork.com
@@ -9570,6 +9579,7 @@ mainetodaymedia.com
 makaira.io
 makemewell.pro
 makeprosimp.com
+maketlytics.com
 mall.tv
 malokacha.club
 mamydirect.com
@@ -9989,6 +9999,7 @@ more.tv
 moreusers.info
 morevisits.info
 morningstar.com
+morpho.sp.backtrace.io
 mortgageresearchcenter.com
 mos.ru
 moshimo.com
@@ -11232,6 +11243,7 @@ privacygenerator.com
 privacymanager.io
 privacypolicies.com
 private.canadianshield.cira.ca
+privatestats.whatsapp.net
 privy.com
 prmovies.cc
 prndigital.com
@@ -11330,6 +11342,7 @@ ps.google.com
 ps7894.com
 psg.nexstardigital.net
 psimg.com
+psm.wmcdp.io
 psmcdn.net
 psplugin.com
 pstatic.gr
@@ -12411,6 +12424,7 @@ scupio.com
 scw.systems
 sd.google.com
 sdhfbvd.com
+sdk.beemray.com
 sdk.sharethrough.com
 sdk.snapkit.com
 sdkbox.com
@@ -12467,6 +12481,7 @@ secure.gravatar.com
 secure.imrworldwide.com
 secure.imrworldwide.com.fritz.com
 secure.insightexpressai.com
+secure.widget.cloud.opta.net
 secureaddisplay.com
 secureads.g.doubleclick.net
 secureanalytic.com
@@ -13078,6 +13093,7 @@ sp-prod.net
 sp-trk.com
 sp.analytics.yahoo.com
 sp.auth.adobe.com
+sp.backtrace.io
 sp.google.com
 sp.rmbl.ws
 spacesquirrel.net
@@ -14512,6 +14528,7 @@ v.usabilla.com
 v0.wordpress.com
 v0.WordPress.com
 v4help.facebook.com
+v8-emea.sdk.beemray.com
 va.google.com
 vaderinis.com
 vads.net.vn
@@ -15036,6 +15053,7 @@ widengle.com
 wideopenmediagroup.com
 widerplanet.com
 widespace.com
+widget.cloud.opta.net
 widget.engageya.com
 widget.manychat.com
 widget.whisk.com
@@ -15095,6 +15113,7 @@ wl.figshare.com
 wl.google.com
 wlresources.com
 wm.google.com
+wmcdp.io
 wms.assoc-amazon.com
 wmt.media
 wn.google.com
@@ -15853,6 +15872,7 @@ www.cibleclick.com
 www.cityads.com
 www.cityads.ru
 www.ckeditor.com
+www.clarity.ms
 www.cleverads.vn
 www.clickability.com
 www.clickagy.com
@@ -16977,17 +16997,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-privatestats.whatsapp.net
-morpho.sp.backtrace.io
-sp.backtrace.io
-backtrace.io
-cdn.boomtrain.com
-boomtrain.com
-a.postrelease.com
-postrelease.com
-logs.psm.wmcdp.io
-psm.wmcdp.io
-wmcdp.io
-v8-emea.sdk.beemray.com
-sdk.beemray.com
-beemray.com
