@@ -811,6 +811,7 @@ adf.ly
 adfactor.nl
 adfalcon.com
 adfenix.com
+adfenti.com
 adflake.com
 adflex.vn
 adflow.ru
@@ -1125,6 +1126,7 @@ adspsp.com
 adspynet.com
 adsrocket.net
 adsrvmedia.net
+adsrvr.com
 adsrvr.org
 adstage.io
 adstanding.com
@@ -1976,6 +1978,7 @@ api.kochava.com
 api.lbry.com
 api.lbry.tv
 api.levelaccess.net
+api.livechatinc.com
 api.nextgen.guardianapps.co.uk
 api.no
 api.oadoi.org
@@ -4029,6 +4032,7 @@ blahdns.com
 blaick.com
 blains.com
 blau.de
+bldr.io
 bleacherreport.net
 bleepingcomputer.com
 bleepstatic.com
@@ -5123,6 +5127,7 @@ consent.cookiebot.com
 consent.is
 consent.truste.com
 consentag.eu
+consentprovider.leadexec.com
 consistentcart.com
 consoglobe.com
 consoliads.com
@@ -5157,6 +5162,7 @@ context.ly
 contextly.com
 contextual.media.net
 contextweb.com
+contextweb.net
 contivio.com
 contivio.net
 contobox.com
@@ -5381,6 +5387,7 @@ d.udkcjr.com
 d.usabilla.com
 d.vvv.facebook.com
 d2-apps.net
+d2.sc.omtrdc.net
 d2cmedia.ca
 d3js.org
 d41.co
@@ -5506,6 +5513,7 @@ deltapictures.it
 demand.supply
 demandbase.com
 demandjump.com
+demdex.com
 demdex.net
 demo4.mozilor.com
 denakop.com
@@ -5787,6 +5795,7 @@ doyoudreamup.com
 dp.google.com
 dpbolvw.net
 dpic.me
+dpm.demdex.com
 dpm.demdex.net
 dpmsrv.com
 dpstream.ink
@@ -6953,6 +6962,7 @@ fie-data.co.uk
 field59.com
 fifthborder.com
 fiftyt.com
+fifyt.com
 figpii.com
 figshare.com
 fileboom.me
@@ -7443,6 +7453,7 @@ glispa.com
 gloapi.com
 global-e.com
 global.fncstatic.com
+global.ib-ibi.com
 global.proper.io
 global.safebrowsing.service.amazonsilk.com
 global.ssl.fastly.net
@@ -7471,6 +7482,7 @@ go.itracker360.com
 go.pardot.com
 go.shareaholic.com
 go.shareaholic.net
+go.sinobi.com
 go.smljmp.com
 go.sonobi.com
 go.theregister.com
@@ -8419,6 +8431,7 @@ idlcloud.com
 idmnet.pl
 idolfileup.com
 idosell.com
+idsync.analytics.yahoo.com
 idsync.rlcdn.com
 ie.google.com
 ie8eamus.com
@@ -8514,6 +8527,7 @@ imtwjwoasak.com
 imu.nl
 in-appadvertising.com
 in.ftadsrv.com
+in.getclicky.com
 in.google.com
 inabsolor.com
 inbenta.com
@@ -9216,6 +9230,7 @@ leadbit.com
 leadchampion.com
 leaddyno.com
 leaderapps.co
+leadexec.com
 leadexpert.pl
 leadfeeder.com
 leadforensics.com
@@ -9622,6 +9637,7 @@ marketing.usatoday.com
 marketingautomation.services
 marketingplatform.google.com
 marketlinc.com
+marketlytics.com
 marketnewsvideo.com
 marketo.com
 marketo.net
@@ -9686,6 +9702,7 @@ md-nx.com
 md-static.com
 md.google.com
 md.gov
+md.rkdms.com
 mdgzg.com
 mdhv.io
 mdpcdn.com
@@ -9775,6 +9792,7 @@ meetami.ai
 meetrics.net
 megaphone.fm
 megapopads.com
+megaxt.com
 mein-schoener-garten.de
 meinsol.de
 meli.m.facebook.com
@@ -10595,6 +10613,7 @@ omsnative.de
 omtrdc.net
 omxgroup.com
 on.google.com
+onaudience.com
 oncam.xxx
 ondemand.com
 one.mansueto.com
@@ -10693,6 +10712,7 @@ optmnstr.com
 optmstr.com
 optnmnstr.com
 optnmstr.com
+opus.analytics.yahoo.com
 oq.google.com
 or.google.com
 oraclecloud.com
@@ -11686,6 +11706,7 @@ realvu.net
 realwap.net
 realytics.net
 reamaze.com
+reason8.com
 rebel.ai
 rebelsubway.com
 rec-engine.com
@@ -11834,6 +11855,7 @@ rezserver.com
 rezync.com
 rf.google.com
 rfdcontent.com
+rfhub.com
 rfihub.com
 rfihub.net
 rfksrv.com
@@ -12128,6 +12150,7 @@ sbs-ad.com
 sc-static.net
 sc.google.com
 sc.iasds01.com
+sc.omtrdc.net
 sca1b.amazontrust.com
 scaledrone.com
 scaleflex.it
@@ -12846,6 +12869,7 @@ sincerespy.com
 sinclairstoryline.com
 singular.net
 sinmufar.com
+sinobi.com
 sinoptik.ua
 sirdata.io
 siriusxm.com
@@ -13233,6 +13257,7 @@ src.joebiden.com
 srigbxxv.com
 srt.m.facebook.com
 srv-2019-01-31-21.pixel.parsely.com
+srv.stackadapt.com
 srviral.com
 srvmath.com
 srvtrck.com
@@ -13597,6 +13622,7 @@ sync.brave.com
 sync.graph.bluecava.com
 sync.search.spotxchange.com
 sync.serverbid.com
+sync.srv.stackadapt.com
 sync.sxp.smartclip.net
 sync.targeting.unrulymedia.com
 sync.teads.tv
@@ -13652,6 +13678,7 @@ taggstar.com
 taggyad.jp
 tags.bkrtx.com
 tags.crwdcntrl.net
+tags.idsync.analytics.yahoo.com
 tags.newscgp.com
 tags.tiqcdn.com
 tagsrvcs.com
@@ -13697,6 +13724,7 @@ targetbay.com
 targetfuel.com
 targetimg1.com
 targeting.tgam.arcpublishing.com
+targeting.unrulymedia.com
 targeting.unrulymedia.com
 targeting.washpost.nile.works
 targetspot.com
@@ -14250,6 +14278,7 @@ turboadv.com
 turbolion.io
 turbopix.fr
 turn.com
+turn.com
 turn.gc.apple.com
 turner.com
 turnto.com
@@ -14411,6 +14440,7 @@ uplift-platform.com
 uplinkly-static.com
 upload.facebook.com
 uplogon.com
+uplynk.com
 uplynk.com
 upravel.com
 uprimp.com
@@ -14862,6 +14892,7 @@ w.usabilla.com
 w3.cdn.anvato.net
 w3apps.co
 w3counter.com
+w55c.net
 w55c.net
 wa.google.com
 waitrose.com
@@ -16863,6 +16894,7 @@ z.teads.tv
 z.udkcjr.com
 z.usabilla.com
 za.google.com
+zacks.d2.sc.omtrdc.net
 zaczytaj.pl
 zadn.vn
 zaful.com
@@ -16895,6 +16927,7 @@ zedo.com
 zeelandveilig.nl
 zeenews.com
 zemanta.com
+zementa.com
 zenaps.com
 zencdn.net
 zend-apps.com
