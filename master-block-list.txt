@@ -9890,6 +9890,7 @@ milestoneinternet.com
 militaryverse.com
 milovana.com
 mimosamajor.com
+min-api.cryptocompare.com
 mindbox.ru
 mindtake.com
 minibc.com
@@ -13725,7 +13726,6 @@ targetfuel.com
 targetimg1.com
 targeting.tgam.arcpublishing.com
 targeting.unrulymedia.com
-targeting.unrulymedia.com
 targeting.washpost.nile.works
 targetspot.com
 tarrobads.com
@@ -14278,7 +14278,6 @@ turboadv.com
 turbolion.io
 turbopix.fr
 turn.com
-turn.com
 turn.gc.apple.com
 turner.com
 turnto.com
@@ -14440,7 +14439,6 @@ uplift-platform.com
 uplinkly-static.com
 upload.facebook.com
 uplogon.com
-uplynk.com
 uplynk.com
 upravel.com
 uprimp.com
@@ -14892,7 +14890,6 @@ w.usabilla.com
 w3.cdn.anvato.net
 w3apps.co
 w3counter.com
-w55c.net
 w55c.net
 wa.google.com
 waitrose.com
