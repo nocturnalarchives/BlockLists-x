@@ -17027,3 +17027,9 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+liveapi.yext.com
+yext.com
+global.proper.io
+proper.io
+connector-script.uselaterpay.com
+uselaterpay.com
