@@ -17033,3 +17033,4 @@ global.proper.io
 proper.io
 connector-script.uselaterpay.com
 uselaterpay.com
+api.pwnedpasswords.com
