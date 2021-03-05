@@ -1984,6 +1984,7 @@ api.no
 api.oadoi.org
 api.oadoi.org.herokudns.com
 api.okendo.io
+api.ola.godaddy.com
 api.parsely.com
 api.permutive.com
 api.placed.com
@@ -2016,6 +2017,7 @@ app-adforce.jp
 app-c.net
 app-measurement.com
 app-promo.com
+app-sj28.marketo.com
 app-sjl.marketo.com
 app-us1.com
 app.cookieyes.com
@@ -2100,6 +2102,7 @@ apprope.com
 approstar.com
 apprupt.com
 apps-host.com
+apps.elfsight.com
 apps.facebook.com
 apps.mil
 apps.mzstatic.com
@@ -4501,6 +4504,7 @@ cdn.engine.addroplet.com
 cdn.engine.spotscenered.info
 cdn.fera.ai
 cdn.ghostmonitor.com
+cdn.ihsmarkit.com
 cdn.inpwrd.net
 cdn.instapagemetrics.com
 cdn.irsdn.net
@@ -5435,7 +5439,9 @@ datadoghq-browser-agent.com
 datadome.co
 datafeedfile.com
 datafront.co
+datalinedata.com
 datamind.ru
+datamyx.com
 dataprev.gov.br
 dataroyal.com.br
 datasteam.io
@@ -5510,6 +5516,8 @@ dell.com
 deloitte.m.facebook.com
 deloplen.com
 deltapictures.it
+deluxe.com
+deluxe.scene7.com
 demand.supply
 demandbase.com
 demandjump.com
@@ -5620,6 +5628,7 @@ disqus.com
 disqusads.com
 disquscdn.com
 distilled.ie
+distillery.wistia.com
 distinctday.com
 districtm.ca
 districtm.io
@@ -7475,6 +7484,7 @@ gnezdo.ru
 gnome.org
 go-fet.ch
 go-mpulse.net
+go-vip.net
 go.aniview.com
 go.com
 go.google.com
@@ -8433,6 +8443,7 @@ idolfileup.com
 idosell.com
 idsync.analytics.yahoo.com
 idsync.rlcdn.com
+ie.datamyx.com
 ie.google.com
 ie8eamus.com
 iesnare.com
@@ -8448,6 +8459,8 @@ igodigital.com
 ih.google.com
 ihani.co.kr
 iheart.com
+ihs.com
+ihsmarkit.com
 ii.google.com
 iictt.m.facebook.com
 iie8.com
@@ -8482,6 +8495,7 @@ imbox.io
 imedia.cz
 imercostatic.dk
 img.tpt.cloud
+img1.wsimg.com
 img3.wikia.nocookie.net
 img4.zergnet.com
 imgaft.com
@@ -8762,6 +8776,7 @@ islay.tech
 isn.nl
 ispot.tv
 issuu.com
+isteam.wsimg.com
 isu.pub
 it-it.facebook.com
 it.facebook.com
@@ -8927,6 +8942,8 @@ js.hs-banner.com
 js.hs-scripts.com
 js.hsadspixel.net
 js.hsforms.net
+js.hsleadflows.net
+js.idio.co
 js.matheranalytics.com
 js.org
 js.pelcro.com
@@ -9355,6 +9372,7 @@ live.com
 live.fb.com
 live2support.com
 live800.com
+liveapi.yext.com
 livechatinc.com
 liveclicker.com
 liveclicker.net
@@ -9875,6 +9893,7 @@ microad.co.jp
 microad.jp
 microadinc.com
 microcontenidos.com
+microsites.nielseniq.com
 microsmallcap.com
 microsoft.com
 microsoft.m.facebook.com
@@ -10352,6 +10371,7 @@ nice-team.net
 nichehit.net
 nicherev.io
 nichools.com
+nielsen-connect.go-vip.net
 nifleim.net
 niftyhospital.com
 niftyjelly.com
@@ -10582,6 +10602,7 @@ okta.com
 oktacdn.com
 oktopost.com
 ol.google.com
+ola.godaddy.com
 olark.com
 olineman.pro
 oliv.fr
@@ -10812,6 +10833,7 @@ p.acquireinsight.net
 p.bingparachute.com
 p.brid.tv
 p.doubleclick.net
+p.jwpcdn.com
 p.moatads.com
 p.ntv.io
 p.o0bc.com
@@ -11023,6 +11045,7 @@ pins.amazon.com
 pinsightmedia.com
 pinterest.com
 pipdigz.co.uk
+pipedream.wistia.com
 pippa.io
 pippio.com
 piquantpigs.com
@@ -12565,6 +12588,7 @@ sensic.net
 sentinelpublishers.com
 sentry-cdn.com
 sentry.ghostmonitor.net
+sentry.io
 seon.io
 separatesilver.com
 serconmp.com
@@ -13272,6 +13296,7 @@ ssl.facebook.com
 ssl.google-analytics.com
 ssl.gstatic.com
 ssl.hwcdn.net
+ssl.p.jwpcdn.com
 ssl.trustwave.com
 sso-service.de
 ssor.platform.californiatimes.com
@@ -13365,6 +13390,7 @@ static-immobilienscout24.de
 static-nk11-a.gc.apple.com
 static-nk11-b.gc.apple.com
 static-od.com
+static-prod.uberall.com
 static-sb.com
 static-st11-a.gc.apple.com
 static-st11-b.gc.apple.com
@@ -14335,6 +14361,7 @@ ub-analytics.com
 ub.google.com
 ubembed.com
 uberads.com
+uberall.com
 ubermedia.com
 ubic.tech
 ubiquitousyard.com
@@ -14603,6 +14630,7 @@ velux.com
 vendemore.com
 vendorlist.consensu.org
 vendors.privacymanager.io
+venom-assets.edmunds-media.com
 venteprivee.m.facebook.com
 venusgloria.com
 veoxa.com
@@ -15945,6 +15973,7 @@ www.creative-mobile.com
 www.criteo.com
 www.cryptonmobile.com
 www.d2cmedia.ca
+www.deluxe.com
 www.demdex.net
 www.departapp.com
 www.destini.co
@@ -17027,10 +17056,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-liveapi.yext.com
-yext.com
-global.proper.io
-proper.io
-connector-script.uselaterpay.com
-uselaterpay.com
-api.pwnedpasswords.com
