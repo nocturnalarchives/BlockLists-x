@@ -17056,3 +17056,8 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+variations.brave.com
+chimpstatic.com
+qvalento.containers.piwik.pro
+containers.piwik.pro
+piwik.pro
