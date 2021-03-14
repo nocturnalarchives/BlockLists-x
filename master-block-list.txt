@@ -5046,6 +5046,7 @@ collect.igodigital.com
 collectcdn.com
 collector-7626.tvsquared.com
 collector-pxogckki0e.px-cloud.net
+collector.vhx.tv
 collegenet.com
 colorinside.com
 colossalchance.com
@@ -11127,6 +11128,7 @@ pixiedust.buzzfeed.com
 piximedia.com
 pixlee.com
 pixsrvcs.com
+pizzaseo.com
 pj.google.com
 pj.l.admedo.com
 pk.google.com
@@ -17127,4 +17129,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-pizzaseo.com
