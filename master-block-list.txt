@@ -96,6 +96,7 @@
 1trust.app
 1ts19.top
 1ts20.top
+1up.com
 2-courier.push.apple.com
 2-courier.sandbox.push.apple.com
 2-edge-chat.facebook.com
@@ -485,6 +486,7 @@ abmr.net
 aboardamusement.com
 aboardlevel.com
 about.facebook.com
+aboutads.info
 aboutamazon.com
 abrankings.com
 abruptroad.com
@@ -1050,6 +1052,7 @@ ads.linkedin.com
 ads.pro-market.net
 ads.pubmatic.com
 ads.rubiconproject.com
+ads.samba.tv
 ads1-adnow.com
 ads2-adnow.com
 ads3-adnow.com
@@ -1771,6 +1774,7 @@ analytics-iq.com
 analytics-sm.com
 analytics.analytics-egain.com
 analytics.archive.org
+analytics.ccgateway.net
 analytics.cohesionapps.com
 analytics.disney.go.com
 analytics.foresee.com
@@ -1940,6 +1944,7 @@ anymad.com
 anytrack.io
 ao.google.com
 aolcdn.com
+aorta.clickagy.com
 aoscdn.com
 ap.google.com
 ap.lijit.com
@@ -1975,6 +1980,7 @@ api.bibblio.org
 api.bmw
 api.bounceexchange.com
 api.btloader.com
+api.choice.microsoft.com
 api.circularhub.com
 api.cloudapp.net
 api.cnn.io
@@ -2001,6 +2007,7 @@ api.permutive.com
 api.placed.com
 api.pluto.tv
 api.pwnedpasswords.com
+api.retargetly.com
 api.rewards.brave.com
 api.rollbar.com
 api.sail-personalize.com
@@ -2205,6 +2212,7 @@ arrivalist.com
 art19.com
 artbbs.ws
 artfut.com
+artsai.com
 artydia.com
 arukereso.com
 as-casalemedia.com
@@ -2531,6 +2539,7 @@ be-map.it
 be.google.com
 beacon-v2.helpscout.net
 beacon.krxd.net
+beacon.lynx.cognitivlabs.com
 beacon.tru.am
 beaconads.com
 beaconforstore.com
@@ -4706,6 +4715,7 @@ chip.gen.tr
 chitika.com
 chlorobike.com
 chocolateplatform.com
+choice.microsoft.com
 choogeet.net
 choozle.com
 chrono24.com
@@ -5155,6 +5165,7 @@ constantcontact.com
 consting-hancessor.com
 consumable.com
 consumentenbond.nl
+consumer.krxd.net
 consumercare.net
 contactatonce.com
 contacts.fe.apple-dns.net
@@ -5211,6 +5222,7 @@ conviva.com
 cookie-cdn.cookiepro.com
 cookie-script.com
 cookie.brealtime.com
+cookie.havasedge.com
 cookiebot.com
 cookieconsent.com
 cookiefirst.com
@@ -5925,6 +5937,7 @@ e-planning.net
 e-planning.video
 e-reading.pw
 e.bingparachute.com
+e.chicoryapp.com
 e.convertkit.com
 e.doubleclick.net
 e.infogram.com
@@ -6813,6 +6826,7 @@ extraimage.com
 extraimage.info
 extreme-dm.com
 extremereach.io
+extremetech.com
 exuberantsoda.com
 ey.google.com
 eyedemand.com
@@ -7526,6 +7540,7 @@ gnome.org
 go-fet.ch
 go-mpulse.net
 go-vip.net
+go.4cinsights.com
 go.aniview.com
 go.com
 go.google.com
@@ -8335,6 +8350,7 @@ hr-hr.facebook.com
 hr.google.com
 hrblock.com
 hrkgame.com
+hrworld.com
 hrzn-nxt.com
 hs-analytics.net
 hs-banner.com
@@ -8430,6 +8446,7 @@ i.teads.tv
 i.ua
 i.udkcjr.com
 i.usabilla.com
+i.w55c.net
 i0.wp.com
 i1.rgstatic.net
 i1.wp.com
@@ -8496,6 +8513,7 @@ if.google.com
 iframe.ly
 ift.tt
 ig.google.com
+ign.com
 igni.com
 ignimgs.com
 ignite.amazon.com
@@ -8669,6 +8687,7 @@ inq.com
 inquisitiveinvention.com
 inscoder.com
 inside-graph.com
+insidecrm.com
 insider.com
 insiderdata360online.com
 insidesalesemail.com
@@ -8788,6 +8807,7 @@ ipstatp.com
 ipv4.google.com
 ipv6.google.com
 iq.google.com
+iqm.com
 iqmining.com
 ir-na.amazon-adsystem.com
 ir.google.com
@@ -8836,6 +8856,7 @@ itrustzone.site
 its-up.com
 its123.nl
 itsdcdn.com
+itsecurity.com
 itsfogo.com
 itzbund.de
 iu.google.com
@@ -9156,6 +9177,7 @@ kn.google.com
 knd.ro
 knifeoctopus.com
 knightlab.com
+knorex.com
 knotch-cdn.com
 knotch.it
 knottysticks.com
@@ -9486,6 +9508,7 @@ log.outbrainimg.com
 logbor.com
 loggly.com
 logicanalytics.io
+logicbuy.com
 logicideas.media
 login.chinacloudapi.cn
 login.facebook.com
@@ -10307,6 +10330,7 @@ nbcuni.com
 nc.google.com
 nc.gov
 nc0.co
+ncaudienceexchange.com
 nccgroup-webperf.com
 nch.com.au
 nclick.ru
@@ -10782,6 +10806,23 @@ optmnstr.com
 optmstr.com
 optnmnstr.com
 optnmstr.com
+optout.1up.com
+optout.aboutads.info
+optout.audrte.com
+optout.extremetech.com
+optout.hrworld.com
+optout.ign.com
+optout.insidecrm.com
+optout.itsecurity.com
+optout.logicbuy.com
+optout.parrable.com
+optout.rd.linksynergy.com
+optout.reson8.com
+optout.techbargains.com
+optout.toolbox.com
+optout.ugo.com
+optout.voip-news.com
+optout.zdbb.net
 opus.analytics.yahoo.com
 oq.google.com
 or.google.com
@@ -10944,6 +10985,7 @@ parsimoniouspolice.com
 particlenews.com
 particularaudience.com
 partner.googleadservices.com
+partner.knorex.com
 partner.shareaholic.com
 partner.shareaholic.net
 partplanes.com
@@ -11333,6 +11375,7 @@ prismamedia.com
 prismic.io
 privacy-center.org
 privacy-policy.truste.com
+privacy.britepool.com
 privacygenerator.com
 privacymanager.io
 privacypolicies.com
@@ -11526,11 +11569,13 @@ px-cloud.net
 px.ads.linkedin.com
 px.bhyhome.com
 px.google.com
+px.marchex.io
 px.moatads.com
 px.powerlinks.com
 pxf.io
 pxg-assets.com
 pxgcdn.com
+pxl.iqm.com
 pxlecdn.com
 pxlpartner.ch
 pxucdn.com
@@ -11729,6 +11774,7 @@ rcsmetrics.it
 rcsobjects.it
 rd.google.com
 rd.gt
+rd.linksynergy.com
 rdcdn.com
 rddywd.com
 rdg.facebook.com
@@ -12147,6 +12193,7 @@ s.wsj.net
 s0.2mdn.net
 s0.wp.com
 s1-iad-ww.cf.videorolls.row.aiv-cdn.net
+s1.artsai.com
 s1.wp.com
 s2-iad-ww.cf.videorolls.row.aiv-cdn.net
 s2.googleusercontent.com
@@ -13864,6 +13911,7 @@ teams.microsoft.us
 teasoftware.com
 teathemes.net
 tech426.com
+techbargains.com
 techlab-cdn.com
 techmaniak.pl
 technical-service.net
@@ -13899,6 +13947,7 @@ temails.com
 tempestpremium.com
 tend.io
 tendertest.com
+tentaculos.net
 terbit21.cool
 tercept.com
 terminus.services
@@ -14085,6 +14134,7 @@ togetherjs.com
 toi-125b.com
 toimg.xyz
 tokyoghoulre.com
+toolbox.com
 tools.goo gle.com
 tools.google.com
 tools.ietf.org
@@ -14132,6 +14182,7 @@ tr.albertonne.com
 tr.facebook.com
 tr.fatmedia.io
 tr.google.com
+trac.mediaiqdigital.com
 tracdelight.io
 trace.mediago.io
 tracead.com
@@ -14449,6 +14500,7 @@ ug.google.com
 ugc.bazaarvoice.com
 ugdturner.com
 ughhimtoy.com
+ugo.com
 uh.google.com
 ui-avatars.com
 ui-portal.de
@@ -14916,6 +14968,7 @@ voicefive.com
 voicesinai.com
 voicestar.com
 voicevegetable.com
+voip-news.com
 voissa.fr
 volkswagen.com
 voltn.com
@@ -16391,6 +16444,7 @@ www.storygize.net
 www.summerhamster.com
 www.supersonic.com
 www.supersonicads.com
+www.swpsvc.com
 www.sync.tv
 www.taboola.com
 www.taggstar.com
@@ -16412,6 +16466,7 @@ www.targetspot.com
 www.tarrobads.com
 www.td3x.com
 www.teads.com
+www.tentaculos.net
 www.terracotta.com
 www.terracotta.org
 www.thefacebook.com
