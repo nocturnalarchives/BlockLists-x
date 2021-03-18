@@ -1641,6 +1641,7 @@ akahost.net
 akamai.net
 akamaihd.net
 akamaized.net
+akravitz.com
 akstat.io
 akubebas.com
 al.google.com
@@ -15807,6 +15808,7 @@ www.agentanalytics.com
 www.airship.com
 www.aiservice.vn
 www.ajmc.com
+www.akravitz.com
 www.alexa.com
 www.allstarmediagroup.com
 www.allyes.com
@@ -16213,6 +16215,7 @@ www.ibtracking.com
 www.indexww.com
 www.indigitall.com
 www.infobae.com
+www.infopicked.com
 www.inlinkz.com
 www.inloco.ai
 www.inlocoforapps.com
