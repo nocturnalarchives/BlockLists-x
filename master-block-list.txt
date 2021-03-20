@@ -411,6 +411,7 @@ a.bingparachute.com
 a.convertkit.com
 a.doubleclick.net
 a.family.ns.dnslify.com
+a.klaviyo.com
 a.mailmunch.co
 a.moatads.com
 a.ns.dnslify.com
@@ -1706,6 +1707,7 @@ alphavantage.co
 alphavantage.co.herokudns.com
 alphonso.tv
 alt.com
+alt.idgesg.net
 altamob.com
 altbalaji.com
 altbeacon.org
@@ -2181,6 +2183,7 @@ apxprogrammatic.com
 aq.google.com
 aquaplatform.com
 aquaticowl.com
+aquifi.com
 ar-ar.facebook.com
 ar-ar.fr-fr.es-es.prod.facebook.com
 ar-ar.vn-ni.connect.facebook.com
@@ -2246,6 +2249,7 @@ assets.adobedtm.com
 assets.bounceexchange.com
 assets.calendly.com
 assets.context.ly
+assets.d2iq.com
 assets.guim.co.uk
 assets.juicer.io
 assets.newsmaxwidget.com
@@ -3889,6 +3893,7 @@ beampulse.com
 beanstalkdata.com
 beap.bc.yahoo.com
 beap.gemini.yahoo.com
+beartoothband.com
 bebi.com
 bedsbreath.com
 beeashale.club
@@ -4209,6 +4214,7 @@ brcdn.com
 breakfastboat.com
 brealtime.co
 brealtime.com
+breezy.hr
 breitbartproduction.disqus.com
 breuni.de
 brickandmobile.com
@@ -4486,6 +4492,7 @@ cdc.112.2o7.net
 cdc.gov
 cdg2.fbcdn.net
 cdglb.com
+cdn-146.privacy-mgmt.com
 cdn-adtrue.com
 cdn-anvilcms.net
 cdn-apple.com
@@ -4504,6 +4511,7 @@ cdn-sp-gcs.air.tv
 cdn-spurit.com
 cdn-us-doubleverify.com
 cdn.9xbud.com
+cdn.adsafeprotected.com
 cdn.anvato.net
 cdn.apple-mapkit.com
 cdn.arkoselabs.com
@@ -4994,6 +5002,7 @@ cmgdigital.com
 cmp.dmgmediaprivacy.co.uk
 cmp.oath.com
 cmpnet.com
+cmpv2.csoonline.com
 cmrdr.com
 cms.ms.akadns.net
 cn.google.com
@@ -5348,6 +5357,7 @@ csell.co
 csf.facebook.com
 cshi.ru
 csi.gstatic.com
+csoonline.com
 cssrvsync.com
 cszz.ru
 ct-m-fbx.fbsbx.com
@@ -5379,6 +5389,7 @@ custhelp.com
 custobar.com
 custom.bnc.lt
 customer.api.drift.com
+customer.cludo.com
 customer.io
 customerevents.netflix.com
 custora.com
@@ -5423,6 +5434,7 @@ d.vvv.facebook.com
 d2-apps.net
 d2.sc.omtrdc.net
 d2cmedia.ca
+d2iq.com
 d3js.org
 d41.co
 da-dk.facebook.com
@@ -5990,6 +6002,7 @@ ecal.com
 ecbsn.com
 eccmp.com
 ecdn.analysis.fi
+echodyne.com
 ecitizen.gov.sg
 eclick.vn
 eclickz.com
@@ -6615,6 +6628,7 @@ engage.co
 engage.dickssportinggoods.com
 engagebdr.com
 engageya.com
+engagio.com
 engine.addroplet.com
 engine.adzerk.net
 engine.bannersolution.net
@@ -6646,6 +6660,7 @@ ep.google.com
 epeex.com
 epica.ai
 epimg.net
+epiqsolutions.com
 episerver.net
 epnclick.ru
 epoch.cloud
@@ -6725,6 +6740,8 @@ events.browsiprod.com
 events.mapbox.com
 events.tremorhub.com
 events.whisk.com
+everactive-media.s3.amazonaws.com
+everactive.com
 everestjs.net
 everesttech.net
 evergage.com
@@ -7655,6 +7672,8 @@ gostats.com
 gostats.org
 gotchosen.com
 gotechnology.io
+gotenna.breezy.hr
+gotenna.com
 gothamads.com
 gotomeeting.com
 gotpoem.com
@@ -8483,6 +8502,7 @@ icon.s.click.aliexpress.com
 iconfinder.com
 iconify.design
 iconnode.com
+icons8.com
 iconscout.com
 iconstore.co
 icontact.com
@@ -8498,6 +8518,8 @@ identitymgmt.net
 idevaffiliate.com
 idevdesign.net
 idg.zone
+idge.staticworld.net
+idgesg.net
 idio.co
 idlcloud.com
 idmnet.pl
@@ -8750,6 +8772,7 @@ internetdefenseleague.org
 internetstores.de
 interquest.com
 intljs.rmtag.com
+intrado.com
 intuitext.ro
 intuitsolutions-apps.net
 inventionpassenger.com
@@ -9130,6 +9153,7 @@ keymailer.co
 keymedia.com
 keymetric.net
 keys.ws.sonos.com
+keyssa.com
 keywee.co
 keywordblocks.co
 kf.google.com
@@ -9238,6 +9262,7 @@ kx1.co
 kxcdn.com
 ky.google.com
 kyivstar.m.facebook.com
+kymetacorp.com
 kyruus.com
 kz.google.com
 l.admedo.com
@@ -9538,6 +9563,7 @@ longinglettuce.com
 lookaside.facebook.com
 lookbookhq.com
 looking4fuck.com
+lookout.com
 loop11.com
 loopa.net.au
 loopanalytics.com
@@ -9774,6 +9800,7 @@ maxim.pub
 maxiporn.com
 maxmind.com
 maxporncomic.com
+maxst.icons8.com
 maxymiser.net
 mb-srv.com
 mb.google.com
@@ -9911,6 +9938,7 @@ meredithcorp.io
 meremark.com
 merklesearch.com
 mes4.gtsgapps.com
+mesosphere.com
 messagenovice.com
 messenger.com
 messiupal.com
@@ -9962,6 +9990,7 @@ microad.co.jp
 microad.jp
 microadinc.com
 microcontenidos.com
+microfocus.com
 microsites.nielseniq.com
 microsmallcap.com
 microsoft.com
@@ -10674,6 +10703,7 @@ okt.to
 okta.com
 oktacdn.com
 oktopost.com
+ol-pneubotics.squarespace.com
 ol.google.com
 ola.godaddy.com
 olark.com
@@ -10833,6 +10863,7 @@ oracleoutsourcing.com
 orangeclickmedia.com
 orangeoperation.com
 orb.ee
+orbitalinsight.com
 orbitz.com
 orcart.facebook.com
 ord30s26-in-f10.1e100.net
@@ -10870,6 +10901,7 @@ origincache-xx-shv-09-frc3.fbcdn.net
 origincache-xx-shv-09-prn2.fbcdn.net
 origincache-xx-shv-13-prn1.fbcdn.net
 originplatform.com
+orionlabs.io
 orjzy.com
 ork2.net
 orp.fluct.jp
@@ -10881,6 +10913,7 @@ osmnames.org
 osnova.io
 ot.google.com
 otaserve.net
+otherlab.com
 otherlevels.com
 others-cdn.com
 otm-r.com
@@ -11375,6 +11408,7 @@ prisjakt.nu
 prismamedia.com
 prismic.io
 privacy-center.org
+privacy-mgmt.com
 privacy-policy.truste.com
 privacy.britepool.com
 privacygenerator.com
@@ -12052,6 +12086,7 @@ roadid.com
 robertdegroot.nl
 robspabah.com
 rocketcdn.me
+rocketlabusa.com
 rocketpush.net
 rocketreach.co
 rocketstars.online
@@ -12196,6 +12231,7 @@ s0.wp.com
 s1-iad-ww.cf.videorolls.row.aiv-cdn.net
 s1.artsai.com
 s1.wp.com
+s1433442357.t.eloqua.com
 s2-iad-ww.cf.videorolls.row.aiv-cdn.net
 s2.googleusercontent.com
 s2.wp.com
@@ -13526,6 +13562,7 @@ static.fsea1-1.fna.fbcdn.net
 static.gc.apple.com
 static.hotjar.com
 static.kqzyfj.com
+static.olark.com
 static.parsely.com
 static.scroll.com
 static.siege-amazon.com
@@ -13548,6 +13585,7 @@ statics.life
 staticsfly.com
 staticstuff.net
 staticwars.com
+staticworld.net
 staticxx.facebook.com
 statistcdn.com
 statok.ru
@@ -13782,6 +13820,7 @@ t.appsflyer.com
 t.bingparachute.com
 t.crittercism.com
 t.doubleclick.net
+t.eloqua.com
 t.moatads.com
 t.myvisualiq.net
 t.ntv.io
@@ -15099,6 +15138,7 @@ weather.com
 weatherforyou.net
 weatherwidget.io
 web-2-tel.com
+web-analytics.engagio.com
 web-z.net
 web.beta.facebook.com
 web.dev
@@ -15939,6 +15979,7 @@ www.appular.com
 www.appwifi.com
 www.apsalar.com
 www.apxadtracking.net
+www.aquifi.com
 www.areametrics.com
 www.areyouahuman.com
 www.aroundmeapi.com
@@ -16072,6 +16113,7 @@ www.clickyab.com
 www.clixsense.com
 www.clk1004.com
 www.cloudapp.net
+www.cludo.com
 www.cnevids.com
 www.co.il
 www.co.in
@@ -16100,7 +16142,9 @@ www.conversantmedia.com
 www.creative-mobile.com
 www.criteo.com
 www.cryptonmobile.com
+www.csoonline.com
 www.d2cmedia.ca
+www.d2iq.com
 www.deluxe.com
 www.demdex.net
 www.departapp.com
@@ -16120,18 +16164,23 @@ www.dynad.net
 www.ea.com
 www.easy-ads.com
 www.easyads.bg
+www.echodyne.com
 www.eclickz.com
 www.eero.com
 www.electronic.us
+www.eloqua.com
 www.emediate.se
 www.emoshape.com
 www.emxdigital.com
 www.engage.co
 www.engagebdr.com
 www.engageya.com
+www.engagio.com
 www.enhance.co
 www.ensighten.com
+www.epiqsolutions.com
 www.eremeev-group.com
+www.everactive.com
 www.example.com
 www.example.net
 www.example.org
@@ -16168,6 +16217,7 @@ www.glassboxdigital.com
 www.glispa.com
 www.globaladmedia.com
 www.globalismedia.com
+www.go-mpulse.net
 www.goldspotmedia.com
 www.goodadvert.ru
 www.gooddata.com
@@ -16182,6 +16232,7 @@ www.googleadservices.ru
 www.googleadsserving.cn
 www.googletagmanager.com
 www.googletagservices.com
+www.gotenna.com
 www.gothamads.com
 www.gov.teams.microsoft.us
 www.graph.facebook.com
@@ -16208,10 +16259,13 @@ www.hexagon-analytics.com
 www.hgads.net
 www.himediads.com
 www.howdoesin.net
+www.hs-scripts.com
 www.hswstatic.com
 www.i.matheranalytics.com
 www.iadvize.com
 www.ibtracking.com
+www.icons8.com
+www.idgesg.net
 www.indexww.com
 www.indigitall.com
 www.infobae.com
@@ -16223,6 +16277,9 @@ www.inskinad.com
 www.instagram.com
 www.installtracker.com
 www.instinctiveads.com
+www.intrado.com
+www.ip-api.com
+www.ipify.org
 www.ipstack.com
 www.itracker360.com
 www.ivi.ru
@@ -16232,12 +16289,15 @@ www.juiceadv.com
 www.jwplayer.com
 www.kds.media
 www.keymedia.com
+www.keyssa.com
 www.kingoapp.com
 www.kissmetrics.com
+www.klaviyo.com
 www.knotch-cdn.com
 www.kochava.com
 www.krxd.net
 www.kwizzad.com
+www.kymetacorp.com
 www.leadbit.com
 www.leads.su
 www.letemsvetemapplem.eu
@@ -16248,6 +16308,7 @@ www.lithub.com
 www.livehindustan.com
 www.localmediabuying.com
 www.login.facebook.com
+www.lookout.com
 www.lunarads.com
 www.madadsmedia.com
 www.madserve.org
@@ -16258,6 +16319,7 @@ www.mangoads.vn
 www.mangomediaads.com
 www.mantisadnetwork.com
 www.manychat.com
+www.mapbox.com
 www.marsads.com
 www.maven.io
 www.media-b.jp
@@ -16277,8 +16339,10 @@ www.mediaz.vn
 www.megapopads.com
 www.mellowads.com
 www.merchantadvantage.com
+www.mesosphere.com
 www.metalocator.com
 www.metric.al
+www.microfocus.com
 www.midnightclicking.com
 www.mixadvert.com
 www.moatads.com
@@ -16321,6 +16385,7 @@ www.o0bc.com
 www.oath.com
 www.offerstrack.net
 www.ojrq.net
+www.olark.com
 www.omnycontent.com
 www.onesignal.com
 www.online-adnetwork.com
@@ -16335,8 +16400,11 @@ www.optimizely.com
 www.optinmonster.com
 www.optinmonster.test
 www.optmnstr.com
+www.orbitalinsight.com
 www.org.vn
+www.orionlabs.io
 www.osnova.io
+www.otherlab.com
 www.out-there-media.com
 www.outbrain.com
 www.pardot.com
@@ -16344,6 +16412,7 @@ www.passivemonetizer.com
 www.pay-click.ru
 www.pdk.video.snidigital.com
 www.performcb.com
+www.permutive.com
 www.persona.ly
 www.personalics.com
 www.personaly.click
@@ -16367,6 +16436,7 @@ www.posttv.com
 www.powr.io
 www.prebid.org
 www.pricespider.com
+www.privacy-mgmt.com
 www.privy.com
 www.prod.facebook.com
 www.propellerads.com
@@ -16393,6 +16463,7 @@ www.remarketingpixel.com
 www.reward2spot.com
 www.rhythmnewmedia.com
 www.rkdms.com
+www.rocketlabusa.com
 www.rogersmedia.com
 www.roosterfirework.com
 www.rubiconproject.com
@@ -16442,8 +16513,10 @@ www.stat24.com
 www.statcounter.com
 www.static.ak.connect.facebook.com
 www.static.ak.fbcdn.net
+www.staticworld.net
 www.steelhouse.com
 www.storygize.net
+www.subscribers.com
 www.summerhamster.com
 www.supersonic.com
 www.supersonicads.com
