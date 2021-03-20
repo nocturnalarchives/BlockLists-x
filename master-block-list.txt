@@ -1,3 +1,4 @@
+
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
@@ -34,6 +35,7 @@
 1.client-channel.google.com
 1.gravatar.com
 1.taskassist-pa.clients.google.com
+1.tl813.com
 10.client-channel.google.com
 10.gravatar.com
 10.taskassist-pa.clients.google.com
@@ -1922,6 +1924,8 @@ ankama.com
 anl-services.com
 anltics.com
 annoyedfifth.com
+anomali.cdn.rackfoundry.net
+anomali.com
 anontop.xyz
 anquan.org
 ansira.com
@@ -2080,11 +2084,13 @@ appfireworks.com
 appflood.com
 appgrowth.com
 apphb.com
+apphq.co
 appia.com
 appier.com
 appier.net
 appintop.com
 appjolt.com
+appjustable.com
 applanga.com
 apple-dns.net
 apple-mapkit.com
@@ -4443,6 +4449,7 @@ carpentercomparison.com
 carrierzone.com
 carscannon.com
 carsonline.tv
+cart-go.apphq.co
 cartera.com
 cartfulsolutions.com
 cartkit.com
@@ -4563,6 +4570,7 @@ cdn.petametrics.com
 cdn.printfriendly.com
 cdn.prismic.io
 cdn.quilljs.com
+cdn.rackfoundry.net
 cdn.ravenjs.com
 cdn.rebel.ai
 cdn.registerdisney.go.com
@@ -4779,6 +4787,7 @@ cleanmediaads.com
 clear.link
 clearbit.com
 clearcomb.com
+clearista.com
 clearsale.com.br
 cleeng.com
 clerk.io
@@ -7299,6 +7308,7 @@ fuckandcdn.com
 fuckthat.xyz
 fuelmedia.io
 fukugan.com
+fullcircleinsights.com
 fullstory.com
 fulltv.com.ar
 fulltvnetwork.com
@@ -11438,6 +11448,7 @@ producer-api.appspot.com
 production-cmp.isgprivacy.cbsi.com
 production-event-plugin-herokuapp-com.global.ssl.fastly.net
 production-evvnt-plugin-herokuapp-com.global.ssl.fastly.net
+productreviews.shopifycdn.com
 profile-a-atl.xx.fbcdn.net
 profile-a-dfw.xx.fbcdn.net
 profile-a-iad.xx.fbcdn.net
@@ -11756,6 +11767,7 @@ raagalahari.com
 rabbits.webcam
 rabbitsreviews.com
 rackcdn.com
+rackfoundry.net
 radarsubmissions.apple.com
 radfellas.com
 radiantmediatechs.com
@@ -12666,6 +12678,7 @@ secure-us.imrworldwide.com
 secure-us.imrworldwide.com.fritz.com
 secure.actblue.com
 secure.adnxs.com
+secure.apps.shappify.com
 secure.espn.com
 secure.facebook.com
 secure.fanboy.co.nz
@@ -12861,6 +12874,7 @@ shopiapps.in
 shopify.com
 shopifyapps.com
 shopifycdn.com
+shopifyorderlimits.s3.amazonaws.com
 shopifysvc.com
 shopmsg.me
 shopnetic.com
@@ -13456,6 +13470,7 @@ sstats.vizergy.com
 ssum-sec.casalemedia.com
 ssum.casalemedia.com
 st-hatena.com
+st.fullcircleinsights.com
 st.google.com
 stack-sonar.com
 stackadapt.com
@@ -13561,6 +13576,7 @@ static.fdel11-1.fna.fbcdn.net
 static.fsea1-1.fna.fbcdn.net
 static.gc.apple.com
 static.hotjar.com
+static.klaviyo.com
 static.kqzyfj.com
 static.olark.com
 static.parsely.com
@@ -14111,6 +14127,8 @@ tiendeo.com
 tiktok.com
 tiktokcdn.com
 tildacdn.com
+timbr.ai
+timbr.io
 timbrasil.m.facebook.com
 time-ios.g.aaplimg.com
 time.is
@@ -14145,6 +14163,7 @@ tk.google.com
 tkqlhce.com
 tl-ph.facebook.com
 tl.google.com
+tl813.com
 tldw.me
 tlx.3lift.com
 tm-awx.com
@@ -14285,6 +14304,7 @@ transifex.com
 transistor.fm
 transmatico.com
 transparencycdn.org
+transvoyant.com
 trappush.com
 traq.li
 travel-assets.com
@@ -14423,6 +14443,7 @@ trvdp.com
 trvl-px.com
 trw12.com
 trwl1.com
+trxsystems.com
 tryinteract.com
 trynews.me
 ts-syndicate.com
@@ -15011,6 +15032,7 @@ voicevegetable.com
 voip-news.com
 voissa.fr
 volkswagen.com
+voltaiq.com
 voltn.com
 volument.com
 volusia.k12.fl.us
@@ -15408,6 +15430,7 @@ ws.audioeye.com
 ws.google.com
 ws.sessioncam.com
 ws.tjournal.ru
+ws.zoominfo.com
 wsbnk.com
 wsf-e-loreal.com
 wshifen.com
@@ -15882,6 +15905,7 @@ www.android-root-tool.com
 www.androworks.org
 www.aniview.com
 www.anl-services.com
+www.anomali.com
 www.anquan.org
 www.answerscloud.com
 www.anthill.vn
@@ -15927,11 +15951,13 @@ www.appfireworks.com
 www.appflood.com
 www.appgrowth.com
 www.apphb.com
+www.apphq.co
 www.appia.com
 www.appier.com
 www.appier.net
 www.appintop.com
 www.appjolt.com
+www.appjustable.com
 www.applanga.com
 www.appleiphonecell.com
 www.applicaster.com
@@ -16098,6 +16124,7 @@ www.cityads.com
 www.cityads.ru
 www.ckeditor.com
 www.clarity.ms
+www.clearista.com
 www.cleverads.vn
 www.clickability.com
 www.clickagy.com
@@ -16203,6 +16230,7 @@ www.foxmetrics.com
 www.fqtag.com
 www.fractionalmedia.com
 www.frame.ly
+www.fullcircleinsights.com
 www.fwmrm.net
 www.game-insight.com
 www.gameanalytics.com
@@ -16450,6 +16478,7 @@ www.qservz.com
 www.qualtrics.com
 www.quantcast.com
 www.r7mediar.com
+www.rackfoundry.net
 www.radiusnetworks.com
 www.rakutenadvertising.com
 www.realitytitbit.com
@@ -16486,6 +16515,7 @@ www.serve-sys.com
 www.servmetric.com
 www.shareaholic.net
 www.sharethrough.com
+www.shop.app
 www.shopbop.com
 www.silvermob.com
 www.simpleanalytics.com
@@ -16550,10 +16580,13 @@ www.theplatform.com
 www.thescore.com
 www.thetrackernetwork.com
 www.thinkers360.com
+www.timbr.ai
+www.timbr.io
 www.tinypass.com
 www.tiqcdn.com
 www.tjournal.ru
 www.tkqlhce.com
+www.tl813.com
 www.tmj4.com
 www.tns-counter.ru
 www.toroadvertising.com
@@ -16566,9 +16599,12 @@ www.trafficbroker.eu
 www.traffichaus.com
 www.traffichunt.com
 www.trafficjunky.com
+www.transvoyant.com
 www.trendage.com
 www.trenddigital.vn
 www.trendmd.com
+www.tribl.io
+www.trxsystems.com
 www.u-ad.info
 www.uberads.com
 www.ubermedia.com
@@ -16592,6 +16628,7 @@ www.vertoanalytics.com
 www.vietbuzzad.com
 www.vilynx.com
 www.voicesinai.com
+www.voltaiq.com
 www.voodoo-ads.io
 www.vrtzads.com
 www.vserv.com
@@ -16618,6 +16655,7 @@ www.zestads.com
 www.zignallabs.com
 www.zimad.com
 www.zoomanalytics.co
+www.zoominfo.com
 www2.facebook.com
 www2.linkprice.com
 wwww.facebook.com
@@ -17226,6 +17264,7 @@ zonos.com
 zontera.com
 zoo.group
 zoomanalytics.co
+zoominfo.com
 zooomyapps.com
 zooplus.io
 zooplus.net
