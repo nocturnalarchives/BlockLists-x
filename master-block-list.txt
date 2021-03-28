@@ -17309,3 +17309,13 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+gsas.apple.com
+gsa.apple.com
+humb.apple.com
+xp.apple.com
+smoot.apple.com
+mesu.apple.com
+api-glb-dub.smoot.apple.com
+smoot.apple.com
+iadsdk.apple.com
+sa.apple.com
