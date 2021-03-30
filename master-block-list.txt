@@ -1975,6 +1975,7 @@ api-06.com
 api-07.com
 api-08.com
 api-2-0.spot.im
+api-glb-dub.smoot.apple.com
 api-mg2.db-ip.com
 api-migration.weather-perf.akadns.net
 api-private.atlassian.com
@@ -7764,7 +7765,9 @@ gs-loc.com.akadns.net
 gs-loc.ls-apple.com.akadns.net
 gs-loc.origin-apple.com
 gs.google.com
+gsa.apple.com
 gsadserver.de
+gsas.apple.com
 gse.io
 gsecondscreen.com
 gsitrix.com
@@ -8431,6 +8434,7 @@ hull.io
 hullapp.io
 hulu-lr.hb-api.omtrdc.net
 humanautomation.ai
+humb.apple.com
 humblebundle.com
 humdrumhat.com
 hunu.m.facebook.com
@@ -8488,6 +8492,7 @@ i2i.jp
 ia.google.com
 ia.media-imdb.com
 iabusprivacy.pmc.com
+iadsdk.apple.com
 iadvize.com
 ian029dkl3osl930sian.club
 iasds01.com
@@ -12268,6 +12273,7 @@ s7d2.scene7.com
 s99i.org
 sa-as.com
 sa-tech.de
+sa.apple.com
 sa.google.com
 saambaa.com
 saas.yellowblue.io
@@ -17309,13 +17315,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-gsas.apple.com
-gsa.apple.com
-humb.apple.com
-xp.apple.com
-smoot.apple.com
-mesu.apple.com
-api-glb-dub.smoot.apple.com
-smoot.apple.com
-iadsdk.apple.com
-sa.apple.com
