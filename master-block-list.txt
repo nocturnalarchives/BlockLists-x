@@ -17315,3 +17315,7 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+acme-v02.api.letsencrypt.org
+cognito-idp.us-east-1.amazonaws.com
+api.letsencrypt.org
+api.pwnedpasswords.com
