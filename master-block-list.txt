@@ -17326,3 +17326,5 @@ codenotary.io
 api.codenotary.io
 main.codenotary.io
 analytics-api.home-assistant.io
+www.codenotary.com
+codenotary.com
