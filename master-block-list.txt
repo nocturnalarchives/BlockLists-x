@@ -17319,3 +17319,10 @@ acme-v02.api.letsencrypt.org
 cognito-idp.us-east-1.amazonaws.com
 api.letsencrypt.org
 api.pwnedpasswords.com
+r3.o.lencr.org
+o.lencr.org
+lencr.org
+codenotary.io
+api.codenotary.io
+main.codenotary.io
+analytics-api.home-assistant.io
