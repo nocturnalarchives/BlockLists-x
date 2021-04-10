@@ -17328,3 +17328,12 @@ main.codenotary.io
 analytics-api.home-assistant.io
 www.codenotary.com
 codenotary.com
+api.condenast.io
+condenast.io
+condenast.coral.coralproject.net
+coral.coralproject.net
+coralproject.net
+fcmtoken.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+edgedl.gvt1.com
+gvt1.com
