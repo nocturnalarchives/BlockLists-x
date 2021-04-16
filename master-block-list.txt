@@ -525,6 +525,7 @@ acexedge.com
 achcdn.com
 acidpigs.com
 acint.net
+acme-v02.api.letsencrypt.org
 acotedemoi.com
 acpm.fr
 acq.io
@@ -1774,6 +1775,7 @@ analitits.com
 analysis.fi
 analysys.cn
 analytiall.com
+analytics-api.home-assistant.io
 analytics-egain.com
 analytics-iq.com
 analytics-sm.com
@@ -1992,6 +1994,8 @@ api.choice.microsoft.com
 api.circularhub.com
 api.cloudapp.net
 api.cnn.io
+api.codenotary.io
+api.condenast.io
 api.content-ad.net
 api.drift.com
 api.facebook.com
@@ -2002,6 +2006,7 @@ api.ipify.org
 api.kochava.com
 api.lbry.com
 api.lbry.tv
+api.letsencrypt.org
 api.levelaccess.net
 api.livechatinc.com
 api.nextgen.guardianapps.co.uk
@@ -2020,13 +2025,16 @@ api.rewards.brave.com
 api.rollbar.com
 api.sail-personalize.com
 api.smoot.apple.com
+api.tiles.mapbox.com
 api.time.com
 api.userleap.com
 api.verizon.com
 api.vuukle.com
 api.weather.com
 api.weforum.org
+api1.branch.io
 api2.branch.io
+api3.branch.io
 api64.com
 apia.com.au
 apicit.net
@@ -2067,6 +2075,7 @@ appbrain.com
 appcast.io
 appcelerator.com
 appcelerator.net
+appcenter.ms
 appchair.com
 appchina.com
 appclick.co
@@ -2345,6 +2354,7 @@ ausgezeichnet.org
 auth.adobe.com
 auth.qat2.vigilantesdopeso.com.br
 auth.qat2.weightwatchers.ch
+auth.split.io
 auth.viktvaktarna.se
 auth.voxmedia.com
 auth0.com
@@ -4522,6 +4532,7 @@ cdn-us-doubleverify.com
 cdn.9xbud.com
 cdn.adsafeprotected.com
 cdn.anvato.net
+cdn.appdomain.cloud
 cdn.apple-mapkit.com
 cdn.arkoselabs.com
 cdn.bibblio.org
@@ -4603,6 +4614,7 @@ cdn4dd.com
 cdn7.rocks
 cdn77.org
 cdnads.com
+cdnakasyoyyjju7e.cdn.appdomain.cloud
 cdnaz.win
 cdnbase.com
 cdnbm.net
@@ -4787,10 +4799,15 @@ cld.sndimg.com
 cld1.staticsfly.com
 clean.gg
 cleanmediaads.com
+clear-alternate.app.link
+clear-website.prismic.io
+clear.app.link
 clear.link
+clear.splunkcloudgc.com
 clearbit.com
 clearcomb.com
 clearista.com
+clearme.com
 clearsale.com.br
 cleeng.com
 clerk.io
@@ -5052,12 +5069,16 @@ codeblackbelt.com
 codefund.app
 codefund.io
 codeinero.net
+codenotary.com
+codenotary.io
 codepen.io
+codepush.appcenter.ms
 codigo.se
 codingar.com
 cognitiv.ai
 cognitivlabs.com
 cognito-identity.us-east-1.amazonaws.com
+cognito-idp.us-east-1.amazonaws.com
 cogocast.net
 coherentpath.com
 cohesionapps.com
@@ -5136,11 +5157,14 @@ concert.io
 concertads-configs.vox-cdn.com
 concordmonitor-nh-pw.newsmemory.com
 conde.io
+condenast.coral.coralproject.net
+condenast.io
 condenastdigital.com
 conditioncrush.com
 conductrics.com
 conectadosbancogalicia.m.facebook.com
 confiant-integrations.global.ssl.fastly.net
+config.emb-api.com
 config.gorgias.io
 config.mapbox.com
 configuration-vending.service.amazonsilk.com
@@ -5239,6 +5263,7 @@ convertflow.co
 convertful.com
 convertkit.com
 convertlanguage.com
+conveyor.nbc.co
 convio.net
 conviva.com
 cookie-cdn.cookiepro.com
@@ -5265,6 +5290,8 @@ copycarpenter.com
 copypoison.com
 copyrightaccesscontrols.com
 coral-talk.ext.nile.works
+coral.coralproject.net
+coralproject.net
 cordial.io
 cordlessmedia.com
 core.connatix.com
@@ -5484,6 +5511,7 @@ dashjs.org
 data-dynamic.net
 data.api.cnn.io
 data.cnn.com
+data.emb-api.com
 data.gc.apple.com
 datacamp.com
 dataconnector.corp.google.com
@@ -5977,6 +6005,7 @@ e.teads.tv
 e.udkcjr.com
 e.usabilla.com
 e1nn.com
+e28226.dsce16.akamaiedge.net
 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
 ea-dns.rubyfish.cn
 ea.com
@@ -6328,6 +6357,7 @@ edge-video-shv-02-dft4.fbcdn.net
 edge-video-shv-02-sin6.fbcdn.net
 edge.quantserve.com
 edgecastcdn.net
+edgedl.gvt1.com
 edgefonts.net
 edgekey.net
 edgeme.sh
@@ -6434,6 +6464,7 @@ emailcenteruk.com
 emailoctopus.com
 emarbox.com
 ematicsolutions.com
+emb-api.com
 embed-fastly.wistia.com
 embed-ssl.wistia.com
 embed.acuityscheduling.com
@@ -6670,6 +6701,7 @@ enviousthread.com
 eo.google.com
 eondunpea.com
 ep.google.com
+epass.ny.gov
 epeex.com
 epica.ai
 epimg.net
@@ -7011,6 +7043,7 @@ fbstatic-a.akamaihd.net
 fburl.com
 fc.google.com
 fc2.com
+fcmtoken.googleapis.com
 fctablesmedia.com
 fd.google.com
 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
@@ -7084,6 +7117,7 @@ fireapps.vn
 firebase-settings.crashlytics.com
 firebase.com
 firebaseapp.com
+firebaseperusertopics-pa.googleapis.com
 firebrandtech.com
 firecall.tv
 firecast.tv
@@ -8247,6 +8281,7 @@ health.apple.com.akadns.com
 health.origin-apple.com
 healthdirect.org.au
 healthgrades.com
+healthpass01.wh-hpass.watson-health.ibm.com
 heapanalytics.com
 hearst3pcc.com
 hearstapps.com
@@ -8411,6 +8446,7 @@ htdvt.com
 htlb.casalemedia.com
 htlbid.com
 html.it
+http-inputs.clear.splunkcloudgc.com
 htvapps.com
 hu-hu.facebook.com
 hu.google.com
@@ -8813,6 +8849,7 @@ iol.it
 iolam.it
 ionicframework.com
 iono.fm
+iosapps.itunes.g.aaplimg.com
 iot.us-east-1.amazonaws.com
 iowa.gov
 ip-185-177-93-166.ah-server.com
@@ -9720,6 +9757,7 @@ mailing.wideopenmediagroup.com
 mailjet.com
 maillist-manage.com
 mailmunch.co
+main.codenotary.io
 mainadv.com
 mainetodaymedia.com
 makaira.io
@@ -10093,7 +10131,9 @@ mobiads.ru
 mobify.com
 mobify.net
 mobile-click.biz
+mobile-collector.newrelic.com
 mobile.beta.facebook.com
+mobile.clearme.com
 mobile.facebook.com
 mobile.pipe.aria.microsoft.com
 mobilead.vn
@@ -10625,6 +10665,7 @@ nxstrib.com
 nxsttv.com
 nxtck.com
 ny.google.com
+ny.gov
 nyahentai.pw
 nyc3.cdn.digitaloceanspaces.com
 nycmny.fios.verizon.net
@@ -10993,6 +11034,7 @@ p0.com
 p1.zemanta.com
 p24.hu
 p26d67164-93a2-4cc6-8556-3e08315ae9ce-54-244-84-195.fastcast.semfs.engsvc.go.com
+p28-quota.icloud.com
 p2r14.com
 pa-in.facebook.com
 pa.google.com
@@ -12130,6 +12172,7 @@ roofrelation.com
 roomkey.com
 roomvo.com
 roosterfirework.com
+rootca1.amazontrust.com
 rootclick.biz
 rootsrated.com
 roriruo.com
@@ -12644,6 +12687,7 @@ sdhfbvd.com
 sdk.beemray.com
 sdk.sharethrough.com
 sdk.snapkit.com
+sdk.split.io
 sdkbox.com
 sdkfjxjertertry.com
 sdns.233py.com
@@ -13395,7 +13439,9 @@ spir.hit.gemius.pl
 spirebaboon.com
 spkt.io
 splice.amlg.io
+split.io
 splunk.gc.apple.com
+splunkcloudgc.com
 spokenlayer.com
 spokenlayer.net
 spokeoaffiliates.com
@@ -13702,6 +13748,7 @@ stream.ne.jp
 stream.playbuzz.com
 streamamp.tech
 streaming-graph.facebook.com
+streaming.split.io
 streamingddigital.com
 streamrail.com
 streamrail.net
@@ -14138,6 +14185,7 @@ tiendeo.com
 tiktok.com
 tiktokcdn.com
 tildacdn.com
+tiles.mapbox.com
 timbr.ai
 timbr.io
 timbrasil.m.facebook.com
@@ -14179,6 +14227,7 @@ tldw.me
 tlx.3lift.com
 tm-awx.com
 tm.google.com
+tmalnrsc.clearme.com
 tmbi.com
 tmdb.org
 tmgrup.com.tr
@@ -14654,6 +14703,7 @@ upaffiliate.io
 upapi.net
 updatemybrowser.org
 updates-http.cdn-apple.com
+updates.amazon.com
 uplandsoftware.com
 uplift-platform.com
 uplinkly-static.com
@@ -15140,6 +15190,7 @@ wasp-182b.com
 watch-series.co
 watchdog.energized.pro
 wateryvan.com
+watson-health.ibm.com
 waust.at
 waws-prod-bn1-031.cloudapp.net
 waws-prod-dm1-155.cloudapp.net
@@ -15254,6 +15305,7 @@ wf.google.com
 wfcdn.de
 wg.google.com
 wgcdn.net
+wh-hpass.watson-health.ibm.com
 wh.google.com
 whalecashads.com
 whatcounts.com
@@ -16138,6 +16190,7 @@ www.cityads.ru
 www.ckeditor.com
 www.clarity.ms
 www.clearista.com
+www.clearme.com
 www.cleverads.vn
 www.clickability.com
 www.clickagy.com
@@ -16161,6 +16214,7 @@ www.co.jp
 www.co.kr
 www.co.nz
 www.co.uk
+www.codenotary.com
 www.collab.apps.mil
 www.com.br
 www.com.cn
@@ -16423,6 +16477,7 @@ www.nr-data.net
 www.ntv.io
 www.nuviad.com
 www.nxcli.net
+www.ny.gov
 www.o0bc.com
 www.oath.com
 www.offerstrack.net
@@ -17315,27 +17370,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-acme-v02.api.letsencrypt.org
-cognito-idp.us-east-1.amazonaws.com
-api.letsencrypt.org
-api.pwnedpasswords.com
-r3.o.lencr.org
-o.lencr.org
-lencr.org
-codenotary.io
-api.codenotary.io
-main.codenotary.io
-analytics-api.home-assistant.io
-www.codenotary.com
-codenotary.com
-api.condenast.io
-condenast.io
-condenast.coral.coralproject.net
-coral.coralproject.net
-coralproject.net
-fcmtoken.googleapis.com
-firebaseperusertopics-pa.googleapis.com
-edgedl.gvt1.com
-gvt1.com
-updates.amazon.com
-location-services-measurements.s3-external-1.amazonaws.com
