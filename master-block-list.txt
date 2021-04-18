@@ -516,6 +516,7 @@ accesstrade.co.id
 accesstrade.net
 accountkit.com
 accounts.google.com
+accounts.livechatinc.com
 accounts.youtube.com
 accutics.net
 accuweather.com
@@ -4223,6 +4224,7 @@ brands.home-assistant.io
 brandwire.tv
 brassrule.com
 braun634.com
+brave-core-ext.s3.brave.com
 bravebone.com
 braze-hp.cdn.prismic.io
 braze-marketing-assets.s3.amazonaws.com
@@ -4525,6 +4527,7 @@ cdn-net.com
 cdn-preorder.com
 cdn-server.cc
 cdn-server.top
+cdn-settings.segment.com
 cdn-sic.33across.com
 cdn-sp-gcs.air.tv
 cdn-spurit.com
@@ -5513,6 +5516,7 @@ data.api.cnn.io
 data.cnn.com
 data.emb-api.com
 data.gc.apple.com
+data.iana.org
 datacamp.com
 dataconnector.corp.google.com
 dataconnector.google.com
@@ -8531,6 +8535,7 @@ iabusprivacy.pmc.com
 iadsdk.apple.com
 iadvize.com
 ian029dkl3osl930sian.club
+iana.org
 iasds01.com
 ib-ibi.com
 ib.adnxs.com
@@ -8732,6 +8737,7 @@ infusionsoft.app
 infusionsoft.com
 ingage.tech
 ingame.de
+ingest.sentry.io
 inibokep.best
 init-nk11-a.gc.apple.com
 init-nk11-b.gc.apple.com
@@ -10696,6 +10702,7 @@ o0bc.com
 o2online.de
 o2u.jp
 o333o.com
+o36975.ingest.sentry.io
 oa.google.com
 oadoi.org.herokudns.com
 oadts.com
@@ -12744,6 +12751,7 @@ secure.gravatar.com
 secure.imrworldwide.com
 secure.imrworldwide.com.fritz.com
 secure.insightexpressai.com
+secure.livechatinc.com
 secure.widget.cloud.opta.net
 secureaddisplay.com
 secureads.g.doubleclick.net
@@ -13242,6 +13250,7 @@ smoggysnakes.com
 smooch.io
 smoot.apple.com
 smopy.com
+smp-device-content.apple.com
 smrk.io
 smrtb.com
 sn.google.com
