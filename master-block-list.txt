@@ -2061,6 +2061,7 @@ app.donaldjtrump.com
 app.ecwid.com
 app.goo.gl
 app.link
+app.marsello.com
 app.matheranalytics.com
 app.optinmonster.test
 app.wizdom.ai
@@ -4670,6 +4671,7 @@ certona.net
 certs.securetrust.com
 cf-cpc-worker.pub-ocean-cloudflare-account.workers.dev
 cf-images.us-east-1.prod.boltdns.net
+cf.geekdo-static.com
 cf.google.com
 cf.videorolls.row.aiv-cdn.net
 cfgr2.com
@@ -5922,6 +5924,7 @@ drabsize.com
 dragonforms.com
 dragzebra.com
 drawservant.com
+draze.com
 drct2u.com
 dream.co.id
 dreamdata.cloud
@@ -6996,6 +6999,7 @@ fatwin.com
 faultycanvas.com
 faultyfowl.com
 faves.grow.me
+favorites-wishlist-cdn.shopstorm.com
 favoritlistan.se
 fay.chat
 fazenda.gov.br
@@ -7249,6 +7253,7 @@ foresee.com
 forgetfulflowers.com
 forkcdn.com
 formilla.com
+forms.soundestlink.com
 formsite.com
 formstack.com
 fortawesome.com
@@ -7457,6 +7462,7 @@ gdpr.gc.apple.com
 ge.google.com
 gedidigital.it
 geekculture.com
+geekdo-static.com
 geetest.com
 geilundsexy.com
 gelbe-liste.de
@@ -8501,6 +8507,7 @@ hypothes.is
 hystericalhelp.com
 hz.google.com
 i-mobile.co.jp
+i-p-c-s.org
 i-parcel.com
 i.233py.com
 i.bingparachute.com
@@ -8692,6 +8699,7 @@ inbenta.com
 inboundapi.com
 inboundgeo.com
 incapsula.com
+incartupsell.com
 incest-sex.com
 incindio.com
 includemodal.com
@@ -9715,6 +9723,7 @@ m.ntv.io
 m.o0bc.com
 m.optmnstr.com
 m.optmstr.com
+m.sevenreflections.com
 m.skimresources.com
 m.stripe.network
 m.teads.tv
@@ -10795,6 +10804,7 @@ omniconvert.com
 omnidesk.io
 omnikick.com
 omniscientspark.com
+omnisnippet1.com
 omnisrc.com
 omnitagjs.com
 omnivirt.com
@@ -12077,6 +12087,7 @@ revasia.com
 revcontent.com
 reviews.co.uk
 reviews.io
+reviewsonmywebsite.com
 revive-adserver.net
 reviveservers.com
 revjet.com
@@ -12152,6 +12163,7 @@ rn.google.com
 rnengage.com
 ro-ro.connect.facebook.com
 ro-ro.facebook.com
+ro.boldapps.net
 ro.google.com
 roadid.com
 robertdegroot.nl
@@ -12861,6 +12873,7 @@ sessions.exchange
 settings.crashlytics.com
 settings.services.mozilla.com
 setupad.com
+sevenreflections.com
 sex-smotret.ru
 sex4viet.com
 sexad.net
@@ -12934,6 +12947,7 @@ shopbreakfast.com
 shopconvert.com.br
 shopeemobile.com
 shopiapps.in
+shopify-simplemaps.s3.amazonaws.com
 shopify.com
 shopifyapps.com
 shopifycdn.com
@@ -12948,6 +12962,7 @@ shoppingminds.com
 shoppy.gg
 shoprunner.com
 shopsocially.com
+shopstorm.com
 shopsuite.com
 shoptarget.com.br
 shopvote.de
@@ -13358,6 +13373,7 @@ sortable.com
 sortext.com
 sortsummer.com
 soundcloud.com
+soundestlink.com
 sourcepoint.theroot.com
 southfront.org
 southpointcasino.com
@@ -13379,6 +13395,7 @@ spar-ics.com
 sparkasse.de
 sparklingnumber.com
 sparkmail.pl
+spcdn.incartupsell.com
 speakol.com
 speakpipe.com
 specialchem.com
@@ -13628,6 +13645,7 @@ static.ad.atdmt.com
 static.addtoany.com
 static.ads-twitter.com
 static.adsafeprotected.com
+static.afterpay.com
 static.ak.connect.facebook.com
 static.ak.facebook.com
 static.ak.facebook.com.edgesuite.net
@@ -16260,6 +16278,7 @@ www.directservices.it
 www.disqus.com
 www.disqusads.com
 www.doubleverify.com
+www.draze.com
 www.drip.com
 www.dstillery.com
 www.dwin2.com
@@ -16507,6 +16526,7 @@ www.optinmonster.com
 www.optinmonster.test
 www.optmnstr.com
 www.orbitalinsight.com
+www.orderlogicapp.com
 www.org.vn
 www.orionlabs.io
 www.osnova.io
@@ -16586,12 +16606,14 @@ www.sbs-ad.com
 www.scorecardresearch.com
 www.scroll.com
 www.sdkbox.com
+www.searchanise.com
 www.securedtouch.com
 www.segment.com
 www.segmentify.com
 www.serv0.com
 www.serve-sys.com
 www.servmetric.com
+www.sevenreflections.com
 www.shareaholic.net
 www.sharethrough.com
 www.shop.app
