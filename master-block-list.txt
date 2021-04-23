@@ -1,4 +1,3 @@
-
 0-courier.push.apple.com
 0-courier.sandbox.push.apple.com
 0-edge-chat.facebook.com
@@ -492,7 +491,6 @@ aboardlevel.com
 about.facebook.com
 aboutads.com
 aboutads.info
-aboutads.info
 aboutamazon.com
 abrankings.com
 abruptroad.com
@@ -804,7 +802,6 @@ addoor.net
 addroplet.com
 addsearch.com
 addsticky.com
-addthis.com
 addthis.com
 addthisedge.com
 addtoany.com
@@ -1599,7 +1596,6 @@ ageverify.co
 agilecrm.com
 agility.cnn.com
 agilone.com
-agkn.com
 agkn.com
 aglasem.co
 agoda.com
@@ -4686,6 +4682,7 @@ cf-cpc-worker.pub-ocean-cloudflare-account.workers.dev
 cf-images.us-east-1.prod.boltdns.net
 cf.geekdo-static.com
 cf.google.com
+cf.iadsdk.apple.com
 cf.videorolls.row.aiv-cdn.net
 cfgr2.com
 cfgr3.com
@@ -4754,7 +4751,6 @@ chick-fil-astage.com
 chickenracing.com
 chickensstation.com
 chicoryapp.com
-chicoryapp.com
 chiefcurrent.com
 chilipiper.com
 chiltepin.net
@@ -4807,6 +4803,8 @@ ck.page
 ckeditor.com
 ckies.net
 cl.google.com
+cl1.apple.com
+cl3.apple.com
 clario.us
 clarip.com
 clarity.ms
@@ -5148,6 +5146,7 @@ commentfreely.bitchute.com
 commerce.senate.gov
 commercialvalue.org
 commitchange.com
+commnat-cohort-gc.ess.apple.com
 commnat-cohort.gc.apple.com
 commnat-main-gc.ess.apple.com
 commnat-main.gc.apple.com
@@ -5602,7 +5601,6 @@ decoroustitle.com
 decoycreation.com
 deep.bi
 deepintent.com
-deepintent.com
 deezer.com
 def.devnano.com
 defectivesun.com
@@ -6019,7 +6017,6 @@ e-planning.video
 e-reading.pw
 e-volution.ai
 e.bingparachute.com
-e.chicoryapp.com
 e.chicoryapp.com
 e.convertkit.com
 e.doubleclick.net
@@ -6575,7 +6572,6 @@ empower.net
 emsecure.net
 emsservice.de
 emxdgt.com
-emxdgt.com
 emxdigital.com
 en-gb.facebook.com
 en-gb.th-th.fbjs.facebook.com
@@ -6783,6 +6779,7 @@ esolutionsgroup.ca
 esputnik.com
 esri.com
 esri.de
+ess.apple.com
 estat.com
 estately.net
 estoopsi.com
@@ -6861,7 +6858,6 @@ exchangesolutions.com
 exclusivebrass.com
 exdynsrv.com
 exe.io
-exelator.com
 exelator.com
 exitbee.com
 exitintel.com
@@ -7181,7 +7177,6 @@ flabcdn.com
 flagandcross.com
 flakyfeast.com
 flashb.id
-flashtalking.com
 flashtalking.com
 flashvd.com
 flattr.com
@@ -7537,7 +7532,6 @@ getbutton.io
 getcandid.com
 getcarro.com
 getchute.com
-getclicky.com
 getclicky.com
 getcreditone.com
 getdnsapi.net
@@ -8185,6 +8179,7 @@ gsp98-ssl.ls.origin-apple.com
 gsp99-ssl.ls.apple.com
 gsp99-ssl.ls.apple.com.akadns.com
 gsp99-ssl.ls.origin-apple.com
+gspe1-ssl.ls.apple.com
 gspe35-ssl.ls.apple.com
 gsspat.jp
 gsspcln.jp
@@ -8283,7 +8278,6 @@ hariken.co
 harri.com
 hatchbuck.com
 hatena.ne.jp
-havasedge.com
 havasedge.com
 hawk-assets.co.uk
 hawk.so
@@ -8469,7 +8463,6 @@ hr.google.com
 hrblock.com
 hrkgame.com
 hrworld.com
-hrworld.com
 hrzn-nxt.com
 hs-analytics.net
 hs-banner.com
@@ -8583,7 +8576,6 @@ ian029dkl3osl930sian.club
 iana.org
 iasds01.com
 ib-ibi.com
-ib-ibi.com
 ib.adnxs.com
 ib.google.com
 ibanbic.com
@@ -8660,7 +8652,6 @@ ij.google.com
 ik.google.com
 il.google.com
 iljmp.com
-iljmp.com
 illfatedsnail.com
 illiweb.com
 illustriousoatmeal.com
@@ -8733,7 +8724,6 @@ imtwjwoasak.com
 imu.nl
 in-appadvertising.com
 in.ftadsrv.com
-in.getclicky.com
 in.getclicky.com
 in.google.com
 inabsolor.com
@@ -8938,12 +8928,12 @@ ipredictive.com
 iprom.net
 ipromcloud.com
 ipromote.com
+ips.apple.com
 ipstack.com
 ipstatp.com
 ipv4.google.com
 ipv6.google.com
 iq.google.com
-iqm.com
 iqm.com
 iqmining.com
 ir-na.amazon-adsystem.com
@@ -9353,7 +9343,6 @@ kr.google.com
 kraftheinzcompany.com
 krankenkassennetz.de
 krxd.net
-krxd.net
 ks.google.com
 ksd-images.lt
 kt.google.com
@@ -9511,7 +9500,6 @@ lg.google.com
 lh.google.com
 li.google.com
 liadm.com
-liadm.com
 libchat.com
 libero.it
 libertystmedia.com
@@ -9532,7 +9520,6 @@ lightcushion.com
 lightinthebox.com
 lightningbasecdn.com
 lightwidget.com
-lijit.com
 lijit.com
 like-video.com
 likebtn.com
@@ -9654,7 +9641,6 @@ log.outbrainimg.com
 logbor.com
 loggly.com
 logicanalytics.io
-logicbuy.com
 logicbuy.com
 logicideas.media
 login.chinacloudapi.cn
@@ -9910,7 +9896,6 @@ mateti.net
 matheranalytics.com
 mathjax.org
 mathtag.com
-mathtag.com
 mathway.com
 matomo.cloud
 matterport.com
@@ -9965,11 +9950,9 @@ media-match.com
 media-verizon-dev.inq.com
 media.msg.dotomi.com
 media.net
-media.net
 media.rocketreach.co
 media.weather.com
 media01.eu
-media6degrees.com
 media6degrees.com
 mediaad.org
 mediaalpha.com
@@ -10099,7 +10082,6 @@ metroscubicos.com
 metv.com
 mf.google.com
 mfadsrvr.com
-mfadsrvr.com
 mfbcdn.net
 mfcdn.net
 mg.google.com
@@ -10197,7 +10179,6 @@ mmcdn.nl
 mmonline.io
 mmstat.com
 mmtro.com
-mmtro.com
 mn.google.com
 mo-space.space
 mo.google.com
@@ -10257,7 +10238,6 @@ montepio.pt
 montlusa.top
 montwam.top
 monu.delivery
-mookie1.com
 mookie1.com
 moonicorn.network
 moonmodule.com
@@ -10499,7 +10479,6 @@ nc.google.com
 nc.gov
 nc0.co
 ncaudienceexchange.com
-ncaudienceexchange.com
 nccgroup-webperf.com
 nch.com.au
 nclick.ru
@@ -10687,7 +10666,6 @@ npr.org
 nprapps.org
 npttech.com
 nq.google.com
-nr-data.net
 nr-data.net
 nr.google.com
 nrdp.nccp.netflix.com
@@ -10947,7 +10925,6 @@ opentrack.org
 opentracker.net
 openx.com
 openx.net
-openx.net
 openxcdn.net
 operationkettle.com
 ophan.co.uk
@@ -11071,7 +11048,6 @@ our.intern.facebook.com
 out-there-media.com
 outbound.io
 outbrain.com
-outbrain.com
 outbrainimg.com
 outd.org
 outdooractive.com
@@ -11089,7 +11065,6 @@ ow.google.com
 owlsr.us
 owltrack.com
 owncutone.com
-owneriq.net
 owneriq.net
 ownlocal.com
 ownpage.fr
@@ -11161,7 +11136,6 @@ pardot.com
 parenttown.com
 parfumo.de
 parrable.com
-parrable.com
 parsely.com
 parsimoniouspolice.com
 particlenews.com
@@ -11188,7 +11162,6 @@ payments-amazon.com
 paypal.com
 paypalobjects.com
 pb.google.com
-pbbl.co
 pbbl.co
 pbh-network.com
 pbs.twimg.com.akahost.net
@@ -11707,7 +11680,6 @@ publir.com
 publish-int.se
 publy.net
 pubmatic.com
-pubmatic.com
 pubmine.com
 pubocean.com
 pubstack.io
@@ -12018,7 +11990,6 @@ realwap.net
 realytics.net
 reamaze.com
 reason8.com
-reason8.com
 rebel.ai
 rebelsubway.com
 rec-engine.com
@@ -12153,7 +12124,6 @@ retailrocket.net
 retailrocket.ru
 retargetapp.com
 retargetly.com
-retargetly.com
 retentionrock.com
 retget.ru
 rev-stripe.com
@@ -12176,13 +12146,11 @@ reward2spot.com
 rewards.brave.com
 rewardstyle.com
 reznyc.com
-reznyc.com
 rezserver.com
 rezync.com
 rf.google.com
 rfdcontent.com
 rfhub.com
-rfihub.com
 rfihub.com
 rfihub.net
 rfksrv.com
@@ -12228,10 +12196,8 @@ rizzonelli.it
 rj.google.com
 rk.google.com
 rkdms.com
-rkdms.com
 rktch.com
 rl.google.com
-rlcdn.com
 rlcdn.com
 rlets.com
 rm.google.com
@@ -12484,7 +12450,6 @@ sb.scorecardresearch.com
 sbbanner.com
 sbird.xyz
 sbs-ad.com
-sc-static.net
 sc-static.net
 sc.google.com
 sc.iasds01.com
@@ -12796,7 +12761,6 @@ sdy.ai
 se.google.com
 seaboblit.com
 seadform.net
-seadform.net
 seamus.amazon.co.uk
 seamus.amazon.com
 seamus.amazon.de
@@ -12893,7 +12857,6 @@ selz.com
 selzstatic.com
 semantiqo.com
 semasio.net
-semasio.net
 semfs.engsvc.go.com
 semi-cod.com
 semknox.com
@@ -12944,7 +12907,6 @@ services.mozilla.com
 services.sap
 services.visualstudio.com
 servicetick.com
-serving-sys.com
 serving-sys.com
 serving1.net
 servingcdn.net
@@ -12999,7 +12961,6 @@ shareasale.com
 sharecare.com
 shared.global.fastly.net
 sharedid.org
-sharethis.com
 sharethis.com
 sharethis.mgr.consensu.org
 sharethrough.adnxs.com
@@ -13213,7 +13174,6 @@ simplesharebuttons.com
 simpleviewcms.com
 simplexcc.com
 simpli.fi
-simpli.fi
 simplisticnose.com
 simpo.io
 sinajs.cn
@@ -13247,7 +13207,6 @@ sitename.disqus.com
 siteoid.com
 sitescdn.net
 sitescout.com
-sitescout.com
 sitescrack.site
 sitesearch360.com
 sitesell.com
@@ -13270,7 +13229,6 @@ skatepro.com
 skavaone.com
 sketchapp.com
 ski.m.facebook.com
-skimresources.com
 skimresources.com
 skoda-auto.com
 skplanet.com
@@ -13426,7 +13384,6 @@ soggysponge.com
 sohatv.vn
 sohucs.com
 soicos.com
-sojern.com
 sojern.com
 sok.fi
 sok.m.facebook.com
@@ -13620,7 +13577,6 @@ srigbxxv.com
 srt.m.facebook.com
 srv-2019-01-31-21.pixel.parsely.com
 srv.stackadapt.com
-srv.stackadapt.com
 srviral.com
 srvmath.com
 srvtrck.com
@@ -13678,7 +13634,6 @@ stat.media
 stat24.com
 statad.ru
 statcjs.com
-statcounter.com
 statcounter.com
 state.nj.us
 statefarm.com
@@ -13753,6 +13708,7 @@ static.fdel11-1.fna.fbcdn.net
 static.fsea1-1.fna.fbcdn.net
 static.gc.apple.com
 static.hotjar.com
+static.ips.apple.com
 static.klaviyo.com
 static.kqzyfj.com
 static.olark.com
@@ -13828,7 +13784,6 @@ steadycdn.com
 steampowered.com
 steelhouse.com
 steelhousemedia.com
-steelhousemedia.com
 steepsquirrel.com
 steepto.com
 stellar.expert
@@ -13856,7 +13811,6 @@ stormberg.m.facebook.com
 stormyachiever.com
 stormyshock.com
 stormysponge.com
-storygize.net
 storygize.net
 stoveseashore.com
 str.rise-ai.com
@@ -13942,6 +13896,7 @@ supersaa.fi
 supersonic.com
 supersonicads.com
 supplyframe.com
+support-sp.apple.com
 support.okta.com
 support4sites.net
 supporthero.io
@@ -13981,6 +13936,7 @@ swoop.com
 swordgoose.com
 swpcld.com
 swpsvc.com
+swscan.apple.com
 sx.google.com
 sxp.smartclip.net
 sy.google.com
@@ -14077,7 +14033,6 @@ tanx.com
 taobao.con
 taostar.com
 tapad.com
-tapad.com
 tapatalk-cdn.com
 tapatalk.com
 tapestry.tapad.com
@@ -14110,7 +14065,6 @@ tastefulsongs.com
 tastelesstrees.com
 tatdunsit.com
 tawdryson.com
-tawk.to
 tawk.to
 taxel.jp
 tb.google.com
@@ -14291,7 +14245,6 @@ threechurch.com
 thrive.today
 throattrees.com
 thron.com
-thrtle.com
 thrtle.com
 thuiswinkel-cdn.org
 thumbs-share.com
@@ -14666,7 +14619,6 @@ turboadv.com
 turbolion.io
 turbopix.fr
 turn.com
-turn.com
 turn.gc.apple.com
 turner.com
 turnto.com
@@ -14695,7 +14647,6 @@ twitter.com
 twpasol.com
 tx.google.com
 ty.google.com
-tynt.com
 tynt.com
 typeform.com
 typekit.com
@@ -14748,7 +14699,6 @@ ug.google.com
 ugc.bazaarvoice.com
 ugdturner.com
 ughhimtoy.com
-ugo.com
 ugo.com
 uh.google.com
 ui-avatars.com
@@ -14813,7 +14763,6 @@ unknowntray.com
 unless.com
 unoadsrv.com
 unpkg.com
-unrulymedia.com
 unrulymedia.com
 unsplash.com
 untd.com
@@ -15296,7 +15245,6 @@ w.usabilla.com
 w3.cdn.anvato.net
 w3apps.co
 w3counter.com
-w55c.net
 w55c.net
 wa.google.com
 waitrose.com
