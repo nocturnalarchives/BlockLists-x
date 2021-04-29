@@ -17462,6 +17462,14 @@ zynbit.com
 zz.google.com
 zzvid.com
 testing.agency
-
-
-
+cf-timedtext.aux.pv-cdn.net
+api.21ninety.com
+21ninety.com
+66c37c86af1b42cd94b050774081e5e2.js.ubembed.com
+cdn.p-n.io
+66c37c86af1b42cd94b050774081e5e2.js.ubembed.com
+ubembed.com
+www.googleoptimize.com
+googleoptimize.com
+browser.sentry-cdn.com
+sentry-cdn.com
