@@ -17500,3 +17500,4 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
+cf-timedtext.aux.pv-cdn.net
