@@ -112,6 +112,7 @@
 21.taskassist-pa.clients.google.com
 21byte.de
 21m0ezw6fosyw.cloudfront.net
+21ninety.com
 21pron.com
 21sme.com
 22.client-channel.google.com
@@ -293,6 +294,7 @@
 65twenty.com
 66.client-channel.google.com
 66.taskassist-pa.clients.google.com
+66c37c86af1b42cd94b050774081e5e2.js.ubembed.com
 67.client-channel.google.com
 67.taskassist-pa.clients.google.com
 68.client-channel.google.com
@@ -1738,6 +1740,7 @@ amazon-adsystem.com
 amazon-dss.com
 amazon.co.uk
 amazon.de
+amazon.dev
 amazon.jobs
 amazonaws.com
 amazoncrl.com
@@ -1987,6 +1990,7 @@ api-migration.weather-perf.akadns.net
 api-private.atlassian.com
 api-read.facebook.com
 api-v3.tinypass.com
+api.21ninety.com
 api.actionbutton.co
 api.altmetric.com
 api.atlassian.com
@@ -2004,6 +2008,7 @@ api.content-ad.net
 api.convergepay.com
 api.drift.com
 api.facebook.com
+api.ffx.io
 api.flashvd.com
 api.foxnews.com
 api.grow.me
@@ -2016,6 +2021,7 @@ api.levelaccess.net
 api.livechatinc.com
 api.nextgen.guardianapps.co.uk
 api.no
+api.nytimes.com
 api.oadoi.org
 api.oadoi.org.herokudns.com
 api.okendo.io
@@ -2068,6 +2074,7 @@ app.link
 app.marsello.com
 app.matheranalytics.com
 app.optinmonster.test
+app.termly.io
 app.wizdom.ai
 appadhoc.com
 appads.com
@@ -2385,6 +2392,7 @@ autopilothq.com
 autopush.prod.mozaws.net
 autoscout24.ch
 autosweet.com
+aux.pv-cdn.net
 av.google.com
 av28.com
 avaamo.com
@@ -4306,6 +4314,7 @@ bufferapp.com
 bughd.com
 bugherd.com
 bugreplay.com
+bugs.firebat.prime-video.amazon.dev
 bugsee.com
 bugsense.com
 bugsnag.com
@@ -4590,6 +4599,7 @@ cdn.omnivirt.com
 cdn.onesignal.com
 cdn.onthe.io
 cdn.otstatic.com
+cdn.p-n.io
 cdn.parsely.com
 cdn.pbgrd.com
 cdn.permutive.com
@@ -4682,6 +4692,8 @@ certona.net
 certs.securetrust.com
 cf-cpc-worker.pub-ocean-cloudflare-account.workers.dev
 cf-images.us-east-1.prod.boltdns.net
+cf-timedtext.aux.pv-cdn.net
+cf-trickplay.aux.pv-cdn.net
 cf.geekdo-static.com
 cf.google.com
 cf.iadsdk.apple.com
@@ -5144,6 +5156,7 @@ comm100vue.com
 commander1.com
 commandersact.com
 commandwalk.com
+comment.youmaker.com
 commentfreely.bitchute.com
 commerce.senate.gov
 commercialvalue.org
@@ -6432,6 +6445,7 @@ education.gouv.fr
 edugrampromo.com
 edvfwlacluo.com
 ee.google.com
+eera-ecer.de
 eero.com
 ef.google.com
 effectivemeasure.net
@@ -6813,6 +6827,7 @@ events.bouncex.net
 events.brightline.tv
 events.browsiprod.com
 events.mapbox.com
+events.prod.bugs.firebat.prime-video.amazon.dev
 events.tremorhub.com
 events.whisk.com
 everactive-media.s3.amazonaws.com
@@ -6924,6 +6939,7 @@ extremetech.com
 exuberantsoda.com
 ey.google.com
 eyedemand.com
+eyeo.to
 eyeonx.ch
 eyeota.com
 eyeota.net
@@ -7108,6 +7124,7 @@ ferank.eu
 fervortracer.com
 ff.google.com
 ffcdn.streamrail.net
+ffx.io
 ffxpub.com
 fg.google.com
 fg8dgt.com
@@ -7151,6 +7168,7 @@ firebase-settings.crashlytics.com
 firebase.com
 firebaseapp.com
 firebaseperusertopics-pa.googleapis.com
+firebat.prime-video.amazon.dev
 firebrandtech.com
 firecall.tv
 firecast.tv
@@ -8239,6 +8257,7 @@ gxxcbj.com
 gy.google.com
 gyantts.com
 gyazo.com
+gz-data.com
 gz.google.com
 h-ams.net
 h-bid.com
@@ -8732,6 +8751,7 @@ inabsolor.com
 inbenta.com
 inboundapi.com
 inboundgeo.com
+incapdns.net
 incapsula.com
 incartupsell.com
 incest-sex.com
@@ -9129,6 +9149,7 @@ js-sec.indexww.com
 js.ad-score.com
 js.agkn.com
 js.braintreegateway.com
+js.chargebee.com
 js.createsend1.com
 js.driftt.com
 js.google.com
@@ -9421,6 +9442,7 @@ launcher.spot.im
 launchpress.com
 lavender64369.com
 laybuy.com
+lb.benchmarkemail.com
 lb.google.com
 lbbcdn.com
 lblw.cloud
@@ -10054,6 +10076,7 @@ merklesearch.com
 mes4.gtsgapps.com
 mesosphere.com
 messagenovice.com
+messaging-notifications.api.nytimes.com
 messenger.com
 messiupal.com
 mesu.apple.com
@@ -10833,6 +10856,7 @@ ola.godaddy.com
 olark.com
 olineman.pro
 oliv.fr
+oloc7.x.incapdns.net
 olocdn.net
 olx-st.com
 olxcdn.com
@@ -11048,6 +11072,7 @@ ottomdisede.club
 ou.google.com
 ouo.io
 oup.com
+ouptag.scholarlyiq.com
 our.intern.facebook.com
 out-there-media.com
 outbound.io
@@ -11522,6 +11547,7 @@ prfct.cc
 prfct.co
 pricespider.com
 priceza.com
+prime-video.amazon.dev
 primecaster.net
 primecurveslive.com
 primed.io
@@ -11555,8 +11581,10 @@ prod-use.perf-serving.com
 prod.adspsp.com
 prod.ally.ac
 prod.amazoncrl.com
+prod.benchmarkemail.com
 prod.bidr.io
 prod.boltdns.net
+prod.bugs.firebat.prime-video.amazon.dev
 prod.experiment.routing.cloudfront.aws.a2z.com
 prod.facebook.com
 prod.mozaws.net
@@ -11726,6 +11754,7 @@ pushsar.com
 pushwoosh.com
 puu.sh
 puzzlingfall.com
+pv-cdn.net
 pv.google.com
 pw.google.com
 pwnedpasswords.com
@@ -12432,6 +12461,7 @@ samplicio.us
 samsung.com
 samsungacr.com
 samsungelectronicsamericainc.demdex.net
+samsungqbe.com
 sanalytics.disneyplus.com
 sancdn.net
 sandbox-st11-1.gc.apple.com
@@ -12460,6 +12490,7 @@ sc-static.net
 sc.google.com
 sc.iasds01.com
 sc.omtrdc.net
+sc.youmaker.com
 sca1b.amazontrust.com
 scaledrone.com
 scaleflex.it
@@ -12752,6 +12783,7 @@ scrollmagic.io
 scrollservice.com
 scrubsky.com
 scrubswim.com
+scs.samsungqbe.com
 scupio.com
 scw.systems
 sd.google.com
@@ -12923,6 +12955,7 @@ sesameworkshop.org
 sessioncam.com
 sessions.bugsnag.com
 sessions.exchange
+sessions.prod.bugs.firebat.prime-video.amazon.dev
 settings.crashlytics.com
 settings.services.mozilla.com
 setupad.com
@@ -13867,6 +13900,7 @@ stylitics.com
 styria.hr
 su.google.com
 sub2tech.com
+subs.youmaker.com
 subscribe.washingtonpost.com
 subscribers.com
 subscription-assets.timeinc.com
@@ -14163,6 +14197,7 @@ test-app.link
 test.consensu.org
 test.mgr.consensu.org
 test.quantcast.mgr.consensu.org
+testing.agency
 texas.gov
 textopus.nl
 texturetrick.com
@@ -16348,6 +16383,7 @@ www.easy-ads.com
 www.easyads.bg
 www.echodyne.com
 www.eclickz.com
+www.eera-ecer.de
 www.eero.com
 www.electronic.us
 www.eloqua.com
@@ -16413,6 +16449,7 @@ www.googleadservices.com
 www.googleadservices.org
 www.googleadservices.ru
 www.googleadsserving.cn
+www.googleoptimize.com
 www.googletagmanager.com
 www.googletagservices.com
 www.gotenna.com
@@ -16809,6 +16846,7 @@ www.yeahmobi.com
 www.yoads.net
 www.yoast.com
 www.yomedia.vn
+www.youmaker.com
 www.younetmedia.com
 www.youtubepp.com
 www.ysense.com
@@ -16832,6 +16870,7 @@ x.bidswitch.net
 x.bingparachute.com
 x.doubleclick.net
 x.facebook.com
+x.incapdns.net
 x.mail.bonnier-subscriptions.com
 x.moatads.com
 x.ntv.io
@@ -17461,15 +17500,3 @@ zy.google.com
 zynbit.com
 zz.google.com
 zzvid.com
-testing.agency
-cf-timedtext.aux.pv-cdn.net
-api.21ninety.com
-21ninety.com
-66c37c86af1b42cd94b050774081e5e2.js.ubembed.com
-cdn.p-n.io
-66c37c86af1b42cd94b050774081e5e2.js.ubembed.com
-ubembed.com
-www.googleoptimize.com
-googleoptimize.com
-browser.sentry-cdn.com
-sentry-cdn.com
